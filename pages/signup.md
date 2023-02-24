@@ -1,7 +1,7 @@
 ---
 title: Sign up to get hacking!
 subtitle: ""
-metaDescription: Sign-up for free to participate in unitaryhack 2023
+metaDescription: Sign-up for free to participate in unitaryHACK 2023
 date: 2023-02-24
 permalink: /signup/index.html
 eleventyNavigation:

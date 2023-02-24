@@ -31,11 +31,11 @@ Absolutely!
 You are free to work on teams, just make sure that everyone's username is mentioned in the pull request!
 Please note that the bounties are awarded per solution/pull request and it is up to the team to split the money.
 
-If you are looking for a team, please check out the `#find-a-team` channel on the [Discord](http://discord.unitary.fund) or post on your favorite social media with the hashtag `#unitaryhack`.
+If you are looking for a team, please check out the `#find-a-team` channel on the [Discord](http://discord.unitary.fund) or post on your favorite social media with the hashtag `#unitaryHACK`.
 
 ### Q. How difficult is this hackathon?
 
-Contributors with any skill level can participate in unitaryhack. We have worked with maintainers to make sure there are issues available for all levels of experience, both for quantum-related as well as simply open-source-related contributions.
+Contributors with any skill level can participate in unitaryHACK. We have worked with maintainers to make sure there are issues available for all levels of experience, both for quantum-related as well as simply open-source-related contributions.
 If you are having trouble finding issues you want to work on, be sure to ask on the [Discord](http://discord.unitary.fund) and the organizing team can brainstorm with you.
 
 ### Q. What are qualifying pull requests?

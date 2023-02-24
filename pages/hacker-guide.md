@@ -1,6 +1,6 @@
 ---
 title: Hacker Guide
-metaDescription: Helpful information for hackers participating in unitaryhack
+metaDescription: Helpful information for hackers participating in unitaryHACK
 date: 2023-02-24
 permalink: /hacker-guide/index.html
 eleventyNavigation:
@@ -49,7 +49,7 @@ You can find folks from the Unitary Fund to ask about rules, as well as maintain
 
 Once you have found a [project]({{ '/projects/' | url }}) you want to work on, find an issue on that project you want to lend a hand on.
 This could be one of the special bountied issues (meaning if you submit a maintainer accepted solution for we will send you CASH), or any other issue on that repo.
-Pay special attention to issues tagged unitaryhack as they are ones the project maintainers have flagged as particularly good for contest participants to tackle.
+Pay special attention to issues tagged unitaryHACK as they are ones the project maintainers have flagged as particularly good for contest participants to tackle.
 
 > If you have questions while working on the issue always feel free to ping folks on the Discord on the #hack-help channel.
 
@@ -66,9 +66,9 @@ If you want to talk to someone in real time about your contribution, we got ya c
 Once you have a good solution to the issue, and have checked out the project's contributing guide (if they have one), you are ready to make your pull request or PR.
 Check out the guides above if you are not familiar with Git or GitHub, or if you run into issues making the contribution, just ask on the [Unitary Fund discord!](http://discord.unitary.fund)
 
-> Make sure that you put `[unitaryhack]` in the title of your PR so the bots can find your contributions and make sure you get credit! You can additionally use the #share-your-hack channel on discord.
+> Make sure that you put `[unitaryHACK]` in the title of your PR so the bots can find your contributions and make sure you get credit! You can additionally use the #share-your-hack channel on discord.
 
 ## 🎉 After the Hack 🎉
 
-Show off your digital or IRL swag and check out what everyone else has done on the [Discord](http://discord.unitary.fund), [Twitter](https://twitter.com/search?q=%23unitaryhack&src=typed_query&f=top), and [GitHub](https://github.com/search?q=unitaryhack)!
+Show off your digital or IRL swag and check out what everyone else has done on the [Discord](http://discord.unitary.fund), [Twitter](https://twitter.com/search?q=%23unitaryHACK&src=typed_query&f=top), and [GitHub](https://github.com/search?q=unitaryHACK)!
 If you won any bounties or swag we will be in touch via email, so please make sure you [sign up]({{ '/signup/' | url }}) so we can connect your GitHub username to your contact info.

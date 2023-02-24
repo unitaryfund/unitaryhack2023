@@ -3,7 +3,7 @@ layout: layouts/results.njk
 title: Hackathon results
 date: 2023-02-24
 permalink: /results/index.html
-metaDescription: Daily results of the unitaryhack hackathon
+metaDescription: Daily results of the unitaryHACK hackathon
 subtitle:
 emoji:
 eleventyNavigation:

@@ -1,7 +1,7 @@
 <figure>
 <img style="max-width: 60%;
         height: auto; margin: auto;
-  display: block;" src="./static/img/board-logo.png" alt="unitaryhack 2022" />
+  display: block;" src="./static/img/board-logo.png" alt="unitaryHACK 2022" />
 <figcaption style="max-width: 60%;
         height: auto; margin: auto;
   display: block;font-size:.8em">

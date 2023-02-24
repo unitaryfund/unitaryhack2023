@@ -1,6 +1,6 @@
 ---
 title: Project Maintainer Guide
-metaDescription: Helpful information for project maintainers participating in unitaryhack
+metaDescription: Helpful information for project maintainers participating in unitaryHACK
 date: 2023-02-24
 permalink: /project-guide/index.html
 eleventyNavigation:
@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 4
 ---
 
-<!-- ### Unitary Fund invites OSS project maintainers and owners to participate in unitaryhack, one of the largest quantum open source hackathons! -->
+<!-- ### Unitary Fund invites OSS project maintainers and owners to participate in unitaryHACK, one of the largest quantum open source hackathons! -->
 
 Our goal at the Unitary Fund is to build a quantum technology ecosystem that benefits the most people.
 That starts by supporting and growing the great ecosystem of projects already out there that is maintained by amazing folks like _you_.
@@ -30,7 +30,7 @@ We have some outlines below for what you can expect before and during the event,
 
 ## ⌚ Before the Hack ⌚
 
-1. Add the `unitaryhack` to the [list of topics for your repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository) and review/update the `good first issue` tag.
+1. Add the `unitaryHACK` to the [list of topics for your repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository) and review/update the `good first issue` tag.
 2. Identify if there are any issues you want to put a bounty on to specifically encourage participants to tackle them. Tag the issues on your projects you would like to put bounties with `unitaryhack-bounty`. We are looking for ~4 issues for each project (totally can be more or less, just a place to start) of a variety of difficulty levels.
 3. Make sure you have `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` at the root of your repo (or similar) so folks can learn how they should make their contributions to make your life easy.
 4. Make a PR to [this repo](https://github.com/unitaryfund/unitaryhack) adding your project to the [projects directory](https://github.com/unitaryfund/unitaryhack/tree/main/projects) list with a new markdown file for each project containing:
