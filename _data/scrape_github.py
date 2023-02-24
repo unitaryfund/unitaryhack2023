@@ -1,25 +1,50 @@
-# -*- coding: utf-8 -*-
-import github
+import datetime
 import json
 import os
-import datetime
-import frontmatter
-from urllib import parse
-from deepdiff import DeepDiff
 import pprint
+from urllib import parse
+
+import frontmatter
+import github
+from deepdiff import DeepDiff
 
 # using an access token
-g = github.Github(os.getenv('GITHUB_TOKEN'))
+g = github.Github(os.getenv("GITHUB_TOKEN"))
 
 project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
-pr_keys = ['number', 'state', 'title', 'created_at', 'merged_at',
-          'closed_at', 'assignees', 'requested_reviewers', 'draft']
-issue_keys = ['number', 'state', 'title', 'created_at', 'labels',
-             'closed_at', 'assignees', 'closed_by']
-repo_keys = ['name', 'full_name', 'html_url', 'description', 'language', 'forks_count', 'open_issues_count',
-             'subscribers_count']
+pr_keys = [
+    "number",
+    "state",
+    "title",
+    "created_at",
+    "merged_at",
+    "closed_at",
+    "assignees",
+    "requested_reviewers",
+    "draft",
+]
+issue_keys = [
+    "number",
+    "state",
+    "title",
+    "created_at",
+    "labels",
+    "closed_at",
+    "assignees",
+    "closed_by",
+]
+repo_keys = [
+    "name",
+    "full_name",
+    "html_url",
+    "description",
+    "language",
+    "forks_count",
+    "open_issues_count",
+    "subscribers_count",
+]
 
 
 def filter_info(keys, data):
@@ -29,7 +54,7 @@ def filter_info(keys, data):
 
 def to_json_serializable(obj):
     if isinstance(obj, datetime.datetime):
-        return obj.strftime('%d/%m/%Y %H:%M:%S')
+        return obj.strftime("%d/%m/%Y %H:%M:%S")
     elif isinstance(obj, github.NamedUser.NamedUser):
         return obj.login
     return obj
@@ -42,9 +67,11 @@ for filename in os.listdir(project_path):
         p = frontmatter.load(os.path.join(project_path, filename))
         projects[p["title"]] = p.metadata
         projects[p["title"]]["full_title"] = (
-            parse.urlparse(p["project_url"]).path).strip("/")
-        projects[p["title"]]["date"] = (
-            projects[p["title"]]["date"]).strftime('%d/%m/%Y %H:%M:%S')
+            parse.urlparse(p["project_url"]).path
+        ).strip("/")
+        projects[p["title"]]["date"] = (projects[p["title"]]["date"]).strftime(
+            "%d/%m/%Y %H:%M:%S"
+        )
 
 # Results for a project should look like this:
 #
@@ -78,12 +105,15 @@ for project, meta in projects.items():
     meta.update(filter_info(repo_keys, project_data.__dict__["_rawData"]))
     print(f"Added {project} repo data")
     # Get the PRs for the repo
-    prs = project_data.get_pulls(sort='created')
+    prs = project_data.get_pulls(sort="created")
     print(f"Loaded {project} PR data")
     # Add the PRs with the hackathon tag to the projects dict
     [print(pr.__dict__["_rawData"]) for pr in prs if any(x in pr.title for x in tags)]
-    meta["uh_prs"] = [(filter_info(pr_keys, pr.__dict__["_rawData"]))
-                      for pr in prs if any(x in pr.title for x in tags)]
+    meta["uh_prs"] = [
+        (filter_info(pr_keys, pr.__dict__["_rawData"]))
+        for pr in prs
+        if any(x in pr.title for x in tags)
+    ]
     for pr in meta["uh_prs"]:
         pr["assignees"] = [l["login"] for l in pr["assignees"]]
     print(f"Added {project} PR data")
@@ -91,26 +121,30 @@ for project, meta in projects.items():
     if "bounties" in meta:
         for bounty in meta["bounties"]:
             issue_data = project_data.get_issue(bounty["issue_num"])
-            bounty.update(filter_info(
-                issue_keys, issue_data.__dict__["_rawData"]))
+            bounty.update(filter_info(issue_keys, issue_data.__dict__["_rawData"]))
             bounty["labels"] = [l["name"] for l in bounty["labels"]]
             bounty["assignees"] = [l["login"] for l in bounty["assignees"]]
             print(f"updated {project} bounty # { bounty['issue_num'] }")
 
 print("Generating the change file...")
 
-with open( "gh.json", "r") as read_file:
-    old_projects = {project["title"] : project for project in json.load(read_file)["projects"]}
-with open(f'logs/{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', 'wt') as out:
-    print(f"Changes to unitaryHACK results\nupdated {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n--------------------\n"+
-      str(DeepDiff(old_projects, projects).pretty())+
-      "\n\nFull Details:\n--------------------", file=out)
-    pprint.pprint(DeepDiff(old_projects, projects),indent=2, stream=out)
+with open("gh.json", "r") as read_file:
+    old_projects = {
+        project["title"]: project for project in json.load(read_file)["projects"]
+    }
+with open(f'logs/{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', "wt") as out:
+    print(
+        f"Changes to unitaryHACK results\nupdated {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n--------------------\n"
+        + str(DeepDiff(old_projects, projects).pretty())
+        + "\n\nFull Details:\n--------------------",
+        file=out,
+    )
+    pprint.pprint(DeepDiff(old_projects, projects), indent=2, stream=out)
 
 
 print("Exporting scraped data...")
 with open("gh.json", "w") as f:
-    json.dump({"projects" : list(projects.values())}, f)
+    json.dump({"projects": list(projects.values())}, f)
 
 print("Done! ♥")
 
