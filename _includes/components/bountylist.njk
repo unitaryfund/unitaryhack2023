@@ -1,0 +1,61 @@
+<section>
+  <div class="">
+    {% for project in projectlist %}
+        <h2>
+          <div class="" >
+            {% if project.title %}
+            <span class="project-card__emoji">{{ project.emoji }}</span>
+            {% endif %}
+            {% if project.title %}
+              <a  href="/projects/{{ project.title | slugify }}">{{ project.title }}</a>
+            {% else %}
+              Untitled
+            {% endif %}
+          </div>
+        </h2>
+        {% if project.bounties %}
+        <ul style="list-style-type:square">
+          {% for issue in project.bounties %}
+            {% if issue.state == 'closed' %}         
+            <li><a  href="{{project.project_url}}/issues/{{issue.number}}" rel="issue" style="text-decoration:line-through;">${{ issue.value }} | {{issue.name}}</a></li>
+            {% else %}
+            <li><a  href="{{project.project_url}}/issues/{{issue.number}}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li> 
+            {% endif %}          
+          {% endfor %}
+        </ul>
+        {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+
+{# <section>
+  <div class="project-grid">
+    <h1>HI</h1>
+    {% for repo in gh_data.projects %}
+      <div class="project-card" 
+      onclick="window.location.href='{{ repo.url | url }}';"
+      style="cursor:pointer;"
+      {% if repo.url == url %} data-current="current item"{% endif %}>
+        <h4>
+          <div class="project-card__title" >
+              {{ repo.title }}
+          </div>
+        </h4>
+        {% if repo.summary %}
+          <p>
+            {{ repo.summary }}
+          </p>
+        {% endif %}
+        {% if repo.bounties %}
+          <p class="tag-list">
+            {% for bounty in repo.bounties %}
+              {% set bountyUrl %}{{repo.project_url}}/issues/{{ bounty.number }}/{% endset %}
+              <a class="tag" href="{{ bountyUrl | url }}" rel="bounty">${{ bounty.value }} | {{bounty.name}}</a>
+            {% endfor %}
+          </p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</section> #}

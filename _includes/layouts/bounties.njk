@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+section: projects
+---
+<div class="page-container">
+  <h1>{{title}}</h1>
+  <hr>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+  
+  {{ layoutContent | safe }}
+
+  {% set projectlist = gh.projects %}
+  {% include "components/bountylist.njk" %}
+</div>

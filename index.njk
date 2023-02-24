@@ -1,14 +1,56 @@
 ---
 layout: layouts/base.njk
 section: home
-title: unitaryHACK 2023
+pagination:
+    data: collections.project
+    size: 4
+    alias: projects
 ---
 <div class="home-page">
-  <div class="center">
-    <h1>unitaryHACK 2023!!!</h1>
-  </div>
-  <h2>Contribute to the open quantum ecosystem, level your skills, and get rewarded!</h2>
+  <div class="home-page__bg-square"></div>
+  <div class="hero">
+    <div class="hero__col">
+      <image 
+        class="hero__image shadow"
+        src="{% if home.image %}{{ home.image }}{% else %}https://source.unsplash.com/random/600x600{% endif %}"
+        alt="{{ home.image_alt }}"
+        width="500px"
+        height="500px"
+        loading="lazy"></div>
+      <div class="hero__col">
+        <h1 class="hero__title ">{{ home.title }}</h1>
+        {# gradient-text #}
+        {% if home.subtitle %}
+          <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
+        {% endif %}
+        <button class="btn hero_btn" onclick="window.location.href='/signup/index.html';">PRESS START to get hacking!</button>
+      </div>
+    </div>
 
-  <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-  <iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrKvcL9mtkuWJmg6?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="2223" style="background: transparent; border: 1px solid #ccc;"></iframe>
+    <hr>
+    <h1>Recently added projects:</h1>
+    <hr>
+    {% set projectlist = projects %}
+    {% set show_postslist_tags = true %}
+    {% include "components/projectlist.njk" %}
+    <nav>
+      <a href="{{ '/projects/' | url }}" class="tag">See all projects ▶</a>
+    </nav>
+
+    <h2>Thanks so much to all the unitaryHACK supporters! 🙏</h2>
+    <ul style="list-style-type:square">
+      <li>
+        <a href="https://azure.microsoft.com/it-it/services/quantum/">Microsoft Azure Quantum</a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/">DoraHacks</a>
+      </li>
+      <li>
+        <a href="https://www.zapatacomputing.com/">Zapata Computing</a>
+      </li>
+      <li>
+        <a href="https://unitary.fund/">Unitary Fund</a> and its members, including <a href="https://www.ibm.com/quantum">IBM</a>, <a href="https://www.accenture.com/us-en/services/technology/quantum-computing-services">Accenture</a>, <a href="https://www.xanadu.ai/">Xanadu</a>, <a href="https://ionq.com/">IonQ</a>, <a href="https://www.bcg.com/">Boston Consulting Group</a>, <a href="https://pasqal.io/">Pasqal</a>, <a href="https://www.meetiqm.com/">IQM</a>, <a href="https://dorahacks.io/">DoraHacks</a>, and <a href="https://agnostiq.ai/">Agnostiq</a>
+      </li>
+    </ul>
+  </div>
 </div>

@@ -1,4 +1,12 @@
-# UnitaryHACK 2023!!
+<figure>
+<img style="max-width: 60%;
+        height: auto; margin: auto;
+  display: block;" src="./static/img/board-logo.png" alt="unitaryhack 2022" />
+<figcaption style="max-width: 60%;
+        height: auto; margin: auto;
+  display: block;font-size:.8em">
+</figcaption>
+</figure>
 
 Hold onto your seats, unitaryHACK is back!
 Coming to a computer near you May 26--Jun 13.
