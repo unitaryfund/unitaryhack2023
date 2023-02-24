@@ -1,11 +1,13 @@
 <figure>
-<img style="max-width: 60%;
-        height: auto; margin: auto;
-  display: block;" src="./static/img/board-logo.png" alt="unitaryHACK 2022" />
-<figcaption style="max-width: 60%;
-        height: auto; margin: auto;
-  display: block;font-size:.8em">
-</figcaption>
+  <img style="max-width: 60%;
+          height: auto; margin: auto;
+          display: block;"
+      src="./static/img/board-logo.png"
+      alt="unitaryHACK 2023" />
+  <figcaption style="max-width: 60%;
+                height: auto; margin: auto;
+                display: block;font-size:.8em">
+  </figcaption>
 </figure>
 
 Hold onto your seats, unitaryHACK is back!
