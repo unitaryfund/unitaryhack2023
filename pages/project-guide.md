@@ -45,7 +45,7 @@ We have some outlines below for what you can expect before and during the event,
 
 To make sure that everyone can participate in the hackathon, we encourage project maintainers to tag a variety of issues that may or may not include quantum content, may or may not require Dev Ops skills, etc. We understand projects can be very targeted so if this is not possible that's totally fine! Our goal is to help connect eager and skilled contributors to your projects to help make the quantum open source ecosystem better 💖
 
-If you have any questions/comments/suggestions for this event we would love to hear from you, just send us an email at [sarah@unitary.fund](mailto:sarah@unitary.fund?subject=[GitHub]%20Source%20Han%20Sans)!
+If you have any questions/comments/suggestions for this event we would love to hear from you, just send us an email at [hack@unitary.fund](mailto:hack@unitary.fund)!
 
 ## 🔨 During the Hack 🔨
 

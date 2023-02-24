@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 5
 ---
 
-> If you have other questions that are not covered here or in the [rules]({{ '/rules/' | url }}), please feel free to either ask on `#hack-help` on our [Discord](http://discord.unitary.fund) or [send an email](mailto:sarah@unitary.fund) to the organizing team.
+> If you have other questions that are not covered here or in the [rules]({{ '/rules/' | url }}), please feel free to either ask on `#hack-help` on our [Discord](http://discord.unitary.fund) or [send an email](mailto:hack@unitary.fund) to the organizing team.
 
 ### Q. When is the hackathon, and is there a registration deadline?
 
