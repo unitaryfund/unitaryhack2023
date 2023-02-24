@@ -3,7 +3,7 @@ section: faq
 title: Frequently Asked Questions
 subtitle:
 metaDescription: Helpful information about the Unitary Fund's 2023 hackathon
-date: 2022-03-09
+date: 2023-02-24
 permalink: /faq/index.html
 eleventyNavigation:
   key: FAQ

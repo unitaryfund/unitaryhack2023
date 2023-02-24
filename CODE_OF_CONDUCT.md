@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct for unitaryhack 2023
 subtitle: CoC for unitaryhack 2023
-date: 2022-03-09
+date: 2023-02-24
 metaDescription: CoC for unitaryhack 202
 permalink: /coc/index.html
 layout: "layouts/page.njk"

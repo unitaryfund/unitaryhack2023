@@ -1,13 +1,12 @@
 ---
 title: Hacker Guide
 metaDescription: Helpful information for hackers participating in unitaryhack
-date: 2022-03-09
+date: 2023-02-24
 permalink: /hacker-guide/index.html
 eleventyNavigation:
   key: Hackers
   order: 2
 ---
-
 
 No matter your experience in quantum tech or open source communities, **you** can help make quantum open source better (and get PRIZES!). This guide will help you understand more about the event and how you can make the most of it!
 
@@ -42,6 +41,7 @@ If there is a project from the [participating projects]({{ '/projects/' | url }}
 ## 🔨 During the Hack 🔨
 
 ### Join the discord
+
 The main place that will be most helpful to you while you hack is connecting with other hackers and maintainers on the [Unitary Fund Discord](http://discord.unitary.fund).
 You can find folks from the Unitary Fund to ask about rules, as well as maintainers of the participating projects, and other hackers who might be able to lend a hand or team up (totally encouraged)!
 

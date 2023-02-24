@@ -3,7 +3,7 @@ title: Mitiq
 emoji: 🌴
 project_url: "https://github.com/unitaryfund/mitiq"
 metaDescription: Making NISQ hardware less noisy with a Python-based error mitigating package.
-date: 2019-01-01T00:00:00.000Z
+date: 2023-02-24
 summary: Python package for quantum error mitigation techniques
 tags:
   - error-mitigation
@@ -23,7 +23,6 @@ bounties:
   - name: Improve H2 example
     issue_num: 1094
     value: 100
-
 ---
 
 Mitiq is a Python toolkit for implementing error mitigation techniques on quantum computers.
