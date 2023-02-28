@@ -7,7 +7,6 @@ pagination:
   alias: projects
 ---
 <div class="home-page">
-  <div class="home-page__bg-square"></div>
   <div class="hero">
     <div class="hero__col">
       <image 
@@ -19,10 +18,7 @@ pagination:
         loading="lazy"></div>
       <div class="hero__col">
         <h1 class="hero__title ">{{ home.title }}</h1>
-        {# gradient-text #}
-        {% if home.subtitle %}
-          <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
-        {% endif %}
+        <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
         <button class="btn hero_btn" onclick="window.location.href='/signup/index.html';">PRESS START to get hacking!</button>
       </div>
     </div>
