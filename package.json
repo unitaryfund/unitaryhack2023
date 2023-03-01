@@ -1,0 +1,39 @@
+{
+  "name": "fernfolio-11ty-template",
+  "version": "1.0.0",
+  "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitaryfund/unitaryhack"
+  },
+  "author": {
+    "name": "UF Team",
+    "email": "hack@unitary.fund",
+    "url": "https://unitary.fund"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unitaryfund/unitaryhack/issues"
+  },
+  "homepage": "https://unitaryhack.dev",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "luxon": "^1.25.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^5.3.0",
+    "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@vidhill/fortawesome-brands-11ty-shortcode": "^1.0.2",
+    "clean-css": "^4.2.1",
+    "flat-cache": "^3.0.4",
+    "html-minifier": "^4.0.0",
+    "path": "^0.12.7",
+    "uglify-es": "^3.3.9"
+  }
+}
