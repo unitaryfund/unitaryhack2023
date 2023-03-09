@@ -20,7 +20,7 @@
   /* --font-family-heading: var(--font-family-base); */
   --font-family-pixel: "Orbitron", var(--font-family-base);
   --font-family-title: "ForcedSquare", var(--font-family-base);
-  --font-family-default: "ForcedSquare", var(--font-family-base);
+  --font-family-default: "SairaSemiCondensed-Regular", var(--font-family-base);
   /* Font Sizes */
   --font-size-vw: 2vw;
   /* Desktop */
