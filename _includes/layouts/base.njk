@@ -1,9 +1,11 @@
-<!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<!DOCTYPE html>
+<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
 
   {% include "components/head.njk" %}
 
   <body>
+    {% include "components/site-header.njk" %}
+
     <main>
       {{ layoutContent | safe }}
     </main>
