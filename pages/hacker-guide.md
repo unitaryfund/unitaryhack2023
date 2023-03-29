@@ -10,6 +10,13 @@ eleventyNavigation:
 
 No matter your experience in quantum tech or open source communities, **you** can help make quantum open source better (and get PAID!). This guide will help you understand more about the event and how you can make the most of it!
 
+## Hacker Timeline
+
+> - ASAP: [Sign up](https://airtable.com/shrKvcL9mtkuWJmg6) for unitaryHACK!
+> - May 26th: unitaryHACK kickoff party on Discord.
+> - June 13th: Final day to submit your pull requests!
+> - June 20th: Awardees finalized.
+
 ## ⌚ Before the Hack ⌚
 
 [REGISTER HERE](https://airtable.com/shrKvcL9mtkuWJmg6)! You'll need to be registered in order to recieve awards.

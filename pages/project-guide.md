@@ -17,16 +17,17 @@ It is always important for projects to find skilled and committed contributors t
 
 We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/info/' | url }}).
 
-> **Timeline:**
->
-> - March: Contact and organize participating projects and funding
-> - April: Setup and test infrastructure automation
-> - May: Review projects and finalize bounties
-> - May 19th - Hackathon Kickoff Party on Discord
+## Maintainer Timeline
+
+> - April 31st: Maintainers from invited projects fill our participation form.
+> - May 12th: Maintainers submit bounties for finalization.
+> - May 19th: Maintainers party + Q&A
 >   - Review of the event + rules
->   - Answer any initial questions folks have about the event on discord
+>   - Answer any initial questions folks have about the event
+> - May 26th: unitaryHACK kickoff party on Discord
 >   - Give a short intro about your project
-> - May 26th-Jun 13th: Hackathon starts and reviewing of PRs begins
+> - June 13th: unitaryHACK closes.
+> - June 20th: Awardees finalized.
 
 ## ⌚ Before the Hack ⌚
 
