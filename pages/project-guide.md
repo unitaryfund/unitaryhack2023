@@ -1,0 +1,57 @@
+---
+title: Project Maintainer Guide
+metaDescription: Helpful information for project maintainers participating in unitaryHACK
+date: 2023-03-29
+permalink: /project-guide/index.html
+eleventyNavigation:
+  key: Maintainers
+  order: 4
+---
+
+### Unitary Fund invites OSS project maintainers and owners to participate in unitaryHACK, one of the largest quantum open source hackathons!
+
+Our goal at the Unitary Fund is to build a quantum technology ecosystem that benefits the most people.
+That starts by supporting and growing the great ecosystem of projects already out there that is maintained by amazing folks like _you_.
+
+It is always important for projects to find skilled and committed contributors that can do things like help develop new functionality, maintain existing tools, and write tests and documentation. This can be challenging in open source in general, but can be _especially_ difficult for open source projects that need specialized skill sets like quantum computing. unitaryHACK shows folks what amazing projects are already out there, helping drive quantum computing forward, and helping you find new contributions for your projects.
+
+We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/info/' | url }}).
+
+> **Timeline:**
+>
+> - March: Contact and organize participating projects and funding
+> - April: Setup and test infrastructure automation
+> - May: Review projects and finalize bounties
+> - May 19th - Hackathon Kickoff Party on Discord
+>   - Review of the event + rules
+>   - Answer any initial questions folks have about the event on discord
+>   - Give a short intro about your project
+> - May 26th-Jun 13th: Hackathon starts and reviewing of PRs begins
+
+## ⌚ Before the Hack ⌚
+
+Get your project ready for more eyes on it!
+Some tips:
+
+- If you have a `good first issue` label, it will be a good time to review it.
+- Ensure you have `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files at the root of your repo (or similar) so folks can learn how they should make their contributions to make your life easy.
+
+On May 1st, we will distribute a form to finalize which issues you'd like to put up for bounties, and the associated rewards associated. This year we are keeping the bounties secret until the day of the event to ensure fairness.
+
+### How to choose good issues for participants
+
+To make sure that everyone can participate in the hackathon, we encourage project maintainers to tag a variety of issues that may or may not include quantum content, may or may not require devops skills, etc. We understand projects can be very targeted so if this is not possible that's totally fine! Our goal is to help connect eager and skilled contributors to your projects to help make the quantum open source ecosystem better 💖
+
+## 🛠️ During the Hack 🛠️
+
+As the hackathon progresses (and sometimes right away if there are eager folks who read up on the project), you should get some useful PRs!
+If a PR does not meet a minimum bar for quality, or if another PR has been accepted, please provide some details through PR comments that it is not accepted.
+
+For bountied issues, once you have accepted a pull request (or closed an issue) please **assign the hacker to the issue** so that our bots can understand it as complete, and distribute the bounty accordingly. If multiple people will be splitting the bounty, assign multiple. Bounties will not be distributed until the end of the event, so if there are any confusion, please don't hesitate to reach out to [hack@unitary.fund](mailto:hack@unitary.fund).
+
+## Helpful resources
+
+- [A maintainers guide to Hacktoberfest](https://medium.com/gitcoin/a-maintainers-guide-to-hacktoberfest-21405c8ff09f)
+- [Tips and tricks for maintaining your repo and your mental health](https://www.twilio.com/blog/how-to-hacktoberfest-tips-and-tricks-for-maintaining-your-repo-and-your-mental-health)
+- [Promoting your open source project](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md)
+- [Write the docs guide](https://www.writethedocs.org/guide/)
