@@ -49,6 +49,26 @@ If a PR does not meet a minimum bar for quality, or if another PR has been accep
 
 For bountied issues, once you have accepted a pull request (or closed an issue) please **assign the hacker to the issue** so that our bots can understand it as complete, and distribute the bounty accordingly. If multiple people will be splitting the bounty, assign multiple. Bounties will not be distributed until the end of the event, so if there are any confusion, please don't hesitate to reach out to [hack@unitary.fund](mailto:hack@unitary.fund).
 
+## FAQ
+
+> What will be expected of me/my team?
+
+In preparation for the hackathon, your project will need to file a series of bountied issues. These can range in difficulty, however they should be well scoped, and provide slightly more background than normal so an external contributor with the right skills can get oriented quickly.
+
+During the hackathon the expectation is that PRs opened by hackers are addressed in a reasonable time frame. Since many hackers are contributing on nights and weekends, giving feedback with ample time to make subsequent changes is very important.
+
+### Maintainer workflow
+
+Logistically, these are the steps a maintainer will take during the hackathon.
+
+1. Hacker opens a PR on your project.
+2. Maintainer reviews/requests changes as needed.
+3. When PR is merged (or approved), maintainer assigns hacker to the bountied issue so our bots can understand who the bounty should be distributed to. In the cases where the bounty should be split, assign multiple hackers.
+
+> How much activity should we expect to see?
+
+In previous years we've seen some projects garner more attention, and some less. Generally, the more time you've taken to carefully select, scope, and detail issues to be put up for bounty, the more attention you should expect your project to see. Check out last years [results](https://2022.unitaryhack.dev/results/) to get a more detailed sense.
+
 ## Helpful resources
 
 - [A maintainers guide to Hacktoberfest](https://medium.com/gitcoin/a-maintainers-guide-to-hacktoberfest-21405c8ff09f)
