@@ -15,11 +15,11 @@ That starts by supporting and growing the great ecosystem of projects already ou
 
 It is always important for projects to find skilled and committed contributors that can do things like help develop new functionality, maintain existing tools, and write tests and documentation. This can be challenging in open source in general, but can be _especially_ difficult for open source projects that need specialized skill sets like quantum computing. unitaryHACK shows folks what amazing projects are already out there, helping drive quantum computing forward, and helping you find new contributions for your projects.
 
-We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/info/' | url }}).
+We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/rules/' | url }}).
 
 ## Maintainer Timeline
 
-> - April 31st: Maintainers from invited projects fill our participation form.
+> - April 30th: Maintainers from invited projects fill our participation form.
 > - May 12th: Maintainers submit bounties for finalization.
 > - May 19th: Maintainers party + Q&A
 >   - Review of the event + rules
