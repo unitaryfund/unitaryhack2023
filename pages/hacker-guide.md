@@ -64,4 +64,4 @@ If your pull request is accepted, in order for our bots to find it you'll need t
 
 ## 🎉 After the Hack 🎉
 
-Show off your digital or IRL swag and check out what everyone else has done on the [Discord](http://discord.unitary.fund), [Twitter](https://twitter.com/search?q=%23unitaryHACK&src=typed_query&f=top), and [GitHub](https://github.com/search?q=unitaryHACK)! If you won any bounties or swag we will be in touch via email, so please make sure you [sign up]({{ '/signup/' | url }}) so we can connect your GitHub username to your contact info.
+If you claimed any bounties we will be in touch via email to coordinate payment, so please make sure you [sign up]({{ '/signup/' | url }}) so we can connect your GitHub username to your contact info!
