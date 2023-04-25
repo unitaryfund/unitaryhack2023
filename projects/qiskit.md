@@ -10,7 +10,7 @@ tags:
   - python
   - compilation
   - OpenQASM 3
-  - Pulse-level
+  - pulse-level
 ---
 
 The core of Qiskit is called `qiskit-terra` and includes tools to build, transpile, and visualize circuits. It also comes with an algorithm and circuit library. It is mainly written in Python and there are some components in Rust.
