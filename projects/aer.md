@@ -7,7 +7,7 @@ date: 2023-05-03
 summary: Aer is a high performance simulator for Qiskit quantum circuits that includes with realistic noise models
 tags:
   - qiskit
-  - openqasm 3
+  - OpenQASM 3
   - c++
   - gpu
   - cuda
