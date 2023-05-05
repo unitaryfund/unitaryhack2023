@@ -284,3 +284,8 @@ fieldset {
   margin-bottom: 0.5rem;
   font-weight: 600;
 }
+
+.warning {
+  background-color: var(--color-warn);
+  text-align: center;
+}
