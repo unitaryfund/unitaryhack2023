@@ -8,10 +8,7 @@ eleventyNavigation:
   order: 4
 ---
 
-### Unitary Fund invites OSS project maintainers and owners to participate in unitaryHACK, one of the largest quantum open source hackathons!
-
-Our goal at the Unitary Fund is to build a quantum technology ecosystem that benefits the most people.
-That starts by supporting and growing the great ecosystem of projects already out there that is maintained by amazing folks like _you_.
+Our goal at the Unitary Fund is to build a quantum technology ecosystem that benefits the most people. That starts by supporting and growing the great ecosystem of projects already out there that is maintained by amazing folks like _you_.
 
 It is always important for projects to find skilled and committed contributors that can do things like help develop new functionality, maintain existing tools, and write tests and documentation. This can be challenging in open source in general, but can be _especially_ difficult for open source projects that need specialized skill sets like quantum computing. unitaryHACK shows folks what amazing projects are already out there, helping drive quantum computing forward, and helping you find new contributions for your projects.
 
@@ -31,8 +28,7 @@ We have some outlines below for what you can expect before and during the event,
 
 ## ⌚ Before the Hack ⌚
 
-Get your project ready for more eyes on it!
-Some tips:
+Get your project ready for more eyes on it! Some tips:
 
 - If you have a `good first issue` label, it will be a good time to review it.
 - Ensure you have `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files at the root of your repo (or similar) so folks can learn how they should make their contributions to make your life easy.
@@ -45,8 +41,7 @@ To make sure that everyone can participate in the hackathon, we encourage projec
 
 ## 🛠️ During the Hack 🛠️
 
-As the hackathon progresses (and sometimes right away if there are eager folks who read up on the project), you should get some useful PRs!
-If a PR does not meet a minimum bar for quality, or if another PR has been accepted, please provide some details through PR comments that it is not accepted.
+As the hackathon progresses (and sometimes right away if there are eager folks who read up on the project), you should get some useful PRs! If a PR does not meet a minimum bar for quality, or if another PR has been accepted, please provide some details through PR comments that it is not accepted.
 
 For bountied issues, once you have accepted a pull request (or closed an issue) please **assign the hacker to the issue** so that our bots can understand it as complete, and distribute the bounty accordingly. If multiple people will be splitting the bounty, assign multiple. Bounties will not be distributed until the end of the event, so if there are any confusion, please don't hesitate to reach out to [hack@unitary.fund](mailto:hack@unitary.fund).
 
