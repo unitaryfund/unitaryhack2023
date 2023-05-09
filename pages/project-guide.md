@@ -19,15 +19,15 @@ We have some outlines below for what you can expect before and during the event,
 
 ## Maintainer Timeline
 
-> - ASAP: Maintainers from invited projects fill our participation form.
-> - May 17th: Maintainers party + Q&A
+> - ~~**ASAP**: Maintainers from invited projects fill our participation form~~
+> - **May 17th**: Maintainers party + Q&A
 >   - Review of the event + rules
 >   - Answer any initial questions folks have about the event
-> - May 19th: Maintainers submit bounties for finalization.
-> - May 26th: unitaryHACK kickoff party on Discord
 >   - Give a short intro about your project
-> - June 13th: unitaryHACK closes.
-> - June 20th: Awardees finalized.
+> - **May 19th**: Maintainers submit bounties for finalization
+> - **May 26th**: unitaryHACK kickoff party on Discord
+> - **June 13th**: unitaryHACK closes
+> - **June 20th**: Awardees finalized
 
 ## ⌚ Before the Hack ⌚
 
