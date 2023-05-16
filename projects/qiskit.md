@@ -1,7 +1,8 @@
 ---
 title: Qiskit
 emoji:
-project_url: https://github.com/Qiskit/qiskit-terra/
+project_url: https://github.com/Qiskit/qiskit-terra
+id: qiskit-terra
 metaDescription: Qiskit is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
 date: 2023-04-25
 summary: Qiskit is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
@@ -11,6 +12,15 @@ tags:
   - compilation
   - OpenQASM 3
   - pulse-level
+bounties:
+  - issue_num: 9031
+    value: 150
+  - issue_num: 1391
+    value: 150
+    repo: qiskit/qiskit-tutorials
+  - issue_num: 1390
+    value: 150
+    repo: qiskit/qiskit-tutorials
 ---
 
 The core of Qiskit is called `qiskit-terra` and includes tools to build, transpile, and visualize circuits. It also comes with an algorithm and circuit library. It is mainly written in Python and there are some components in Rust.
