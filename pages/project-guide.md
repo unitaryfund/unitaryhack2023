@@ -14,7 +14,7 @@ It is always important for projects to find skilled and committed contributors t
 
 We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/rules/' | url }}).
 
-## Maintainer Timeline
+## 🗓️ Maintainer Timeline 🗓️
 
 > - ~~**ASAP**: Maintainers from invited projects fill our participation form~~
 > - **May 17th**: Maintainers party + Q&A
@@ -45,7 +45,7 @@ As the hackathon progresses (and sometimes right away if there are eager folks w
 
 For bountied issues, once you have accepted a pull request (or closed an issue) please **assign the hacker to the issue** so that our bots can understand it as complete, and distribute the bounty accordingly. If multiple people will be splitting the bounty, assign multiple. Bounties will not be distributed until the end of the event, so if there are any confusion, please don't hesitate to reach out to [hack@unitary.fund](mailto:hack@unitary.fund).
 
-## FAQ
+## 🙋 FAQ 🤔
 
 > What will be expected of me/my team?
 
@@ -65,7 +65,7 @@ Logistically, these are the steps a maintainer will take during the hackathon.
 
 In previous years we've seen some projects garner more attention, and some less. Generally, the more time you've taken to carefully select, scope, and detail issues to be put up for bounty, the more attention you should expect your project to see. Check out last years [results](https://2022.unitaryhack.dev/results/) to get a more detailed sense.
 
-## Helpful resources
+## 🤝 Helpful resources 🤝
 
 - [A maintainers guide to Hacktoberfest](https://medium.com/gitcoin/a-maintainers-guide-to-hacktoberfest-21405c8ff09f)
 - [Tips and tricks for maintaining your repo and your mental health](https://www.twilio.com/blog/how-to-hacktoberfest-tips-and-tricks-for-maintaining-your-repo-and-your-mental-health)
