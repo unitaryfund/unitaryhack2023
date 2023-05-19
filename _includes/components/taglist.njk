@@ -1,7 +1,7 @@
 <nav>
-    <ul class="tag-list">
-        {% for tag in taglist %}
-          <a class="tag" href="/tags/{{ tag | slug }}">{{ tag | safe }}</a>
-        {% endfor %}
-    </ul>
+  <ul class="tag-list">
+    {% for tag in taglist %}
+      <a class="tag" href="/tags/{{ tag | slug }}">{{ tag | safe }}</a>
+    {% endfor %}
+  </ul>
 </nav>
