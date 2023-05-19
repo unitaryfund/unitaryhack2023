@@ -3,14 +3,12 @@ layout: layouts/base.njk
 section: project
 ---
 <div class="page-container">
-  <h5 class="warning">
-    Bounties will be announced at the start of the event on May 26!
-  </h5>
   <h1>
     {% if emoji %}
       <span class="project-card__emoji">{{ emoji }}</span>
     {% endif %}
-    <a href = {{project_url}}>{{ title }}</a></h1>
+    <a href = {{project_url}}>{{ title }}</a>
+  </h1>
 
   {# <strong>Open bounties:</strong>
   {% for scraped_project in gh.projects %}

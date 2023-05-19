@@ -285,7 +285,10 @@ fieldset {
   font-weight: 600;
 }
 
-.warning {
+.announcement {
   background-color: var(--color-warn);
   text-align: center;
+  padding: 15px;
+  margin: 0;
+  font-size: larger;
 }
