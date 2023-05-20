@@ -12,12 +12,13 @@
   flex-direction: column;
   justify-content: top;
   padding: 30px 30px;
-  background-color: var(--color-secondary);
+  background: linear-gradient(var(--color-secondary), var(--color-border));
   border: 30px solid var(--color-border);
   font-family: var(--font-family-default);
   font-size: var(--font-size-p);
   letter-spacing: 1.5px;
   color: var(--color-text-title);
+  border-radius: 50px;
 }
 
 .project-card:hover {
@@ -27,7 +28,7 @@
 
 .project-card__title {
   color: var(--color-text-title);
-  font-family: var(--font-family-pixel);
+  font-family: var(--futuristic-font);
   font-size: var(--font-size-h1);
   letter-spacing: 4px;
   position: relative;
@@ -36,8 +37,17 @@
 .project-card__tag {
   background-color: var(--color-text-title);
   color: var(--color-secondary);
-  font-family: var(--font-family-pixel);
+  font-family: var(--pixel-font);
   font-size: var(--font-size-tag);
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.tag-list {
+  line-height: 2rem;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .project-card__tag:hover {
