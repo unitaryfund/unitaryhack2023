@@ -15,6 +15,6 @@ eleventyNavigation:
 
 If you have any questions about the event contact us [hack@unitary.fund](mailto:hack@unitary.fund), or to get in touch with others working on the event, join our [Discord](http://discord.unitary.fund)!
 
-### Payment and Swag
+### Payment
 
-We will do our best to ensure that we can get swag and bounties sent to all who qualify, but there are some challenges associated with sending money or swag to countries that have restrictions on shipping or sanctions from the USA. For more info on what countries might be impacted, please see the [US Treasury](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information).
+We will do our best to ensure that we can get bounties sent to all who qualify, but there are some challenges associated with sending money to countries that have restrictions on shipping or sanctions from the USA. For more info on what countries might be impacted, please see the [US Treasury](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information).
