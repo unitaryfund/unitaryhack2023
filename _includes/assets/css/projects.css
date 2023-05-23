@@ -44,6 +44,18 @@
   margin: 5px;
 }
 
+.project-list__tag {
+  background-color: var(--color-bg-secondary);
+  color: var(--color-secondary);
+  font-size: var(--font-size-tag);
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin: 5px;
+}
+a.project-list__tag:hover {
+  background-color: white;
+}
+
 .tag-list {
   line-height: 2rem;
   display: flex;

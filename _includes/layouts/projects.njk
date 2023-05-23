@@ -20,7 +20,7 @@ pagination:
   {{ layoutContent | safe }}
   <h4>
     <details>
-      <summary class="">See all topics</summary>
+      <summary>See all topics</summary>
       {% set taglist = pagination.items %}
       {% include "components/taglist.njk" %}
     </details>
