@@ -14,8 +14,6 @@ tags:
 
 Mitiq is a Python toolkit for implementing error mitigation techniques on quantum computers.
 
-Current quantum computers are noisy due to interactions with the environment, imperfect gate applications, state preparation and measurement errors, etc.
-Error mitigation seeks to reduce these effects at the software level by compiling quantum programs in clever ways.
-You can watch some videos about Mitiq on the [Unitary Fund YouTube channel](https://www.youtube.com/watch?v=5KDQtWzJcfw&list=PL-VMs2BCTI_lklMMfY4iMdETT19rgZe5o).
+Current quantum computers are noisy due to interactions with the environment, imperfect gate applications, state preparation and measurement errors, etc. Error mitigation seeks to reduce these effects at the software level by compiling quantum programs in clever ways. You can watch some videos about Mitiq on the [Unitary Fund YouTube channel](https://www.youtube.com/watch?v=5KDQtWzJcfw&list=PL-VMs2BCTI_lklMMfY4iMdETT19rgZe5o).
 
 > General issues we are looking for help with during [unitaryHACK](https://github.com/unitaryfund/mitiq/contribute)
