@@ -122,6 +122,7 @@ ul {
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: var(--font-size-p);
+  list-style-type: square;
 }
 
 li:not(:last-child) {
