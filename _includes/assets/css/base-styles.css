@@ -109,6 +109,7 @@ hr {
 a {
   text-decoration: none;
   color: var(--color-secondary);
+  border-radius: 5px;
 }
 
 a:hover {
@@ -152,6 +153,10 @@ blockquote p {
   margin-bottom: 0;
 }
 
+blockquote a:hover {
+  background-color: white;
+}
+
 img,
 video {
   height: auto;
@@ -160,27 +165,12 @@ video {
   margin-bottom: 2.5rem;
 }
 
-/* Pre and Code */
-pre {
-  background-color: var(--color-bg-secondary);
-  display: block;
-  padding: 1em;
-  overflow-x: auto;
-  margin-top: 0px;
-  margin-bottom: 2.5rem;
-}
-
+/* Code */
 code {
   font-size: 0.9em;
-  padding: 0 0.5em;
+  padding: 0 0.15em;
   background-color: var(--color-bg-secondary);
   white-space: pre-wrap;
-}
-
-pre > code {
-  padding: 0;
-  background-color: transparent;
-  white-space: pre;
 }
 
 /* Tables */
