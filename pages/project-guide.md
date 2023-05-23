@@ -21,8 +21,7 @@ We have some outlines below for what you can expect before and during the event,
 >   - Review of the event + rules
 >   - Answer any initial questions folks have about the event
 >   - Give a short intro about your project
-> - **May 19th**: Maintainers submit bounties for finalization
-> - **May 26th**: unitaryHACK kickoff party on Discord
+> - ~~**May 19th**: Maintainers submit bounties for finalization~~
 > - **June 13th**: unitaryHACK closes
 > - **June 20th**: Awardees finalized
 
