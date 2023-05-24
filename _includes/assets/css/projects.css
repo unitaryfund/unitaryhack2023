@@ -73,9 +73,36 @@ a.project-list__tag:hover {
   font-size: var(--font-size-emoji);
 }
 
+.completion-emoji {
+  margin: 8px;
+  vertical-align: middle;
+  font-size: var(--font-size-emoji);
+}
+
 .page-container {
   max-width: 1200px;
   margin: 0 10%;
+}
+
+.bounty-right {
+  float: right;
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
+.emoji-name-box {
+  display: flex;
+  align-items: center;
+}
+
+.project-bounties {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a.bounty-closed {
+  text-decoration: line-through;
 }
 
 /* Widescreen CSS */

@@ -7,26 +7,28 @@ section: project
     {% if emoji %}
       <span class="project-card__emoji">{{ emoji }}</span>
     {% endif %}
-    <a href = {{project_url}}>{{ title }}</a>
+    <a href={{ project_url }}>{{ title }}</a>
   </h1>
 
-  {# <strong>Open bounties:</strong>
-  {% for scraped_project in gh.projects %}
-      {% if scraped_project.title === title %}
-          {% if scraped_project.bounties %}
-              <ul style="list-style-type:square">
-              {% for issue in scraped_project.bounties %}
-                  {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
-                  {% if issue.state == "closed" %}
-                      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue" style="text-decoration:line-through;">${{ issue.value }} | {{issue.name}}</a></li>
-                  {% else %}
-                      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
-                  {% endif %}
-              {% endfor %}
-              </ul>
+  {% set comma = joiner(", ") %}
+  {% for state, bounties in gh[id or title | lower].bounties | groupby("state") %}
+    <h5>{{ state | capitalize }} bounties:</h5>
+    <ul class="bounties">
+      {% for bounty in bounties %}
+        <li>
+          <a class="tag bounty-{{ state }}" href="{{ bounty.url | url }}" rel="issue">${{ bounty.value }} | {{bounty.title}}</a>
+          {% if state == "closed" and bounty.assignees.length != 0 %}
+            <br>
+            closed by:
+              {% for hacker in bounty.assignees -%}
+              {{ comma() }}
+              <a href="https://github.com/{{ hacker }}">{{ hacker }}</a>
+            {%- endfor %}
           {% endif %}
-      {% endif %}
-  {% endfor %} #}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
   <hr>
   {{ layoutContent | safe }}
   <nav>

@@ -1,0 +1,242 @@
+{
+  "qrack": {
+    "name": "Qrack",
+    "emoji": "\ud83e\udea8\ud83d\udd28",
+    "url": "https://github.com/unitaryfund/qrack",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "kqcircuits": {
+    "name": "KQCircuits",
+    "emoji": "\ud83e\udd91",
+    "url": "https://github.com/iqm-finland/KQCircuits",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "zxlive": {
+    "name": "ZX Live",
+    "emoji": "\ud83d\udd77\ufe0f\ud83c\udfa5",
+    "url": "https://github.com/Quantomatic/zxlive",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "covalent": {
+    "name": "Covalent",
+    "emoji": "\ud83d\udd00\u2601\ufe0f",
+    "url": "https://github.com/AgnostiqHQ/covalent",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qiskit-terra": {
+    "name": "Qiskit",
+    "emoji": null,
+    "url": "https://github.com/Qiskit/qiskit-terra/",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "symmer": {
+    "name": "Symmer",
+    "emoji": "\ud83e\udd58\ud83d\udd25",
+    "url": "https://github.com/UCL-CCS/symmer",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "pulser": {
+    "name": "Pulser",
+    "emoji": "\ud83c\udf86",
+    "url": "https://github.com/pasqal-io/Pulser",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "openqaoa": {
+    "name": "OpenQAOA",
+    "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
+    "url": "https://github.com/entropicalabs/openqaoa",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qutip": {
+    "name": "QuTiP",
+    "emoji": "\ud83d\udc0d",
+    "url": "https://github.com/qutip/qutip",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "torchquantum": {
+    "name": "Torch Quantum",
+    "emoji": "\ud83c\udf45",
+    "url": "https://github.com/mit-han-lab/torchquantum",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "metriq-app": {
+    "name": "Metriq",
+    "emoji": "\ud83d\udcca",
+    "url": "https://github.com/unitaryfund/metriq-app",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "lambeq": {
+    "name": "lambeq",
+    "emoji": null,
+    "url": "https://github.com/CQCL/lambeq",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "pyq": {
+    "name": "PyQ",
+    "emoji": "\u23f3",
+    "url": "https://github.com/pasqal-io/PyQ",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "mitiq": {
+    "name": "Mitiq",
+    "emoji": "\ud83c\udf34",
+    "url": "https://github.com/unitaryfund/mitiq",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "toqito": {
+    "name": "toqito",
+    "emoji": "\ud83d\udc0d\ud83d\udd2c",
+    "url": "https://github.com/vprusso/toqito",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "bloqade.jl": {
+    "name": "Bloqade",
+    "emoji": null,
+    "url": "https://github.com/QuEraComputing/Bloqade.jl",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qbraid": {
+    "name": "qBraid-SDK",
+    "emoji": "\ud83e\udde0\ud83d\udc23",
+    "url": "https://github.com/qBraid/qBraid",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "bqskit": {
+    "name": "BQSKit",
+    "emoji": null,
+    "url": "https://github.com/bqskit/bqskit",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "quantum-randomness-generator": {
+    "name": "Dora Factory Quantum Experiments",
+    "emoji": "\ud83e\udd14\ud83e\uddd0",
+    "url": "https://github.com/dorahacksglobal/quantum-randomness-generator",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qunetsim": {
+    "name": "QuNetSim",
+    "emoji": null,
+    "url": "https://github.com/tqsd/QuNetSim",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qecft": {
+    "name": "QECFT Book",
+    "emoji": "\u29f0",
+    "url": "https://github.com/abdullahkhalids/qecft",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "hierarqcal": {
+    "name": "HierarQcal",
+    "emoji": "\ud83e\udea1",
+    "url": "https://github.com/matt-lourens/hierarqcal",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "pennylane": {
+    "name": "PennyLane",
+    "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
+    "url": "https://github.com/PennyLaneAI/pennylane",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "scqubits": {
+    "name": "scqubits",
+    "emoji": "\ud83d\udce1",
+    "url": "https://github.com/scqubits/scqubits",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "pyclifford": {
+    "name": "PyClifford",
+    "emoji": null,
+    "url": "https://github.com/hongyehu/PyClifford",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "qiskit-aer": {
+    "name": "Qiskit Aer",
+    "emoji": "\ud83c\udf2c\ufe0f",
+    "url": "https://github.com/Qiskit/qiskit-aer",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "graphix": {
+    "name": "Graphix",
+    "emoji": "\ud83d\udd78\ufe0f",
+    "url": "https://github.com/TeamGraphix/graphix",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "perceval": {
+    "name": "Perceval",
+    "emoji": "\ud83d\udde1\ufe0f",
+    "url": "https://github.com/Quandela/Perceval",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "yao.jl": {
+    "name": "Yao",
+    "emoji": null,
+    "url": "https://github.com/QuantumBFS/Yao.jl",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  },
+  "pauliopt": {
+    "name": "pauliopt",
+    "emoji": "\ud83e\uddb8",
+    "url": "https://github.com/sg495/pauliopt",
+    "bounties": [],
+    "amount_available": 0,
+    "total_amount": 0
+  }
+}
