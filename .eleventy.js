@@ -23,39 +23,19 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Add support for maintenance-free post authors
-  // Adds an authors collection using the author key in our post frontmatter
-  // Thanks to @pdehaan: https://github.com/pdehaan
-  eleventyConfig.addCollection("authors", (collection) => {
-    const blogs = collection.getFilteredByGlob("posts/*.md");
-    return blogs.reduce((coll, post) => {
-      const author = post.data.author;
-      if (!author) {
-        return coll;
-      }
-      if (!coll.hasOwnProperty(author)) {
-        coll[author] = [];
-      }
-      coll[author].push(post.data);
-      return coll;
-    }, {});
-  });
-
-  eleventyConfig.addFilter("filterTagList", (tags) => {
-    // should match the list in tags.njk
-    return (tags || []).filter(
-      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
-    );
-  });
+  function filterTags(tags) {
+    return (tags || []).filter((tag) => ["all", "tagList"].indexOf(tag) === -1);
+  }
+  eleventyConfig.addFilter("filterTags", filterTags);
 
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
-    collection.getAll().forEach((item) => {
-      (item.data.tags || []).forEach((tag) => tagSet.add(tag));
+    collection.getFilteredByGlob("./projects/*.md").forEach((item) => {
+      item.data.tags.forEach((tag) => tagSet.add(tag));
     });
 
-    return [...tagSet];
+    return filterTags([...tagSet]);
   });
 
   // Date formatting (human readable)
@@ -119,22 +99,6 @@ module.exports = function (eleventyConfig) {
     "md",
     markdownIt(options).use(markdownItAnchor, opts)
   );
-
-  // let markdownLibrary = markdownIt({
-  //     html: true,
-  //     breaks: true,
-  //     linkify: true,
-  //     code: false
-  // }).use(markdownItAnchor, {
-  //     permalink: markdownItAnchor.permalink.ariaHidden({
-  //         placement: "after",
-  //         class: "direct-link",
-  //         symbol: "🔗",
-  //         level: [1, 2, 3, 4],
-  //     }),
-  //     slugify: eleventyConfig.getFilter("slug")
-  // });
-  // eleventyConfig.setLibrary("md", markdownLibrary);
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
