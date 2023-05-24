@@ -11,24 +11,26 @@ section: project
   </h1>
 
   {% set comma = joiner(", ") %}
-  {% for state, bounties in gh[id or title | lower].bounties | groupby("state") %}
-    <h5>{{ state | capitalize }} bounties:</h5>
-    <ul class="bounties">
-      {% for bounty in bounties %}
-        <li>
-          <a class="tag bounty-{{ state }}" href="{{ bounty.url | url }}" rel="issue">${{ bounty.value }} | {{bounty.title}}</a>
-          {% if state == "closed" and bounty.assignees.length != 0 %}
-            <br>
-            closed by:
+  {% set bounties = gh[id or title | lower].bounties %}
+  {% if bounties %}
+    {% for state, bts in bounties | groupby("state") %}
+      <h5>{{ state | capitalize }} bounties:</h5>
+      <ul class="bounties">
+        {% for bounty in bts %}
+          <li>
+            <a class="tag bounty-{{ state }}" href="{{ bounty.url | url }}">${{ bounty.value }} | {{bounty.title}}</a>
+            {% if state == "closed" and bounty.assignees.length != 0 %}
+              <br>
+              closed by:
               {% for hacker in bounty.assignees -%}
-              {{ comma() }}
-              <a href="https://github.com/{{ hacker }}">{{ hacker }}</a>
-            {%- endfor %}
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
+                {{ comma() }}<a href="https://github.com/{{ hacker }}">{{ hacker }}</a>
+              {%- endfor %}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  {% endif %}
   <hr>
   {{ layoutContent | safe }}
   <nav>
