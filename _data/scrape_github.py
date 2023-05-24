@@ -5,7 +5,7 @@ import re
 import frontmatter
 import github
 
-g = github.Github(os.getenv("GITHUB_TOKEN"))
+g = github.Github(os.getenv("GH_TOKEN"))
 
 PROJECT_PATH = "../projects"
 
