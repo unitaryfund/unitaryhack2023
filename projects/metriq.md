@@ -1,5 +1,6 @@
 ---
 title: Metriq
+id: metriq-app
 emoji: 📊
 project_url: https://github.com/unitaryfund/metriq-app
 metaDescription: Community-driven Quantum Benchmarks
