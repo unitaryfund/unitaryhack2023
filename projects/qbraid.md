@@ -1,5 +1,6 @@
 ---
 title: qBraid-SDK
+id: qbraid
 emoji: 🧠🐣
 project_url: https://github.com/qBraid/qBraid
 metaDescription: A Python toolkit for cross-framework abstraction, transpilation, and execution of quantum programs.
@@ -11,6 +12,17 @@ tags:
   - transpiler
   - openqasm
   - run-on-hardware
+bounties:
+  - issue_num: 233
+    value: 150
+  - issue_num: 223
+    value: 125
+  - issue_num: 234
+    value: 100
+  - issue_num: 227
+    value: 75
+  - issue_num: 231
+    value: 50
 ---
 
 The qBraid-SDK is a Python toolkit for cross-framework abstraction, transpilation, and execution of quantum programs. This project, previously available exclusively through the qBraid Lab platform, was released as open-source in May 2023! You could be one of the first contributors to this awesome new package.
