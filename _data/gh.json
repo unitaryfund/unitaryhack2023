@@ -403,14 +403,18 @@
       {
         "title": "Add test suite for examples directory",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 100,
         "url": "https://github.com/unitaryfund/metriq-client/issues/71"
       },
       {
         "title": "Add examples for missing submission endpoints",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 75,
         "url": "https://github.com/unitaryfund/metriq-client/issues/72"
       },
@@ -488,7 +492,9 @@
       {
         "title": "OpenQASM 2.0 --> OpenQASM 3.0 conversion function",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "TheGupta2012"
+        ],
         "value": 125,
         "url": "https://github.com/qBraid/qBraid/issues/223"
       },
@@ -1306,7 +1312,9 @@
       {
         "title": "Determine if covalent subprocess starts successfully",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 50,
         "url": "https://github.com/AgnostiqHQ/covalent/issues/1648"
       },
