@@ -27,7 +27,7 @@
             {% for tag in post.data.tags %}
               {%- if tag != "project" -%}
                 {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-                <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                <a class="project-card__tag tag" href="{{ tagUrl | url }}">{{ tag }}</a>
               {%- endif -%}
             {% endfor %}
           </p>

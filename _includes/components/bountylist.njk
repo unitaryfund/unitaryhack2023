@@ -23,7 +23,7 @@
     <ul>
       {% for bounty in metadata.bounties %}
         <li>
-          <a class="tag bounty-{{ bounty.state }}" href="{{ bounty.url | url }}" rel="issue">${{ bounty.value }} | {{bounty.title}}</a>
+          <a class="tag bounty-{{ bounty.state }}" href="{{ bounty.url | url }}">${{ bounty.value }} | {{bounty.title}}</a>
         </li>
       {% endfor %}
     </ul>
