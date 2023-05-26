@@ -288,7 +288,7 @@
       },
       {
         "title": "Consistent naming conventions",
-        "state": "open",
+        "state": "closed",
         "assignees": [],
         "value": 75,
         "url": "https://github.com/Quantomatic/zxlive/issues/12"
@@ -301,7 +301,7 @@
         "url": "https://github.com/Quantomatic/zxlive/issues/10"
       }
     ],
-    "amount_available": 500,
+    "amount_available": 425,
     "total_amount": 500
   },
   "mitiq": {
@@ -421,7 +421,9 @@
       {
         "title": "Add examples for results API endpoints",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "anushkrishnav"
+        ],
         "value": 75,
         "url": "https://github.com/unitaryfund/metriq-client/issues/73"
       },
@@ -687,7 +689,8 @@
         "title": "Prebuilt docker container with examples",
         "state": "open",
         "assignees": [
-          "Morcu"
+          "Morcu",
+          "mariapaula14"
         ],
         "value": 60,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/35"
@@ -894,7 +897,9 @@
       {
         "title": "Script to convert book to pdf",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "MZuhairKhan"
+        ],
         "value": 125,
         "url": "https://github.com/abdullahkhalids/qecft/issues/4"
       },
