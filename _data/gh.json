@@ -1012,14 +1012,18 @@
       {
         "title": "Expose brute force solver through OpenQAOA workflows",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "lumapools"
+        ],
         "value": 60,
         "url": "https://github.com/entropicalabs/openqaoa/issues/234"
       },
       {
         "title": "Add result statistics on measurement outcomes in QAOAResult object",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 100,
         "url": "https://github.com/entropicalabs/openqaoa/issues/235"
       },
@@ -1181,7 +1185,9 @@
       {
         "title": "Generate all ancestors of a given code",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 200,
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296"
       },
@@ -1218,7 +1224,9 @@
       {
         "title": "Extend QCircuit to QInterface",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "stevescia"
+        ],
         "value": 200,
         "url": "https://github.com/unitaryfund/qrack/issues/988"
       },
