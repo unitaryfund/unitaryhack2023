@@ -11,6 +11,13 @@ tags:
   - routing
   - annealing
   - pauligadgets
+bounties:
+  - issue_num: 8
+    value: 180
+  - issue_num: 7
+    value: 160
+  - issue_num: 6
+    value: 160
 ---
 
 PauliOpt is a Python library to simplify quantum circuits composed of phase and Pauli gadgets.

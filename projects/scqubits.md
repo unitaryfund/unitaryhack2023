@@ -9,6 +9,15 @@ tags:
   - superconducting circuits
   - python
   - simulation
+bounties:
+  - issue_num: 184
+    value: 200
+  - issue_num: 186
+    value: 75
+  - issue_num: 185
+    value: 100
+  - issue_num: 187
+    value: 125
 ---
 
 More information about scqubits can be found via the [documentation](https://scqubits.readthedocs.io/en/latest/), or this [YouTube talk](https://www.youtube.com/watch?v=ZccDfs-_40Y), which provides an overview of the library's key features.

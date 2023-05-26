@@ -10,6 +10,17 @@ tags:
   - noise
   - run-on-hardware
   - python
+bounties:
+  - issue_num: 1377
+    value: 100
+  - issue_num: 1244
+    value: 50
+  - issue_num: 1835
+    value: 80
+  - issue_num: 1619
+    value: 120
+  - issue_num: 1715
+    value: 100
 ---
 
 Mitiq is a Python toolkit for implementing error mitigation techniques on quantum computers.

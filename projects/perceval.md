@@ -9,6 +9,15 @@ tags:
   - python
   - simulation
   - cluster-states
+bounties:
+  - issue_num: 207
+    value: 50
+  - issue_num: 205
+    value: 100
+  - issue_num: 206
+    value: 150
+  - issue_num: 208
+    value: 200
 ---
 
 Perceval is a python toolkit for:

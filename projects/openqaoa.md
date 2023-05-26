@@ -9,6 +9,17 @@ tags:
   - python
   - qaoa
   - optimisation
+bounties:
+  - issue_num: 234
+    value: 60
+  - issue_num: 235
+    value: 100
+  - issue_num: 233
+    value: 60
+  - issue_num: 232
+    value: 160
+  - issue_num: 226
+    value: 120
 ---
 
 Assume tomorrow we have a 500 qubit device: what do we do with it?

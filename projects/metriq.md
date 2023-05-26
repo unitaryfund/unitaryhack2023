@@ -1,5 +1,6 @@
 ---
 title: Metriq
+id: metriq-app
 emoji: 📊
 project_url: https://github.com/unitaryfund/metriq-app
 metaDescription: Community-driven Quantum Benchmarks
@@ -10,6 +11,20 @@ tags:
   - node
   - postgres
   - benchmarking
+bounties:
+  - issue_num: 71
+    value: 100
+    repo: unitaryfund/metriq-client
+  - issue_num: 72
+    value: 75
+    repo: unitaryfund/metriq-client
+  - issue_num: 73
+    value: 75
+    repo: unitaryfund/metriq-client
+  - issue_num: 708
+    value: 75
+  - issue_num: 269
+    value: 175
 ---
 
 The purpose of the [metriq](metriq.info) platform is to allow users to answer the following question:

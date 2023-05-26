@@ -11,6 +11,14 @@ tags:
   - hamiltonians
   - liouvillians
   - solvers
+bounties:
+  - issue_num: 2165
+    value: 200
+  - issue_num: 2163
+    value: 50
+  - issue_num: 204
+    value: 50
+    repo: qutip/qutip-qip
 ---
 
 QuTiP is open-source software for simulating the dynamics of open quantum systems. The QuTiP library depends on the excellent [Numpy](https://www.numpy.org/), [Scipy](https://www.scipy.org/), and [Cython](https://cython.org/) numerical packages. In addition, graphical output is provided by [Matplotlib](https://matplotlib.org/). QuTiP aims to provide user-friendly and efficient numerical simulations of a wide variety of Hamiltonians, including those with arbitrary time-dependence, commonly found in a wide range of physics applications such as quantum optics, trapped ions, superconducting circuits, and quantum nanomechanical resonators.
