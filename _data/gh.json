@@ -835,21 +835,21 @@
     "url": "https://github.com/CQCL/lambeq",
     "bounties": [
       {
-        "title": "Serialise ansatz and include in model",
+        "title": "UnitaryHACK: Serialise ansatz and include in model",
         "state": "open",
         "assignees": [],
         "value": 250,
         "url": "https://github.com/CQCL/lambeq/issues/86"
       },
       {
-        "title": "Implement and test gradient free optimizer for circuit models",
+        "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
         "state": "open",
         "assignees": [],
         "value": 150,
         "url": "https://github.com/CQCL/lambeq/issues/85"
       },
       {
-        "title": "Replace unknown words in diagrams with `UNK` token",
+        "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
         "state": "open",
         "assignees": [],
         "value": 100,
