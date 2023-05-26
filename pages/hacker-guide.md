@@ -13,7 +13,7 @@ No matter your experience in quantum tech or open source communities, **you** ca
 ## 🗓️ Hacker Timeline 🗓️
 
 > - ASAP: [Sign up](https://airtable.com/shrKvcL9mtkuWJmg6) for unitaryHACK!
-> - May 24th: unitaryHACK Q&Q event on [Discord](http://discord.unitary.fund/).
+> - ~~May 24th: unitaryHACK Q&Q event on [Discord](http://discord.unitary.fund/).~~
 > - June 13th: Final day to submit your pull requests!
 > - June 20th: Awardees finalized.
 
