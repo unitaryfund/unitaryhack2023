@@ -135,9 +135,59 @@
     "name": "Bloqade",
     "emoji": null,
     "url": "https://github.com/QuEraComputing/Bloqade.jl",
-    "bounties": [],
-    "amount_available": 0,
-    "total_amount": 0
+    "bounties": [
+      {
+        "title": "[DOC] More examples for `BloqadeLattices` docstrings",
+        "state": "open",
+        "assignees": [
+          "johnzl-777"
+        ],
+        "value": 25,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/517"
+      },
+      {
+        "title": "[Feature Request] CompatHelper",
+        "state": "open",
+        "assignees": [],
+        "value": 25,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/375"
+      },
+      {
+        "title": "[Feature Request] GPU kernel for \"measure\" and \"rydberg_corr\"",
+        "state": "open",
+        "assignees": [
+          "Roger-luo"
+        ],
+        "value": 100,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/372"
+      },
+      {
+        "title": "[BUG] Correlation function is not fully compatible with Blockade subspace",
+        "state": "open",
+        "assignees": [],
+        "value": 100,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/371"
+      },
+      {
+        "title": "[Feature Request] support subspace expect on hamiltonian terms",
+        "state": "open",
+        "assignees": [],
+        "value": 100,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/323"
+      },
+      {
+        "title": "allow changing default color scheme via perferences for Lattices and other plots",
+        "state": "open",
+        "assignees": [
+          "GiggleLiu",
+          "Roger-luo"
+        ],
+        "value": 25,
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/92"
+      }
+    ],
+    "amount_available": 375,
+    "total_amount": 375
   },
   "symmer": {
     "name": "Symmer",
@@ -721,9 +771,31 @@
     "name": "Yao",
     "emoji": null,
     "url": "https://github.com/QuantumBFS/Yao.jl",
-    "bounties": [],
-    "amount_available": 0,
-    "total_amount": 0
+    "bounties": [
+      {
+        "title": "More efficient implementation of `two_qubit_depolarizing_channel()`",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/456"
+      },
+      {
+        "title": "show case of your own project in Yao's documentation",
+        "state": "open",
+        "assignees": [],
+        "value": 100,
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/382"
+      },
+      {
+        "title": "add Aqua test to this repo",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/381"
+      }
+    ],
+    "amount_available": 200,
+    "total_amount": 200
   },
   "pauliopt": {
     "name": "pauliopt",
