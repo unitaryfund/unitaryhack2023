@@ -43,3 +43,5 @@ bounties:
 ---
 
 Ever wanted to experiment with ion traps, superconducting qubits, and neutral atom quantum computers, all with a single interface...which just so happens to work with your favorite quantum SDK? The Qiskit-Braket provider has you covered! There's a lot of fun transpilation and circuit decomposition coding to be done!
+
+If you need assistance with any of the above bounties, please get in touch with maintainers of the project using [`unitary-hack-braket-support@amazon.com`](mailto:unitary-hack-braket-support@amazon.com).
