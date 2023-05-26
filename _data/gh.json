@@ -696,7 +696,8 @@
         "title": "Rename AWSBraketJob to AmazonBraketTask",
         "state": "open",
         "assignees": [
-          "dexter2206"
+          "dexter2206",
+          "devilkiller-ag"
         ],
         "value": 30,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/45"
@@ -712,7 +713,7 @@
         "title": "Tests: mock tests for cloud devices",
         "state": "open",
         "assignees": [
-          "Morcu"
+          "WingCode"
         ],
         "value": 100,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19"
@@ -750,7 +751,9 @@
       {
         "title": "BraketLocalBackend should display the correct backend name",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "devilkiller-ag"
+        ],
         "value": 25,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87"
       },
@@ -764,7 +767,9 @@
       {
         "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 30,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85"
       },
