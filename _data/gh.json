@@ -319,7 +319,9 @@
       {
         "title": "Improve naming and documentation of `noise_scaling_converter`",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "MZuhairKhan"
+        ],
         "value": 50,
         "url": "https://github.com/unitaryfund/mitiq/issues/1244"
       },
