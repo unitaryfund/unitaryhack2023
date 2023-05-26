@@ -563,9 +563,38 @@
     "name": "Amazon Braket SDK",
     "emoji": "\u2601\ufe0f\u269b\ufe0f",
     "url": "https://github.com/aws/amazon-braket-sdk-python",
-    "bounties": [],
-    "amount_available": 0,
-    "total_amount": 0
+    "bounties": [
+      {
+        "title": "Pauli and Clifford groups",
+        "state": "open",
+        "assignees": [],
+        "value": 75,
+        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/553"
+      },
+      {
+        "title": "Ocean for Analog Hamiltonian Simulation",
+        "state": "open",
+        "assignees": [],
+        "value": 200,
+        "url": "https://github.com/aws/amazon-braket-ocean-plugin-python/issues/72"
+      },
+      {
+        "title": "Support for the `run_batch()` method on `LocalSimulator`",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/320"
+      },
+      {
+        "title": "Amazon Braket backend support",
+        "state": "open",
+        "assignees": [],
+        "value": 75,
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/137"
+      }
+    ],
+    "amount_available": 400,
+    "total_amount": 400
   },
   "qunetsim": {
     "name": "QuNetSim",
@@ -645,9 +674,109 @@
     "name": "Qiskit Braket Provider",
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "url": "https://github.com/qiskit-community/qiskit-braket-provider",
-    "bounties": [],
-    "amount_available": 0,
-    "total_amount": 0
+    "bounties": [
+      {
+        "title": "Prebuilt docker container with examples",
+        "state": "open",
+        "assignees": [
+          "Morcu"
+        ],
+        "value": 60,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/35"
+      },
+      {
+        "title": "Rename AWSBraketJob to AmazonBraketTask",
+        "state": "open",
+        "assignees": [
+          "dexter2206"
+        ],
+        "value": 30,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/45"
+      },
+      {
+        "title": "Backends: incorporate gate errors information from Braket devices to unlock noise aware transpiling",
+        "state": "open",
+        "assignees": [],
+        "value": 75,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/25"
+      },
+      {
+        "title": "Tests: mock tests for cloud devices",
+        "state": "open",
+        "assignees": [
+          "Morcu"
+        ],
+        "value": 100,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19"
+      },
+      {
+        "title": "add get_statevector support for BraketLocalBackend",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47"
+      },
+      {
+        "title": "Updates for Qiskit to Braket circuit conversion",
+        "state": "open",
+        "assignees": [
+          "Morcu"
+        ],
+        "value": 50,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37"
+      },
+      {
+        "title": "Enable (some) transpilation with Braket",
+        "state": "open",
+        "assignees": [],
+        "value": 500,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91"
+      },
+      {
+        "title": "Support for Parametric Circuits",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86"
+      },
+      {
+        "title": "BraketLocalBackend should display the correct backend name",
+        "state": "open",
+        "assignees": [],
+        "value": 25,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87"
+      },
+      {
+        "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
+        "state": "open",
+        "assignees": [],
+        "value": 200,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/88"
+      },
+      {
+        "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
+        "state": "open",
+        "assignees": [],
+        "value": 30,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85"
+      },
+      {
+        "title": "Gate decomposition",
+        "state": "open",
+        "assignees": [],
+        "value": 500,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90"
+      },
+      {
+        "title": "Support noise models",
+        "state": "open",
+        "assignees": [],
+        "value": 75,
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89"
+      }
+    ],
+    "amount_available": 1745,
+    "total_amount": 1745
   },
   "toqito": {
     "name": "toqito",
@@ -1021,6 +1150,43 @@
         "assignees": [],
         "value": 125,
         "url": "https://github.com/pasqal-io/Pulser/issues/352"
+      }
+    ],
+    "amount_available": 500,
+    "total_amount": 500
+  },
+  "eczoo_data": {
+    "name": "Error Correction Zoo",
+    "emoji": "\ud83e\udd81",
+    "url": "https://github.com/errorcorrectionzoo/eczoo_data/",
+    "bounties": [
+      {
+        "title": "Generate all ancestors of a given code",
+        "state": "open",
+        "assignees": [],
+        "value": 200,
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296"
+      },
+      {
+        "title": "Find unlinked code names and attach links to them",
+        "state": "open",
+        "assignees": [],
+        "value": 200,
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47"
+      },
+      {
+        "title": "Contribute code worth TWO POINTS",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/228"
+      },
+      {
+        "title": "Contribute code worth TWO POINTS",
+        "state": "open",
+        "assignees": [],
+        "value": 50,
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/223"
       }
     ],
     "amount_available": 500,
