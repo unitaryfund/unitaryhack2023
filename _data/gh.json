@@ -1218,7 +1218,9 @@
       {
         "title": "Contribute code worth TWO POINTS",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "value": 50,
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/223"
       }
