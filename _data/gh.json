@@ -618,7 +618,9 @@
       {
         "title": "Implement a multi-node QKD network",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Nizdew"
+        ],
         "value": 100,
         "url": "https://github.com/tqsd/QuNetSim/issues/132"
       },
@@ -891,14 +893,18 @@
       {
         "title": "Implementation of surface codes",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "JiQing000"
+        ],
         "value": 75,
         "url": "https://github.com/abdullahkhalids/qecft/issues/1"
       },
       {
         "title": " Implementation of color codes",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "victor-onofre"
+        ],
         "value": 75,
         "url": "https://github.com/abdullahkhalids/qecft/issues/3"
       },
