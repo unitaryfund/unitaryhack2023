@@ -511,6 +511,7 @@
         "title": "OpenQASM 3.0 circuit drawer",
         "state": "open",
         "assignees": [
+          "CalebMcIrvinGitHub",
           "Miguelillnino"
         ],
         "value": 75,
@@ -519,7 +520,9 @@
       {
         "title": "Implement `IBMBackendWrapper.run_batch` method",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "TheGupta2012"
+        ],
         "value": 50,
         "url": "https://github.com/qBraid/qBraid/issues/231"
       }
