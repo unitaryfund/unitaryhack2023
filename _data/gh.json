@@ -822,7 +822,9 @@
       {
         "title": "Feature: Fidelity of separability",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "purva-thakre"
+        ],
         "value": 75,
         "url": "https://github.com/vprusso/toqito/issues/141"
       },
@@ -1110,7 +1112,9 @@
       {
         "title": "Improve CHSH score of Rigetti Aspen-M-3",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "value": 150,
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/8"
       },
