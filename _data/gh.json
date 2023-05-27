@@ -653,28 +653,28 @@
     "url": "https://github.com/hongyehu/PyClifford",
     "bounties": [
       {
-        "title": "Implementing state expectation in parallel for a given batch of stabilizer states",
+        "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
         "state": "open",
         "assignees": [],
         "value": 150,
         "url": "https://github.com/hongyehu/PyClifford/issues/15"
       },
       {
-        "title": "Mixed state unitary evolution and expectations",
+        "title": "[UnitaryHack] Mixed state unitary evolution and expectations",
         "state": "open",
         "assignees": [],
         "value": 150,
         "url": "https://github.com/hongyehu/PyClifford/issues/16"
       },
       {
-        "title": "Benchmarking and profiling the speed of pyclifford and torchclifford",
+        "title": "[UnitaryHack] Benchmarking and profiling the speed of pyclifford and torchclifford",
         "state": "open",
         "assignees": [],
         "value": 50,
         "url": "https://github.com/hongyehu/PyClifford/issues/17"
       },
       {
-        "title": "Intermediate representation of circuits and link to `stim` package for quantum error correction",
+        "title": "[unitaryHack] Intermediate representation of circuits and link to `stim` package for quantum error correction",
         "state": "open",
         "assignees": [],
         "value": 150,
@@ -813,7 +813,9 @@
       {
         "title": "Refactor: Partial trace and partial transpose",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "ErikQQY"
+        ],
         "value": 75,
         "url": "https://github.com/vprusso/toqito/issues/145"
       },
@@ -1327,7 +1329,9 @@
       {
         "title": "Highlight executor args/kwargs in the docs",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "ErikQQY"
+        ],
         "value": 25,
         "url": "https://github.com/AgnostiqHQ/covalent/issues/1637"
       },
