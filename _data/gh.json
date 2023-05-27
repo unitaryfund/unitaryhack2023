@@ -510,7 +510,9 @@
       {
         "title": "OpenQASM 3.0 circuit drawer",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Miguelillnino"
+        ],
         "value": 75,
         "url": "https://github.com/qBraid/qBraid/issues/227"
       },
@@ -598,7 +600,9 @@
       {
         "title": "Amazon Braket backend support",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "value": 75,
         "url": "https://github.com/mit-han-lab/torchquantum/issues/137"
       }
