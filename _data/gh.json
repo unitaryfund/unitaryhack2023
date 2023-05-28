@@ -270,7 +270,7 @@
     "bounties": [
       {
         "title": "Importing and Exporting the diagram",
-        "state": "open",
+        "state": "closed",
         "assignees": [
           "pandey-tushar"
         ],
@@ -301,7 +301,7 @@
         "url": "https://github.com/Quantomatic/zxlive/issues/10"
       }
     ],
-    "amount_available": 425,
+    "amount_available": 325,
     "total_amount": 500
   },
   "mitiq": {
@@ -850,7 +850,9 @@
       {
         "title": "Feature: Completely bounded trace norm",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Anish-lab98"
+        ],
         "value": 50,
         "url": "https://github.com/vprusso/toqito/issues/148"
       }
