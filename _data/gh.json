@@ -810,7 +810,7 @@
     "bounties": [
       {
         "title": "Question/Bug: Not able to apply channel correctly",
-        "state": "open",
+        "state": "closed",
         "assignees": [],
         "value": 100,
         "url": "https://github.com/vprusso/toqito/issues/144"
@@ -855,7 +855,7 @@
         "url": "https://github.com/vprusso/toqito/issues/148"
       }
     ],
-    "amount_available": 500,
+    "amount_available": 400,
     "total_amount": 500
   },
   "lambeq": {
