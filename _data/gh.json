@@ -1081,21 +1081,27 @@
       {
         "title": "Add unit tests which check pre-computed analytical expression",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "abrassel"
+        ],
         "value": 100,
         "url": "https://github.com/pasqal-io/PyQ/issues/60"
       },
       {
         "title": "Write doc strings for most important gates/circuits",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "prilcool"
+        ],
         "value": 100,
         "url": "https://github.com/pasqal-io/PyQ/issues/54"
       },
       {
         "title": "Unify the three hamiltonian evolution classes into one `HamiltonianEvolution`",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "zain2864"
+        ],
         "value": 100,
         "url": "https://github.com/pasqal-io/PyQ/issues/53"
       },
