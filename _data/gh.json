@@ -1049,7 +1049,9 @@
       {
         "title": "Prevent double authentication while using `openqaoa-azure`",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "value": 60,
         "url": "https://github.com/entropicalabs/openqaoa/issues/233"
       },
