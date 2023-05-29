@@ -487,7 +487,9 @@
       {
         "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "rum1887"
+        ],
         "value": 150,
         "url": "https://github.com/qBraid/qBraid/issues/233"
       },
@@ -503,7 +505,10 @@
       {
         "title": "Transpiler gate coverage benchmarking",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "TheGupta2012",
+          "JessicaJohnBritto"
+        ],
         "value": 100,
         "url": "https://github.com/qBraid/qBraid/issues/234"
       },
