@@ -102,7 +102,11 @@
       {
         "title": "Pulse level simulation and variational circuits",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "neogyk",
+          "jinleic",
+          "zlianghahaha"
+        ],
         "value": 100,
         "url": "https://github.com/mit-han-lab/torchquantum/issues/132"
       },
@@ -116,7 +120,10 @@
       {
         "title": "add supports for more basic operations and layers",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "pandey-tushar",
+          "bopardikarsoham"
+        ],
         "value": 100,
         "url": "https://github.com/mit-han-lab/torchquantum/issues/134"
       },
