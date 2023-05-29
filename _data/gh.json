@@ -749,14 +749,18 @@
       {
         "title": "Enable (some) transpilation with Braket",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "ogunsegun"
+        ],
         "value": 500,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91"
       },
       {
         "title": "Support for Parametric Circuits",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "urihan"
+        ],
         "value": 50,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86"
       },
@@ -772,7 +776,9 @@
       {
         "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "ogunsegun"
+        ],
         "value": 200,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/88"
       },
@@ -788,7 +794,9 @@
       {
         "title": "Gate decomposition",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "value": 500,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90"
       },
@@ -1108,14 +1116,18 @@
       {
         "title": "Add constructors like HEA to modules",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "neogyk"
+        ],
         "value": 100,
         "url": "https://github.com/pasqal-io/PyQ/issues/37"
       },
       {
         "title": "Overload the * operator of modules.RotationsGate to allow for gate composition",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "PedroCarreiras"
+        ],
         "value": 100,
         "url": "https://github.com/pasqal-io/PyQ/issues/36"
       }
