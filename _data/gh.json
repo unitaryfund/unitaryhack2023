@@ -395,7 +395,8 @@
         "title": "Benchmarking the performance of scqubits between releases",
         "state": "open",
         "assignees": [
-          "petergthatsme"
+          "petergthatsme",
+          "D3vanagar1"
         ],
         "value": 125,
         "url": "https://github.com/scqubits/scqubits/issues/187"
@@ -752,9 +753,7 @@
       {
         "title": "add get_statevector support for BraketLocalBackend",
         "state": "open",
-        "assignees": [
-          "manulpatel"
-        ],
+        "assignees": [],
         "value": 50,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47"
       },
@@ -805,7 +804,7 @@
       },
       {
         "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
-        "state": "open",
+        "state": "closed",
         "assignees": [
           "WingCode"
         ],
@@ -816,7 +815,10 @@
         "title": "Gate decomposition",
         "state": "open",
         "assignees": [
-          "AbdullahKazi500"
+          "abrassel",
+          "AbdullahKazi500",
+          "Gmontes01",
+          "s-aldaihan"
         ],
         "value": 500,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90"
@@ -824,12 +826,16 @@
       {
         "title": "Support noise models",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "ruijterj",
+          "rum1887",
+          "s-aldaihan"
+        ],
         "value": 75,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89"
       }
     ],
-    "amount_available": 1745,
+    "amount_available": 1715,
     "total_amount": 1745
   },
   "toqito": {
