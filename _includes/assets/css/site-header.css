@@ -30,15 +30,13 @@
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 0;
-  padding: 0;
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 li.site-header__item {
-  margin: 0 15px;
   font-weight: 500;
-  font-size: var(--font-size-h2);
 }
 
 .site-header__link {
@@ -46,6 +44,7 @@ li.site-header__item {
   align-items: center;
   color: var(--color-text);
   font-size: var(--font-size-nav);
+  padding: 0 16px;
 }
 
 .site-header__link:hover {
@@ -54,7 +53,7 @@ li.site-header__item {
 
 @media (min-width: 1024px) {
   .site-header__item {
-    margin: 0 20px;
+    margin: 0;
   }
 }
 
