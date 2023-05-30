@@ -1181,8 +1181,7 @@
         "title": "Randomness expansion using superconducting quantum computers",
         "state": "open",
         "assignees": [
-          "Nizdew",
-          "QuantumAsma"
+          "Nizdew"
         ],
         "value": 50,
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/6"
@@ -1199,7 +1198,9 @@
       {
         "title": "Adding a function to draw `SequenceSamples`",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "neogyk"
+        ],
         "value": 75,
         "url": "https://github.com/pasqal-io/Pulser/issues/522"
       },
