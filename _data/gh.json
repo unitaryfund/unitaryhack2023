@@ -863,13 +863,15 @@
       {
         "title": "Feature: Is UPB (unextendible product basis)",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "smtsjhr"
+        ],
         "value": 100,
         "url": "https://github.com/vprusso/toqito/issues/33"
       },
       {
         "title": "CI/CD: Setup automated lint + build system",
-        "state": "open",
+        "state": "closed",
         "assignees": [],
         "value": 100,
         "url": "https://github.com/vprusso/toqito/issues/146"
@@ -884,7 +886,7 @@
         "url": "https://github.com/vprusso/toqito/issues/148"
       }
     ],
-    "amount_available": 400,
+    "amount_available": 300,
     "total_amount": 500
   },
   "lambeq": {
