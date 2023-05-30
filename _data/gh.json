@@ -1171,14 +1171,19 @@
       {
         "title": "Min-entropy for superconducting qubits platform",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Nizdew"
+        ],
         "value": 150,
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/5"
       },
       {
         "title": "Randomness expansion using superconducting quantum computers",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Nizdew",
+          "QuantumAsma"
+        ],
         "value": 50,
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/6"
       }
