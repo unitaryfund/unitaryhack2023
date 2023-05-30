@@ -37,6 +37,7 @@
 
 li.site-header__item {
   font-weight: 500;
+  margin-bottom: 0.4em;
 }
 
 .site-header__link {
