@@ -318,7 +318,7 @@
     "bounties": [
       {
         "title": "Custom package and circuit interface",
-        "state": "open",
+        "state": "closed",
         "assignees": [],
         "value": 100,
         "url": "https://github.com/unitaryfund/mitiq/issues/1377"
@@ -354,7 +354,7 @@
         "url": "https://github.com/unitaryfund/mitiq/issues/1715"
       }
     ],
-    "amount_available": 450,
+    "amount_available": 350,
     "total_amount": 450
   },
   "scqubits": {
