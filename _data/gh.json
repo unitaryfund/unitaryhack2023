@@ -752,7 +752,9 @@
       {
         "title": "add get_statevector support for BraketLocalBackend",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "manulpatel"
+        ],
         "value": 50,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47"
       },
