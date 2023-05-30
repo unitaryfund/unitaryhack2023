@@ -469,7 +469,10 @@
       {
         "title": "Add a Variational Quantum Time Evolution Tutorial",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "MihirsinhChauhan",
+          "wenxh0718"
+        ],
         "value": 150,
         "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391"
       },
@@ -649,7 +652,9 @@
       {
         "title": "Implement a simulation for MDI-QKD",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "atomgardner"
+        ],
         "value": 100,
         "url": "https://github.com/tqsd/QuNetSim/issues/131"
       },
