@@ -751,7 +751,9 @@
       {
         "title": "Question/Bug: Not able to apply channel correctly",
         "state": "closed",
-        "assignees": [],
+        "assignees": [
+          "georgios-ts"
+        ],
         "value": 100,
         "url": "https://github.com/vprusso/toqito/issues/144"
       },
