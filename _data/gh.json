@@ -316,7 +316,9 @@
       {
         "title": "Consistent naming conventions",
         "state": "closed",
-        "assignees": [],
+        "assignees": [
+          "mark-koch"
+        ],
         "value": 75,
         "url": "https://github.com/Quantomatic/zxlive/issues/12"
       },
