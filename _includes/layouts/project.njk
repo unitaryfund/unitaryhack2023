@@ -12,7 +12,7 @@ section: project
 
   {% set bounties = gh[id or title | lower].bounties %}
   {% if bounties %}
-    {% for state, bts in bounties | groupby("state") %}
+    {% for state, bts in bounties | groupby("state") | dictsort | reverse %}
       <h5>{{ state | capitalize }} bounties:</h5>
       <ul class="bounties">
         {% for bounty in bts %}
