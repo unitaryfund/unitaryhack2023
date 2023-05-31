@@ -134,7 +134,10 @@
       {
         "title": "enhance the documentations and tests",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "josephtedds",
+          "MihirsinhChauhan"
+        ],
         "value": 100,
         "url": "https://github.com/mit-han-lab/torchquantum/issues/135"
       }
