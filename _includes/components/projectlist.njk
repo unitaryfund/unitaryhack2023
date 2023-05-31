@@ -6,6 +6,7 @@
       style="cursor:pointer;"
       {% if post.url == url %} data-current="current item"{% endif %}>
         {% set project = post.data %}
+        {% set project_meta = gh[project.id or project.title | lower] %}
         <h4 class="project-card__title" >
           {% if project.emoji %}
             <span class="project-card__emoji">{{ project.emoji }}</span>
@@ -25,6 +26,12 @@
             {% endfor %}
           </p>
         {% endif %}
+
+        {% set num_completed = project_meta.num_bounties - project_meta.num_open_bounties %}
+        <label for="bounty-progress">
+          Bounties open: {{ project_meta.num_open_bounties }}
+        </label>
+        <progress id="bounty-progress" max={{ project_meta.num_bounties }} value={{ num_completed }}></progress>
       </div>
     {% endfor %}
   </div>

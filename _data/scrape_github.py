@@ -31,7 +31,9 @@ for project in get_project_info():
     issue_list = []
     amount_available = 0
     total_bounty_amount = 0
-    for bounty in project.get("bounties", []):
+    bounties = project.get("bounties", [])
+    num_open_bounties = 0
+    for bounty in bounties:
         total_bounty_amount += bounty["value"]
         repo_key = bounty.get("repo") or main_project_repo_key
         repo = g.get_repo(repo_key)
@@ -40,6 +42,7 @@ for project in get_project_info():
         issue = repo.get_issue(number=issue_num)
         if issue.state == "open":
             amount_available += bounty["value"]
+            num_open_bounties += 1
         issue_list.append(
             {
                 "title": issue.title,
@@ -57,6 +60,8 @@ for project in get_project_info():
         "bounties": issue_list,
         "amount_available": amount_available,
         "total_amount": total_bounty_amount,
+        "num_bounties": len(bounties),
+        "num_open_bounties": num_open_bounties,
     }
 
 
