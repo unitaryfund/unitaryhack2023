@@ -48,7 +48,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 6,
+    "num_open_bounties": 6
   },
   "perceval": {
     "name": "Perceval",
@@ -85,7 +87,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "torchquantum": {
     "name": "TorchQuantum",
@@ -144,7 +148,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "bloqade.jl": {
     "name": "Bloqade",
@@ -202,7 +208,9 @@
       }
     ],
     "amount_available": 375,
-    "total_amount": 375
+    "total_amount": 375,
+    "num_bounties": 6,
+    "num_open_bounties": 6
   },
   "symmer": {
     "name": "Symmer",
@@ -232,7 +240,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "qiskit-aer": {
     "name": "Qiskit Aer",
@@ -276,7 +286,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "zxlive": {
     "name": "ZX Live",
@@ -317,7 +329,9 @@
       }
     ],
     "amount_available": 325,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 2
   },
   "mitiq": {
     "name": "Mitiq",
@@ -365,7 +379,9 @@
       }
     ],
     "amount_available": 350,
-    "total_amount": 450
+    "total_amount": 450,
+    "num_bounties": 5,
+    "num_open_bounties": 4
   },
   "scqubits": {
     "name": "scqubits",
@@ -411,7 +427,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "metriq-app": {
     "name": "Metriq",
@@ -463,7 +481,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "qiskit-terra": {
     "name": "Qiskit",
@@ -498,7 +518,9 @@
       }
     ],
     "amount_available": 450,
-    "total_amount": 450
+    "total_amount": 450,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "qbraid": {
     "name": "qBraid-SDK",
@@ -554,7 +576,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "graphix": {
     "name": "Graphix",
@@ -598,7 +622,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "amazon-braket-sdk-python": {
     "name": "Amazon Braket SDK",
@@ -637,7 +663,9 @@
       }
     ],
     "amount_available": 400,
-    "total_amount": 400
+    "total_amount": 400,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "qunetsim": {
     "name": "QuNetSim",
@@ -678,7 +706,9 @@
       }
     ],
     "amount_available": 400,
-    "total_amount": 400
+    "total_amount": 400,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "pyclifford": {
     "name": "PyClifford",
@@ -715,7 +745,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "qiskit-braket-provider": {
     "name": "Qiskit Braket Provider",
@@ -844,7 +876,9 @@
       }
     ],
     "amount_available": 1715,
-    "total_amount": 1745
+    "total_amount": 1745,
+    "num_bounties": 13,
+    "num_open_bounties": 12
   },
   "toqito": {
     "name": "toqito",
@@ -903,7 +937,9 @@
       }
     ],
     "amount_available": 300,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 6,
+    "num_open_bounties": 4
   },
   "lambeq": {
     "name": "lambeq",
@@ -933,7 +969,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "qecft": {
     "name": "QECFT Book",
@@ -976,7 +1014,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "yao.jl": {
     "name": "Yao",
@@ -1006,7 +1046,9 @@
       }
     ],
     "amount_available": 200,
-    "total_amount": 200
+    "total_amount": 200,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "pauliopt": {
     "name": "pauliopt",
@@ -1036,7 +1078,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "bqskit": {
     "name": "BQSKit",
@@ -1066,7 +1110,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "openqaoa": {
     "name": "OpenQAOA",
@@ -1116,7 +1162,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "pyq": {
     "name": "PyQ",
@@ -1170,7 +1218,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 5
   },
   "quantum-randomness-generator": {
     "name": "Dora Factory Quantum Experiments",
@@ -1213,7 +1263,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "pulser": {
     "name": "Pulser",
@@ -1267,7 +1319,9 @@
       }
     ],
     "amount_available": 475,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 5,
+    "num_open_bounties": 4
   },
   "eczoo_data": {
     "name": "Error Correction Zoo",
@@ -1308,7 +1362,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "qrack": {
     "name": "Qrack",
@@ -1340,7 +1396,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "hierarqcal": {
     "name": "HierarQcal",
@@ -1377,7 +1435,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 4,
+    "num_open_bounties": 4
   },
   "qutip": {
     "name": "QuTiP",
@@ -1407,7 +1467,9 @@
       }
     ],
     "amount_available": 300,
-    "total_amount": 300
+    "total_amount": 300,
+    "num_bounties": 3,
+    "num_open_bounties": 3
   },
   "covalent": {
     "name": "Covalent",
@@ -1462,7 +1524,9 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 6,
+    "num_open_bounties": 6
   },
   "kqcircuits": {
     "name": "KQCircuits",
@@ -1513,6 +1577,8 @@
       }
     ],
     "amount_available": 500,
-    "total_amount": 500
+    "total_amount": 500,
+    "num_bounties": 6,
+    "num_open_bounties": 6
   }
 }
