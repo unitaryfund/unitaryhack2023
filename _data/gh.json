@@ -95,7 +95,11 @@
       {
         "title": "add support for more quantum algorithms",
         "state": "open",
-        "assignees": [],
+        "assignees": [
+          "Jayshah25",
+          "Anantha-Rao12",
+          "s-aldaihan"
+        ],
         "value": 100,
         "url": "https://github.com/mit-han-lab/torchquantum/issues/136"
       },
