@@ -25,4 +25,4 @@ bounties:
 
 The official, open-source SDK for interacting with quantum computers and simulators available on Amazon Braket: the quantum computing service of AWS.
 
-If you need assistance with any of the above bounties, please get in touch with maintainers of the project using [`unitary-hack-braket-support@amazon.com`](mailto:unitary-hack-braket-support@amazon.com).
+If you need assistance with any of the above bounties, please get in touch with maintainers of the project using [<code><span style="white-space: nowrap;">unitary-hack-braket-support@amazon.com</span></code>](mailto:unitary-hack-braket-support@amazon.com).
