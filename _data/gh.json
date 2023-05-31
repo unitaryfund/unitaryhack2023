@@ -829,7 +829,7 @@
       },
       {
         "title": "BraketLocalBackend should display the correct backend name",
-        "state": "open",
+        "state": "closed",
         "assignees": [
           "devilkiller-ag"
         ],
@@ -840,7 +840,8 @@
         "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
         "state": "open",
         "assignees": [
-          "ogunsegun"
+          "ogunsegun",
+          "SimoneGasperini"
         ],
         "value": 200,
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/88"
@@ -878,10 +879,10 @@
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89"
       }
     ],
-    "amount_available": 1715,
+    "amount_available": 1690,
     "total_amount": 1745,
     "num_bounties": 13,
-    "num_open_bounties": 12
+    "num_open_bounties": 11
   },
   "toqito": {
     "name": "toqito",
