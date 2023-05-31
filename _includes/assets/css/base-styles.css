@@ -115,6 +115,7 @@ a {
 a:hover {
   color: var(--color-secondary);
   background-color: var(--color-bg-secondary);
+  box-shadow: 0 0 8px 8px var(--color-bg-secondary);
 }
 
 ul {
@@ -156,6 +157,7 @@ blockquote p {
 
 blockquote a:hover {
   background-color: white;
+  box-shadow: 0 0 8px 8px white;
 }
 
 img,
