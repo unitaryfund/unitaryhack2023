@@ -6,13 +6,11 @@
       style="cursor:pointer;"
       {% if post.url == url %} data-current="current item"{% endif %}>
         {% set project = post.data %}
-        <h4>
-          <div class="project-card__title" >
-            {% if project.emoji %}
-              <span class="project-card__emoji">{{ project.emoji }}</span>
-            {% endif %}
-            {{ project.title }}
-          </div>
+        <h4 class="project-card__title" >
+          {% if project.emoji %}
+            <span class="project-card__emoji">{{ project.emoji }}</span>
+          {% endif %}
+          {{ project.title }}
         </h4>
         <p>
           {{ project.summary }}
