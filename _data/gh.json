@@ -1,6 +1,6 @@
 {
   "amazon-braket-sdk-python": {
-    "amount_available": 400,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [],
@@ -18,7 +18,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Support for the `run_batch()` method on `LocalSimulator`",
         "url": "https://github.com/aws/amazon-braket-sdk-python/issues/320",
         "value": 50
@@ -36,7 +36,7 @@
     "emoji": "\u2601\ufe0f\u269b\ufe0f",
     "name": "Amazon Braket SDK",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 400,
     "url": "https://github.com/aws/amazon-braket-sdk-python"
   },
@@ -986,7 +986,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1690,
+    "amount_available": 1640,
     "bounties": [
       {
         "assignees": [
@@ -1053,7 +1053,7 @@
         "assignees": [
           "urihan"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support for Parametric Circuits",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86",
         "value": 50
@@ -1113,7 +1113,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 11,
+    "num_open_bounties": 10,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1460,6 +1460,7 @@
     "bounties": [
       {
         "assignees": [
+          "hrahman12",
           "Jayshah25",
           "Anantha-Rao12",
           "bopardikarsoham",
