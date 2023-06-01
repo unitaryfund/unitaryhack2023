@@ -1550,7 +1550,7 @@
     "url": "https://github.com/QuantumBFS/Yao.jl"
   },
   "zxlive": {
-    "amount_available": 325,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1563,9 +1563,10 @@
       },
       {
         "assignees": [
-          "Econ01"
+          "Econ01",
+          "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Improving the GUI",
         "url": "https://github.com/Quantomatic/zxlive/issues/6",
         "value": 225
@@ -1590,7 +1591,7 @@
     "emoji": "\ud83d\udd77\ufe0f\ud83c\udfa5",
     "name": "ZX Live",
     "num_bounties": 4,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/Quantomatic/zxlive"
   }
