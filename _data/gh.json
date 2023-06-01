@@ -1157,7 +1157,7 @@
     "url": "https://github.com/Qiskit/qiskit-terra"
   },
   "qrack": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [
@@ -1179,7 +1179,7 @@
         "assignees": [
           "golanor"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Unit tests: mirror circuits",
         "url": "https://github.com/unitaryfund/pyqrack/issues/13",
         "value": 100
@@ -1188,7 +1188,7 @@
     "emoji": "\ud83e\udea8\ud83d\udd28",
     "name": "Qrack",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/qrack"
   },
@@ -1250,7 +1250,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "lavanya-m-k"
+        ],
         "state": "open",
         "title": "Add a variation of \"get_classical\" that can receive a message from any host",
         "url": "https://github.com/tqsd/QuNetSim/issues/145",
