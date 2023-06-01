@@ -458,7 +458,7 @@
     "url": "https://github.com/unitaryfund/metriq-app"
   },
   "mitiq": {
-    "amount_available": 350,
+    "amount_available": 270,
     "bounties": [
       {
         "assignees": [
@@ -479,8 +479,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "andre-a-alves"
+        ],
+        "state": "closed",
         "title": "Make mitiq compatible with latest version of Qiskit",
         "url": "https://github.com/unitaryfund/mitiq/issues/1835",
         "value": 80
@@ -503,7 +505,7 @@
     "emoji": "\ud83c\udf34",
     "name": "Mitiq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 450,
     "url": "https://github.com/unitaryfund/mitiq"
   },
