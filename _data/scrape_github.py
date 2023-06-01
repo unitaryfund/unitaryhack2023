@@ -66,4 +66,4 @@ for project in get_project_info():
 
 
 with open("gh.json", "w") as f:
-    json.dump(projects, f, indent=2)
+    json.dump(projects, f, indent=2, sort_keys=True)
