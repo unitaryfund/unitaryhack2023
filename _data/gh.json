@@ -1,1593 +1,1593 @@
 {
-  "pennylane": {
-    "name": "PennyLane",
-    "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
-    "url": "https://github.com/PennyLaneAI/pennylane",
+  "amazon-braket-sdk-python": {
+    "amount_available": 400,
     "bounties": [
       {
-        "title": "Provide an informative string representation for ParametrizedHamiltonian",
-        "state": "open",
         "assignees": [],
-        "value": 150,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4088"
+        "state": "open",
+        "title": "Pauli and Clifford groups",
+        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/553",
+        "value": 75
       },
       {
-        "title": "Add support for calculating the trace distance",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4098"
+        "state": "open",
+        "title": "Ocean for Analog Hamiltonian Simulation",
+        "url": "https://github.com/aws/amazon-braket-ocean-plugin-python/issues/72",
+        "value": 200
       },
       {
-        "title": "Support qutrit state preparations",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4122"
+        "state": "open",
+        "title": "Support for the `run_batch()` method on `LocalSimulator`",
+        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/320",
+        "value": 50
       },
       {
-        "title": "Add one_qubit_decomposition function",
-        "state": "open",
-        "assignees": [],
-        "value": 75,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4121"
-      },
-      {
-        "title": "[BUG] Operations in `has_unitary_generator` do not really have unitary generators",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4055"
-      },
-      {
-        "title": "Update plugins in Docker builds",
-        "state": "open",
-        "assignees": [],
-        "value": 25,
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4123"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 6,
-    "num_open_bounties": 6
-  },
-  "perceval": {
-    "name": "Perceval",
-    "emoji": "\ud83d\udde1\ufe0f",
-    "url": "https://github.com/Quandela/Perceval",
-    "bounties": [
-      {
-        "title": "Heralds out of their box",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/Quandela/Perceval/issues/207"
-      },
-      {
-        "title": "Beautify display of circuits",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/Quandela/Perceval/issues/205"
-      },
-      {
-        "title": "Latex Renderer",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/Quandela/Perceval/issues/206"
-      },
-      {
-        "title": "Definition of (perfect) complex input states",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/Quandela/Perceval/issues/208"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 4
-  },
-  "torchquantum": {
-    "name": "TorchQuantum",
-    "emoji": "\ud83c\udf45",
-    "url": "https://github.com/mit-han-lab/torchquantum",
-    "bounties": [
-      {
-        "title": "add support for more quantum algorithms",
-        "state": "open",
-        "assignees": [
-          "Jayshah25",
-          "Anantha-Rao12",
-          "bopardikarsoham",
-          "s-aldaihan"
-        ],
-        "value": 100,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/136"
-      },
-      {
-        "title": "Pulse level simulation and variational circuits",
-        "state": "open",
-        "assignees": [
-          "neogyk",
-          "jinleic",
-          "zlianghahaha"
-        ],
-        "value": 100,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/132"
-      },
-      {
-        "title": "support more gradient estimation methods",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/133"
-      },
-      {
-        "title": "add supports for more basic operations and layers",
-        "state": "open",
-        "assignees": [
-          "pandey-tushar",
-          "bopardikarsoham"
-        ],
-        "value": 100,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/134"
-      },
-      {
-        "title": "enhance the documentations and tests",
-        "state": "open",
-        "assignees": [
-          "josephtedds",
-          "MihirsinhChauhan"
-        ],
-        "value": 100,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/135"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 5,
-    "num_open_bounties": 5
-  },
-  "bloqade.jl": {
-    "name": "Bloqade",
-    "emoji": null,
-    "url": "https://github.com/QuEraComputing/Bloqade.jl",
-    "bounties": [
-      {
-        "title": "[DOC] More examples for `BloqadeLattices` docstrings",
-        "state": "open",
         "assignees": [
           "AbdullahKazi500"
         ],
-        "value": 25,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/517"
+        "state": "open",
+        "title": "Amazon Braket backend support",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/137",
+        "value": 75
+      }
+    ],
+    "emoji": "\u2601\ufe0f\u269b\ufe0f",
+    "name": "Amazon Braket SDK",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 400,
+    "url": "https://github.com/aws/amazon-braket-sdk-python"
+  },
+  "bloqade.jl": {
+    "amount_available": 375,
+    "bounties": [
+      {
+        "assignees": [
+          "AbdullahKazi500"
+        ],
+        "state": "open",
+        "title": "[DOC] More examples for `BloqadeLattices` docstrings",
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/517",
+        "value": 25
       },
       {
-        "title": "[Feature Request] CompatHelper",
-        "state": "open",
         "assignees": [],
-        "value": 25,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/375"
+        "state": "open",
+        "title": "[Feature Request] CompatHelper",
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/375",
+        "value": 25
       },
       {
-        "title": "[Feature Request] GPU kernel for \"measure\" and \"rydberg_corr\"",
-        "state": "open",
         "assignees": [
           "Roger-luo"
         ],
-        "value": 100,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/372"
+        "state": "open",
+        "title": "[Feature Request] GPU kernel for \"measure\" and \"rydberg_corr\"",
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/372",
+        "value": 100
       },
       {
+        "assignees": [],
+        "state": "open",
         "title": "[BUG] Correlation function is not fully compatible with Blockade subspace",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/371"
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/371",
+        "value": 100
       },
       {
+        "assignees": [],
+        "state": "open",
         "title": "[Feature Request] support subspace expect on hamiltonian terms",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/323"
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/323",
+        "value": 100
       },
       {
-        "title": "allow changing default color scheme via perferences for Lattices and other plots",
-        "state": "open",
         "assignees": [
           "GiggleLiu",
           "Roger-luo"
         ],
-        "value": 25,
-        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/92"
+        "state": "open",
+        "title": "allow changing default color scheme via perferences for Lattices and other plots",
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/92",
+        "value": 25
       }
     ],
-    "amount_available": 375,
-    "total_amount": 375,
+    "emoji": null,
+    "name": "Bloqade",
     "num_bounties": 6,
-    "num_open_bounties": 6
+    "num_open_bounties": 6,
+    "total_amount": 375,
+    "url": "https://github.com/QuEraComputing/Bloqade.jl"
   },
-  "symmer": {
-    "name": "Symmer",
-    "emoji": "\ud83e\udd58\ud83d\udd25",
-    "url": "https://github.com/UCL-CCS/symmer",
+  "bqskit": {
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "unitaryHACK #1: Faster to_sparse_matrix method",
-        "state": "open",
         "assignees": [],
-        "value": 200,
-        "url": "https://github.com/UCL-CCS/symmer/issues/137"
+        "state": "open",
+        "title": "Better Qudit Gate Support",
+        "url": "https://github.com/bqskit/bqskit/issues/153",
+        "value": 200
       },
       {
-        "title": "unitaryHACK #2: Optimization of MPO construction",
-        "state": "open",
         "assignees": [],
-        "value": 200,
-        "url": "https://github.com/UCL-CCS/symmer/issues/138"
+        "state": "open",
+        "title": "`DaggerGate` vs actually inverting the gate, qasm output for `DaggerGate`",
+        "url": "https://github.com/bqskit/bqskit/issues/121",
+        "value": 200
       },
       {
-        "title": "unitaryHACK #3: Code Documentation",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/UCL-CCS/symmer/issues/139"
+        "state": "open",
+        "title": "Non-deterministic circuit iteration for regions",
+        "url": "https://github.com/bqskit/bqskit/issues/150",
+        "value": 100
       }
     ],
-    "amount_available": 500,
-    "total_amount": 500,
+    "emoji": null,
+    "name": "BQSKit",
     "num_bounties": 3,
-    "num_open_bounties": 3
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/bqskit/bqskit"
   },
-  "qiskit-aer": {
-    "name": "Qiskit Aer",
-    "emoji": "\ud83c\udf2c\ufe0f",
-    "url": "https://github.com/Qiskit/qiskit-aer",
-    "bounties": [
-      {
-        "title": "Remove `PulseSimulator`",
-        "state": "open",
-        "assignees": [],
-        "value": 180,
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1805"
-      },
-      {
-        "title": "Remove Python 3.7 from Github actions",
-        "state": "open",
-        "assignees": [],
-        "value": 80,
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1807"
-      },
-      {
-        "title": "Renew example codes in README",
-        "state": "open",
-        "assignees": [],
-        "value": 80,
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1806"
-      },
-      {
-        "title": "Qiskit Aer still uses execute",
-        "state": "open",
-        "assignees": [],
-        "value": 80,
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1632"
-      },
-      {
-        "title": "Some typos in qiskit_aer.AerSimulator docs",
-        "state": "open",
-        "assignees": [],
-        "value": 80,
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611"
-      }
-    ],
+  "covalent": {
     "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "ErikQQY",
+          "aryanguptaaa"
+        ],
+        "state": "open",
+        "title": "Highlight executor args/kwargs in the docs",
+        "url": "https://github.com/AgnostiqHQ/covalent/issues/1637",
+        "value": 25
+      },
+      {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "open",
+        "title": "Determine if covalent subprocess starts successfully",
+        "url": "https://github.com/AgnostiqHQ/covalent/issues/1648",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Support task cancellation",
+        "url": "https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Support task cancellation",
+        "url": "https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "`@ct.lattice(@ct.electron)` seems to change function scope",
+        "url": "https://github.com/AgnostiqHQ/covalent/issues/1643",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Leptons render python wrapper code in UI instead of source code",
+        "url": "https://github.com/AgnostiqHQ/covalent/issues/697",
+        "value": 150
+      }
+    ],
+    "emoji": "\ud83d\udd00\u2601\ufe0f",
+    "name": "Covalent",
+    "num_bounties": 6,
+    "num_open_bounties": 6,
     "total_amount": 500,
-    "num_bounties": 5,
-    "num_open_bounties": 5
+    "url": "https://github.com/AgnostiqHQ/covalent"
   },
-  "zxlive": {
-    "name": "ZX Live",
-    "emoji": "\ud83d\udd77\ufe0f\ud83c\udfa5",
-    "url": "https://github.com/Quantomatic/zxlive",
-    "bounties": [
-      {
-        "title": "Importing and Exporting the diagram",
-        "state": "closed",
-        "assignees": [
-          "pandey-tushar"
-        ],
-        "value": 100,
-        "url": "https://github.com/Quantomatic/zxlive/issues/3"
-      },
-      {
-        "title": "Improving the GUI",
-        "state": "open",
-        "assignees": [
-          "Econ01"
-        ],
-        "value": 225,
-        "url": "https://github.com/Quantomatic/zxlive/issues/6"
-      },
-      {
-        "title": "Consistent naming conventions",
-        "state": "closed",
-        "assignees": [
-          "mark-koch"
-        ],
-        "value": 75,
-        "url": "https://github.com/Quantomatic/zxlive/issues/12"
-      },
-      {
-        "title": "Code organisation",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/Quantomatic/zxlive/issues/10"
-      }
-    ],
-    "amount_available": 325,
-    "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 2
-  },
-  "mitiq": {
-    "name": "Mitiq",
-    "emoji": "\ud83c\udf34",
-    "url": "https://github.com/unitaryfund/mitiq",
-    "bounties": [
-      {
-        "title": "Custom package and circuit interface",
-        "state": "closed",
-        "assignees": [
-          "Aaron-Robertson"
-        ],
-        "value": 100,
-        "url": "https://github.com/unitaryfund/mitiq/issues/1377"
-      },
-      {
-        "title": "Improve naming and documentation of `noise_scaling_converter`",
-        "state": "open",
-        "assignees": [
-          "MZuhairKhan"
-        ],
-        "value": 50,
-        "url": "https://github.com/unitaryfund/mitiq/issues/1244"
-      },
-      {
-        "title": "Make mitiq compatible with latest version of Qiskit",
-        "state": "open",
-        "assignees": [],
-        "value": 80,
-        "url": "https://github.com/unitaryfund/mitiq/issues/1835"
-      },
-      {
-        "title": "Add download option button to tutorials in docs",
-        "state": "open",
-        "assignees": [],
-        "value": 120,
-        "url": "https://github.com/unitaryfund/mitiq/issues/1619"
-      },
-      {
-        "title": "Improve the cost estimation to run a Calibrator",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/unitaryfund/mitiq/issues/1715"
-      }
-    ],
-    "amount_available": 350,
-    "total_amount": 450,
-    "num_bounties": 5,
-    "num_open_bounties": 4
-  },
-  "scqubits": {
-    "name": "scqubits",
-    "emoji": "\ud83d\udce1",
-    "url": "https://github.com/scqubits/scqubits",
-    "bounties": [
-      {
-        "title": "Short tutorial video on using scqubits",
-        "state": "open",
-        "assignees": [
-          "petergthatsme"
-        ],
-        "value": 200,
-        "url": "https://github.com/scqubits/scqubits/issues/184"
-      },
-      {
-        "title": "Adding code documentation",
-        "state": "open",
-        "assignees": [
-          "petergthatsme"
-        ],
-        "value": 75,
-        "url": "https://github.com/scqubits/scqubits/issues/186"
-      },
-      {
-        "title": "Adding support for 1/f flux noise channel to the flux qubit class",
-        "state": "open",
-        "assignees": [
-          "petergthatsme"
-        ],
-        "value": 100,
-        "url": "https://github.com/scqubits/scqubits/issues/185"
-      },
-      {
-        "title": "Benchmarking the performance of scqubits between releases",
-        "state": "open",
-        "assignees": [
-          "petergthatsme",
-          "D3vanagar1"
-        ],
-        "value": 125,
-        "url": "https://github.com/scqubits/scqubits/issues/187"
-      }
-    ],
+  "eczoo_data": {
     "amount_available": 500,
-    "total_amount": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "open",
+        "title": "Generate all ancestors of a given code",
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Find unlinked code names and attach links to them",
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Contribute code worth TWO POINTS",
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/228",
+        "value": 50
+      },
+      {
+        "assignees": [
+          "AbdullahKazi500"
+        ],
+        "state": "open",
+        "title": "Contribute code worth TWO POINTS",
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/223",
+        "value": 50
+      }
+    ],
+    "emoji": "\ud83e\udd81",
+    "name": "Error Correction Zoo",
     "num_bounties": 4,
-    "num_open_bounties": 4
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/errorcorrectionzoo/eczoo_data/"
+  },
+  "graphix": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Measurement pattern for error-corrected MBQC",
+        "url": "https://github.com/TeamGraphix/graphix/issues/48",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[demo] Quantum neural network",
+        "url": "https://github.com/TeamGraphix/graphix/issues/46",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Measurement pattern for Toffoli gate ",
+        "url": "https://github.com/TeamGraphix/graphix/issues/49",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Parameterized measurement patterns",
+        "url": "https://github.com/TeamGraphix/graphix/issues/45",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Resource state visualization",
+        "url": "https://github.com/TeamGraphix/graphix/issues/47",
+        "value": 50
+      }
+    ],
+    "emoji": "\ud83d\udd78\ufe0f",
+    "name": "Graphix",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/TeamGraphix/graphix"
+  },
+  "hierarqcal": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Implement a N - qubit QFT with one line of code.",
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/26",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add functionality to visualise hypergraphs (N-ary edges for digraphs)",
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/27",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Build simple circuits with strings",
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/28",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Quantum Chemistry example notebook for the exponentiation of Pauli operators",
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/29",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83e\udea1",
+    "name": "HierarQcal",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/matt-lourens/hierarqcal"
+  },
+  "kqcircuits": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Design SuperInductor junction for Fluxonium devices",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/45",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Reload existing PCells without closing GUI",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/14",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "First level parallelisation of scripts running Ansys FEM simulator",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/42",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Display ports in simulation export Klayout dialog",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/52",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add parameter names to markers in documentation",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/53",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Provide Vim command for `create_element_from_path.py`",
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/48",
+        "value": 50
+      }
+    ],
+    "emoji": "\ud83e\udd91",
+    "name": "KQCircuits",
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 500,
+    "url": "https://github.com/iqm-finland/KQCircuits"
+  },
+  "lambeq": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "UnitaryHACK: Serialise ansatz and include in model",
+        "url": "https://github.com/CQCL/lambeq/issues/86",
+        "value": 250
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
+        "url": "https://github.com/CQCL/lambeq/issues/85",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
+        "url": "https://github.com/CQCL/lambeq/issues/84",
+        "value": 100
+      }
+    ],
+    "emoji": null,
+    "name": "lambeq",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "name": "Metriq",
-    "emoji": "\ud83d\udcca",
-    "url": "https://github.com/unitaryfund/metriq-app",
+    "amount_available": 325,
     "bounties": [
       {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "open",
         "title": "Add test suite for examples directory",
-        "state": "open",
+        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
+        "value": 100
+      },
+      {
         "assignees": [
           "WingCode"
         ],
-        "value": 100,
-        "url": "https://github.com/unitaryfund/metriq-client/issues/71"
-      },
-      {
+        "state": "open",
         "title": "Add examples for missing submission endpoints",
-        "state": "open",
-        "assignees": [
-          "WingCode"
-        ],
-        "value": 75,
-        "url": "https://github.com/unitaryfund/metriq-client/issues/72"
+        "url": "https://github.com/unitaryfund/metriq-client/issues/72",
+        "value": 75
       },
       {
-        "title": "Add examples for results API endpoints",
-        "state": "open",
         "assignees": [
           "anushkrishnav"
         ],
-        "value": 75,
-        "url": "https://github.com/unitaryfund/metriq-client/issues/73"
-      },
-      {
-        "title": "Make it possible to create a new platform from the add result modal",
         "state": "open",
-        "assignees": [],
-        "value": 75,
-        "url": "https://github.com/unitaryfund/metriq-app/issues/708"
+        "title": "Add examples for results API endpoints",
+        "url": "https://github.com/unitaryfund/metriq-client/issues/73",
+        "value": 75
       },
       {
-        "title": "Add mathjax support to text input boxes boxes",
-        "state": "closed",
+        "assignees": [],
+        "state": "open",
+        "title": "Make it possible to create a new platform from the add result modal",
+        "url": "https://github.com/unitaryfund/metriq-app/issues/708",
+        "value": 75
+      },
+      {
         "assignees": [
           "Aaron-Robertson"
         ],
-        "value": 175,
-        "url": "https://github.com/unitaryfund/metriq-app/issues/269"
+        "state": "closed",
+        "title": "Add mathjax support to text input boxes boxes",
+        "url": "https://github.com/unitaryfund/metriq-app/issues/269",
+        "value": 175
       }
     ],
-    "amount_available": 325,
-    "total_amount": 500,
+    "emoji": "\ud83d\udcca",
+    "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 4
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/unitaryfund/metriq-app"
   },
-  "qiskit-terra": {
-    "name": "Qiskit",
-    "emoji": null,
-    "url": "https://github.com/Qiskit/qiskit-terra",
+  "mitiq": {
+    "amount_available": 350,
     "bounties": [
       {
-        "title": "Update plot_gate_map (and related visualization functions) to leverage rustworkx.visualization.graphviz_draw for unknown coupling maps",
+        "assignees": [
+          "Aaron-Robertson"
+        ],
+        "state": "closed",
+        "title": "Custom package and circuit interface",
+        "url": "https://github.com/unitaryfund/mitiq/issues/1377",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "MZuhairKhan"
+        ],
         "state": "open",
+        "title": "Improve naming and documentation of `noise_scaling_converter`",
+        "url": "https://github.com/unitaryfund/mitiq/issues/1244",
+        "value": 50
+      },
+      {
         "assignees": [],
-        "value": 150,
-        "url": "https://github.com/Qiskit/qiskit-terra/issues/9031"
+        "state": "open",
+        "title": "Make mitiq compatible with latest version of Qiskit",
+        "url": "https://github.com/unitaryfund/mitiq/issues/1835",
+        "value": 80
       },
       {
-        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "assignees": [],
         "state": "open",
-        "assignees": [
-          "MihirsinhChauhan",
-          "s-aldaihan",
-          "wenxh0718"
-        ],
-        "value": 150,
-        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391"
+        "title": "Add download option button to tutorials in docs",
+        "url": "https://github.com/unitaryfund/mitiq/issues/1619",
+        "value": 120
       },
       {
-        "title": "Update Gradient Framework tutorial to use primitives",
+        "assignees": [],
         "state": "open",
-        "assignees": [
-          "ElePT"
-        ],
-        "value": 150,
-        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1390"
+        "title": "Improve the cost estimation to run a Calibrator",
+        "url": "https://github.com/unitaryfund/mitiq/issues/1715",
+        "value": 100
       }
     ],
-    "amount_available": 450,
+    "emoji": "\ud83c\udf34",
+    "name": "Mitiq",
+    "num_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 450,
+    "url": "https://github.com/unitaryfund/mitiq"
+  },
+  "openqaoa": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "lumapools"
+        ],
+        "state": "open",
+        "title": "Expose brute force solver through OpenQAOA workflows",
+        "url": "https://github.com/entropicalabs/openqaoa/issues/234",
+        "value": 60
+      },
+      {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "open",
+        "title": "Add result statistics on measurement outcomes in QAOAResult object",
+        "url": "https://github.com/entropicalabs/openqaoa/issues/235",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "open",
+        "title": "Prevent double authentication while using `openqaoa-azure`",
+        "url": "https://github.com/entropicalabs/openqaoa/issues/233",
+        "value": 60
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Implement `as_matrix` method for the `Hamiltonian` class",
+        "url": "https://github.com/entropicalabs/openqaoa/issues/232",
+        "value": 160
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Improve test_problems.py",
+        "url": "https://github.com/entropicalabs/openqaoa/issues/226",
+        "value": 120
+      }
+    ],
+    "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
+    "name": "OpenQAOA",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/entropicalabs/openqaoa"
+  },
+  "pauliopt": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create `Pauli` class",
+        "url": "https://github.com/sg495/pauliopt/issues/8",
+        "value": 180
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Converter to and from tket",
+        "url": "https://github.com/sg495/pauliopt/issues/7",
+        "value": 160
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Accept Hamiltonian as input",
+        "url": "https://github.com/sg495/pauliopt/issues/6",
+        "value": 160
+      }
+    ],
+    "emoji": "\ud83e\uddb8",
+    "name": "pauliopt",
     "num_bounties": 3,
-    "num_open_bounties": 3
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/sg495/pauliopt"
+  },
+  "pennylane": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Provide an informative string representation for ParametrizedHamiltonian",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4088",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add support for calculating the trace distance",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4098",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Support qutrit state preparations",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4122",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add one_qubit_decomposition function",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4121",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[BUG] Operations in `has_unitary_generator` do not really have unitary generators",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4055",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Update plugins in Docker builds",
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4123",
+        "value": 25
+      }
+    ],
+    "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
+    "name": "PennyLane",
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 500,
+    "url": "https://github.com/PennyLaneAI/pennylane"
+  },
+  "perceval": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Heralds out of their box",
+        "url": "https://github.com/Quandela/Perceval/issues/207",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Beautify display of circuits",
+        "url": "https://github.com/Quandela/Perceval/issues/205",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Latex Renderer",
+        "url": "https://github.com/Quandela/Perceval/issues/206",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Definition of (perfect) complex input states",
+        "url": "https://github.com/Quandela/Perceval/issues/208",
+        "value": 200
+      }
+    ],
+    "emoji": "\ud83d\udde1\ufe0f",
+    "name": "Perceval",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/Quandela/Perceval"
+  },
+  "pulser": {
+    "amount_available": 475,
+    "bounties": [
+      {
+        "assignees": [
+          "neogyk"
+        ],
+        "state": "open",
+        "title": "Adding a function to draw `SequenceSamples`",
+        "url": "https://github.com/pasqal-io/Pulser/issues/522",
+        "value": 75
+      },
+      {
+        "assignees": [
+          "dakk"
+        ],
+        "state": "open",
+        "title": "Drawing of `Register` goes out of window boundaries",
+        "url": "https://github.com/pasqal-io/Pulser/issues/501",
+        "value": 50
+      },
+      {
+        "assignees": [
+          "dakk"
+        ],
+        "state": "closed",
+        "title": "Add an error when a `Channel` is called with an `eom_config` but without a `modulation bandwidth`",
+        "url": "https://github.com/pasqal-io/Pulser/issues/497",
+        "value": 25
+      },
+      {
+        "assignees": [
+          "Aaron-Robertson"
+        ],
+        "state": "open",
+        "title": "Adding effective channel noises to digital basis",
+        "url": "https://github.com/pasqal-io/Pulser/issues/496",
+        "value": 225
+      },
+      {
+        "assignees": [
+          "dakk"
+        ],
+        "state": "open",
+        "title": "SPAM errors introduce large simulation overhead ",
+        "url": "https://github.com/pasqal-io/Pulser/issues/352",
+        "value": 125
+      }
+    ],
+    "emoji": "\ud83c\udf86",
+    "name": "Pulser",
+    "num_bounties": 5,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/pasqal-io/Pulser"
+  },
+  "pyclifford": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
+        "url": "https://github.com/hongyehu/PyClifford/issues/15",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[UnitaryHack] Mixed state unitary evolution and expectations",
+        "url": "https://github.com/hongyehu/PyClifford/issues/16",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[UnitaryHack] Benchmarking and profiling the speed of pyclifford and torchclifford",
+        "url": "https://github.com/hongyehu/PyClifford/issues/17",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryHack] Intermediate representation of circuits and link to `stim` package for quantum error correction",
+        "url": "https://github.com/hongyehu/PyClifford/issues/18",
+        "value": 150
+      }
+    ],
+    "emoji": null,
+    "name": "PyClifford",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/hongyehu/PyClifford"
+  },
+  "pyq": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "abrassel"
+        ],
+        "state": "open",
+        "title": "Add unit tests which check pre-computed analytical expression",
+        "url": "https://github.com/pasqal-io/PyQ/issues/60",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "prilcool"
+        ],
+        "state": "open",
+        "title": "Write doc strings for most important gates/circuits",
+        "url": "https://github.com/pasqal-io/PyQ/issues/54",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "zain2864"
+        ],
+        "state": "open",
+        "title": "Unify the three hamiltonian evolution classes into one `HamiltonianEvolution`",
+        "url": "https://github.com/pasqal-io/PyQ/issues/53",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "neogyk"
+        ],
+        "state": "open",
+        "title": "Add constructors like HEA to modules",
+        "url": "https://github.com/pasqal-io/PyQ/issues/37",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "PedroCarreiras"
+        ],
+        "state": "open",
+        "title": "Overload the * operator of modules.RotationsGate to allow for gate composition",
+        "url": "https://github.com/pasqal-io/PyQ/issues/36",
+        "value": 100
+      }
+    ],
+    "emoji": "\u23f3",
+    "name": "PyQ",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/pasqal-io/PyQ"
   },
   "qbraid": {
-    "name": "qBraid-SDK",
-    "emoji": "\ud83e\udde0\ud83d\udc23",
-    "url": "https://github.com/qBraid/qBraid",
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
-        "state": "open",
         "assignees": [
           "rum1887"
         ],
-        "value": 150,
-        "url": "https://github.com/qBraid/qBraid/issues/233"
+        "state": "open",
+        "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
+        "url": "https://github.com/qBraid/qBraid/issues/233",
+        "value": 150
       },
       {
-        "title": "OpenQASM 2.0 --> OpenQASM 3.0 conversion function",
-        "state": "open",
         "assignees": [
           "TheGupta2012"
         ],
-        "value": 125,
-        "url": "https://github.com/qBraid/qBraid/issues/223"
+        "state": "open",
+        "title": "OpenQASM 2.0 --> OpenQASM 3.0 conversion function",
+        "url": "https://github.com/qBraid/qBraid/issues/223",
+        "value": 125
       },
       {
-        "title": "Transpiler gate coverage benchmarking",
-        "state": "open",
         "assignees": [
           "TheGupta2012",
           "JessicaJohnBritto"
         ],
-        "value": 100,
-        "url": "https://github.com/qBraid/qBraid/issues/234"
+        "state": "open",
+        "title": "Transpiler gate coverage benchmarking",
+        "url": "https://github.com/qBraid/qBraid/issues/234",
+        "value": 100
       },
       {
-        "title": "OpenQASM 3.0 circuit drawer",
-        "state": "open",
         "assignees": [
           "CalebMcIrvinGitHub",
           "Miguelillnino"
         ],
-        "value": 75,
-        "url": "https://github.com/qBraid/qBraid/issues/227"
+        "state": "open",
+        "title": "OpenQASM 3.0 circuit drawer",
+        "url": "https://github.com/qBraid/qBraid/issues/227",
+        "value": 75
       },
       {
-        "title": "Implement `IBMBackendWrapper.run_batch` method",
-        "state": "open",
         "assignees": [
           "TheGupta2012"
         ],
-        "value": 50,
-        "url": "https://github.com/qBraid/qBraid/issues/231"
+        "state": "open",
+        "title": "Implement `IBMBackendWrapper.run_batch` method",
+        "url": "https://github.com/qBraid/qBraid/issues/231",
+        "value": 50
       }
     ],
-    "amount_available": 500,
-    "total_amount": 500,
+    "emoji": "\ud83e\udde0\ud83d\udc23",
+    "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 5
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/qBraid/qBraid"
   },
-  "graphix": {
-    "name": "Graphix",
-    "emoji": "\ud83d\udd78\ufe0f",
-    "url": "https://github.com/TeamGraphix/graphix",
+  "qecft": {
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Measurement pattern for error-corrected MBQC",
+        "assignees": [
+          "JiQing000"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/TeamGraphix/graphix/issues/48"
+        "title": "Implementation of surface codes",
+        "url": "https://github.com/abdullahkhalids/qecft/issues/1",
+        "value": 75
       },
       {
-        "title": "[demo] Quantum neural network",
+        "assignees": [
+          "victor-onofre"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/TeamGraphix/graphix/issues/46"
+        "title": " Implementation of color codes",
+        "url": "https://github.com/abdullahkhalids/qecft/issues/3",
+        "value": 75
       },
       {
-        "title": "Measurement pattern for Toffoli gate ",
+        "assignees": [
+          "MZuhairKhan"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/TeamGraphix/graphix/issues/49"
+        "title": "Script to convert book to pdf",
+        "url": "https://github.com/abdullahkhalids/qecft/issues/4",
+        "value": 125
       },
       {
-        "title": "Parameterized measurement patterns",
-        "state": "open",
         "assignees": [],
-        "value": 150,
-        "url": "https://github.com/TeamGraphix/graphix/issues/45"
-      },
-      {
-        "title": "Resource state visualization",
         "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/TeamGraphix/graphix/issues/47"
+        "title": "Forum for solutions",
+        "url": "https://github.com/abdullahkhalids/qecft/issues/2",
+        "value": 225
       }
     ],
-    "amount_available": 500,
+    "emoji": "\u29f0",
+    "name": "QECFT Book",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
     "total_amount": 500,
+    "url": "https://github.com/abdullahkhalids/qecft"
+  },
+  "qiskit-aer": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Remove `PulseSimulator`",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1805",
+        "value": 180
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Remove Python 3.7 from Github actions",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1807",
+        "value": 80
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Renew example codes in README",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1806",
+        "value": 80
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Qiskit Aer still uses execute",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1632",
+        "value": 80
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Some typos in qiskit_aer.AerSimulator docs",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
+        "value": 80
+      }
+    ],
+    "emoji": "\ud83c\udf2c\ufe0f",
+    "name": "Qiskit Aer",
     "num_bounties": 5,
-    "num_open_bounties": 5
-  },
-  "amazon-braket-sdk-python": {
-    "name": "Amazon Braket SDK",
-    "emoji": "\u2601\ufe0f\u269b\ufe0f",
-    "url": "https://github.com/aws/amazon-braket-sdk-python",
-    "bounties": [
-      {
-        "title": "Pauli and Clifford groups",
-        "state": "open",
-        "assignees": [],
-        "value": 75,
-        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/553"
-      },
-      {
-        "title": "Ocean for Analog Hamiltonian Simulation",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/aws/amazon-braket-ocean-plugin-python/issues/72"
-      },
-      {
-        "title": "Support for the `run_batch()` method on `LocalSimulator`",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/aws/amazon-braket-sdk-python/issues/320"
-      },
-      {
-        "title": "Amazon Braket backend support",
-        "state": "open",
-        "assignees": [
-          "AbdullahKazi500"
-        ],
-        "value": 75,
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/137"
-      }
-    ],
-    "amount_available": 400,
-    "total_amount": 400,
-    "num_bounties": 4,
-    "num_open_bounties": 4
-  },
-  "qunetsim": {
-    "name": "QuNetSim",
-    "emoji": null,
-    "url": "https://github.com/tqsd/QuNetSim",
-    "bounties": [
-      {
-        "title": "Implement a multi-node QKD network",
-        "state": "open",
-        "assignees": [
-          "Nizdew"
-        ],
-        "value": 100,
-        "url": "https://github.com/tqsd/QuNetSim/issues/132"
-      },
-      {
-        "title": "Add a variation of \"get_classical\" that can receive a message from any host",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/tqsd/QuNetSim/issues/145"
-      },
-      {
-        "title": "Implement a simulation for MDI-QKD",
-        "state": "open",
-        "assignees": [
-          "atomgardner"
-        ],
-        "value": 100,
-        "url": "https://github.com/tqsd/QuNetSim/issues/131"
-      },
-      {
-        "title": "Implement an example of a second generation quantum repeater",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/tqsd/QuNetSim/issues/91"
-      }
-    ],
-    "amount_available": 400,
-    "total_amount": 400,
-    "num_bounties": 4,
-    "num_open_bounties": 4
-  },
-  "pyclifford": {
-    "name": "PyClifford",
-    "emoji": null,
-    "url": "https://github.com/hongyehu/PyClifford",
-    "bounties": [
-      {
-        "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/hongyehu/PyClifford/issues/15"
-      },
-      {
-        "title": "[UnitaryHack] Mixed state unitary evolution and expectations",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/hongyehu/PyClifford/issues/16"
-      },
-      {
-        "title": "[UnitaryHack] Benchmarking and profiling the speed of pyclifford and torchclifford",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/hongyehu/PyClifford/issues/17"
-      },
-      {
-        "title": "[unitaryHack] Intermediate representation of circuits and link to `stim` package for quantum error correction",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/hongyehu/PyClifford/issues/18"
-      }
-    ],
-    "amount_available": 500,
+    "num_open_bounties": 5,
     "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 4
+    "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "name": "Qiskit Braket Provider",
-    "emoji": "\ud83d\ude18\u2601\ufe0f",
-    "url": "https://github.com/qiskit-community/qiskit-braket-provider",
+    "amount_available": 1690,
     "bounties": [
       {
-        "title": "Prebuilt docker container with examples",
-        "state": "open",
         "assignees": [
           "Morcu",
           "mariapaula14"
         ],
-        "value": 60,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/35"
+        "state": "open",
+        "title": "Prebuilt docker container with examples",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/35",
+        "value": 60
       },
       {
-        "title": "Rename AWSBraketJob to AmazonBraketTask",
-        "state": "open",
         "assignees": [
           "dexter2206",
           "devilkiller-ag"
         ],
-        "value": 30,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/45"
+        "state": "open",
+        "title": "Rename AWSBraketJob to AmazonBraketTask",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/45",
+        "value": 30
       },
       {
-        "title": "Backends: incorporate gate errors information from Braket devices to unlock noise aware transpiling",
-        "state": "open",
         "assignees": [],
-        "value": 75,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/25"
+        "state": "open",
+        "title": "Backends: incorporate gate errors information from Braket devices to unlock noise aware transpiling",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/25",
+        "value": 75
       },
       {
-        "title": "Tests: mock tests for cloud devices",
-        "state": "open",
         "assignees": [
           "WingCode"
         ],
-        "value": 100,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19"
+        "state": "open",
+        "title": "Tests: mock tests for cloud devices",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19",
+        "value": 100
       },
       {
-        "title": "add get_statevector support for BraketLocalBackend",
-        "state": "open",
         "assignees": [],
-        "value": 50,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47"
+        "state": "open",
+        "title": "add get_statevector support for BraketLocalBackend",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47",
+        "value": 50
       },
       {
-        "title": "Updates for Qiskit to Braket circuit conversion",
-        "state": "open",
         "assignees": [
           "Morcu"
         ],
-        "value": 50,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37"
+        "state": "open",
+        "title": "Updates for Qiskit to Braket circuit conversion",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37",
+        "value": 50
       },
       {
-        "title": "Enable (some) transpilation with Braket",
-        "state": "open",
         "assignees": [
           "ogunsegun"
         ],
-        "value": 500,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91"
+        "state": "open",
+        "title": "Enable (some) transpilation with Braket",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
+        "value": 500
       },
       {
-        "title": "Support for Parametric Circuits",
-        "state": "open",
         "assignees": [
           "urihan"
         ],
-        "value": 50,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86"
+        "state": "open",
+        "title": "Support for Parametric Circuits",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86",
+        "value": 50
       },
       {
-        "title": "BraketLocalBackend should display the correct backend name",
-        "state": "closed",
         "assignees": [
           "devilkiller-ag"
         ],
-        "value": 25,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87"
+        "state": "closed",
+        "title": "BraketLocalBackend should display the correct backend name",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87",
+        "value": 25
       },
       {
-        "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
-        "state": "open",
         "assignees": [
           "ogunsegun",
           "SimoneGasperini"
         ],
-        "value": 200,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/88"
+        "state": "open",
+        "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/88",
+        "value": 200
       },
       {
-        "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
-        "state": "closed",
         "assignees": [
           "WingCode"
         ],
-        "value": 30,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85"
+        "state": "closed",
+        "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85",
+        "value": 30
       },
       {
-        "title": "Gate decomposition",
-        "state": "open",
         "assignees": [
           "abrassel",
           "AbdullahKazi500",
           "Gmontes01",
           "s-aldaihan"
         ],
-        "value": 500,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90"
+        "state": "open",
+        "title": "Gate decomposition",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90",
+        "value": 500
       },
       {
-        "title": "Support noise models",
-        "state": "open",
         "assignees": [
           "ruijterj",
           "rum1887",
           "s-aldaihan"
         ],
-        "value": 75,
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89"
+        "state": "open",
+        "title": "Support noise models",
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89",
+        "value": 75
       }
     ],
-    "amount_available": 1690,
-    "total_amount": 1745,
+    "emoji": "\ud83d\ude18\u2601\ufe0f",
+    "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 11
+    "num_open_bounties": 11,
+    "total_amount": 1745,
+    "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
-  "toqito": {
-    "name": "toqito",
-    "emoji": "\ud83d\udc0d\ud83d\udd2c",
-    "url": "https://github.com/vprusso/toqito",
+  "qiskit-terra": {
+    "amount_available": 450,
     "bounties": [
       {
-        "title": "Question/Bug: Not able to apply channel correctly",
-        "state": "closed",
-        "assignees": [
-          "georgios-ts"
-        ],
-        "value": 100,
-        "url": "https://github.com/vprusso/toqito/issues/144"
-      },
-      {
-        "title": "Refactor: Partial trace and partial transpose",
-        "state": "open",
-        "assignees": [
-          "ErikQQY"
-        ],
-        "value": 75,
-        "url": "https://github.com/vprusso/toqito/issues/145"
-      },
-      {
-        "title": "Feature: Fidelity of separability",
-        "state": "open",
-        "assignees": [
-          "purva-thakre"
-        ],
-        "value": 75,
-        "url": "https://github.com/vprusso/toqito/issues/141"
-      },
-      {
-        "title": "Feature: Is UPB (unextendible product basis)",
-        "state": "open",
-        "assignees": [
-          "smtsjhr"
-        ],
-        "value": 100,
-        "url": "https://github.com/vprusso/toqito/issues/33"
-      },
-      {
-        "title": "CI/CD: Setup automated lint + build system",
-        "state": "closed",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/vprusso/toqito/issues/146"
+        "state": "open",
+        "title": "Update plot_gate_map (and related visualization functions) to leverage rustworkx.visualization.graphviz_draw for unknown coupling maps",
+        "url": "https://github.com/Qiskit/qiskit-terra/issues/9031",
+        "value": 150
       },
       {
-        "title": "Feature: Completely bounded trace norm",
-        "state": "open",
         "assignees": [
-          "Anish-lab98"
+          "MihirsinhChauhan",
+          "s-aldaihan",
+          "wenxh0718"
         ],
-        "value": 50,
-        "url": "https://github.com/vprusso/toqito/issues/148"
+        "state": "open",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "value": 150
+      },
+      {
+        "assignees": [
+          "ElePT"
+        ],
+        "state": "open",
+        "title": "Update Gradient Framework tutorial to use primitives",
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1390",
+        "value": 150
       }
     ],
-    "amount_available": 300,
-    "total_amount": 500,
-    "num_bounties": 6,
-    "num_open_bounties": 4
-  },
-  "lambeq": {
-    "name": "lambeq",
     "emoji": null,
-    "url": "https://github.com/CQCL/lambeq",
-    "bounties": [
-      {
-        "title": "UnitaryHACK: Serialise ansatz and include in model",
-        "state": "open",
-        "assignees": [],
-        "value": 250,
-        "url": "https://github.com/CQCL/lambeq/issues/86"
-      },
-      {
-        "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/CQCL/lambeq/issues/85"
-      },
-      {
-        "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/CQCL/lambeq/issues/84"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
+    "name": "Qiskit",
     "num_bounties": 3,
-    "num_open_bounties": 3
-  },
-  "qecft": {
-    "name": "QECFT Book",
-    "emoji": "\u29f0",
-    "url": "https://github.com/abdullahkhalids/qecft",
-    "bounties": [
-      {
-        "title": "Implementation of surface codes",
-        "state": "open",
-        "assignees": [
-          "JiQing000"
-        ],
-        "value": 75,
-        "url": "https://github.com/abdullahkhalids/qecft/issues/1"
-      },
-      {
-        "title": " Implementation of color codes",
-        "state": "open",
-        "assignees": [
-          "victor-onofre"
-        ],
-        "value": 75,
-        "url": "https://github.com/abdullahkhalids/qecft/issues/3"
-      },
-      {
-        "title": "Script to convert book to pdf",
-        "state": "open",
-        "assignees": [
-          "MZuhairKhan"
-        ],
-        "value": 125,
-        "url": "https://github.com/abdullahkhalids/qecft/issues/4"
-      },
-      {
-        "title": "Forum for solutions",
-        "state": "open",
-        "assignees": [],
-        "value": 225,
-        "url": "https://github.com/abdullahkhalids/qecft/issues/2"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 4
-  },
-  "yao.jl": {
-    "name": "Yao",
-    "emoji": null,
-    "url": "https://github.com/QuantumBFS/Yao.jl",
-    "bounties": [
-      {
-        "title": "More efficient implementation of `two_qubit_depolarizing_channel()`",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/QuantumBFS/Yao.jl/issues/456"
-      },
-      {
-        "title": "show case of your own project in Yao's documentation",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/QuantumBFS/Yao.jl/issues/382"
-      },
-      {
-        "title": "add Aqua test to this repo",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/QuantumBFS/Yao.jl/issues/381"
-      }
-    ],
-    "amount_available": 200,
-    "total_amount": 200,
-    "num_bounties": 3,
-    "num_open_bounties": 3
-  },
-  "pauliopt": {
-    "name": "pauliopt",
-    "emoji": "\ud83e\uddb8",
-    "url": "https://github.com/sg495/pauliopt",
-    "bounties": [
-      {
-        "title": "Create `Pauli` class",
-        "state": "open",
-        "assignees": [],
-        "value": 180,
-        "url": "https://github.com/sg495/pauliopt/issues/8"
-      },
-      {
-        "title": "Converter to and from tket",
-        "state": "open",
-        "assignees": [],
-        "value": 160,
-        "url": "https://github.com/sg495/pauliopt/issues/7"
-      },
-      {
-        "title": "Accept Hamiltonian as input",
-        "state": "open",
-        "assignees": [],
-        "value": 160,
-        "url": "https://github.com/sg495/pauliopt/issues/6"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 3,
-    "num_open_bounties": 3
-  },
-  "bqskit": {
-    "name": "BQSKit",
-    "emoji": null,
-    "url": "https://github.com/bqskit/bqskit",
-    "bounties": [
-      {
-        "title": "Better Qudit Gate Support",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/bqskit/bqskit/issues/153"
-      },
-      {
-        "title": "`DaggerGate` vs actually inverting the gate, qasm output for `DaggerGate`",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/bqskit/bqskit/issues/121"
-      },
-      {
-        "title": "Non-deterministic circuit iteration for regions",
-        "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/bqskit/bqskit/issues/150"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 3,
-    "num_open_bounties": 3
-  },
-  "openqaoa": {
-    "name": "OpenQAOA",
-    "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
-    "url": "https://github.com/entropicalabs/openqaoa",
-    "bounties": [
-      {
-        "title": "Expose brute force solver through OpenQAOA workflows",
-        "state": "open",
-        "assignees": [
-          "lumapools"
-        ],
-        "value": 60,
-        "url": "https://github.com/entropicalabs/openqaoa/issues/234"
-      },
-      {
-        "title": "Add result statistics on measurement outcomes in QAOAResult object",
-        "state": "open",
-        "assignees": [
-          "WingCode"
-        ],
-        "value": 100,
-        "url": "https://github.com/entropicalabs/openqaoa/issues/235"
-      },
-      {
-        "title": "Prevent double authentication while using `openqaoa-azure`",
-        "state": "open",
-        "assignees": [
-          "WingCode"
-        ],
-        "value": 60,
-        "url": "https://github.com/entropicalabs/openqaoa/issues/233"
-      },
-      {
-        "title": "Implement `as_matrix` method for the `Hamiltonian` class",
-        "state": "open",
-        "assignees": [],
-        "value": 160,
-        "url": "https://github.com/entropicalabs/openqaoa/issues/232"
-      },
-      {
-        "title": "Improve test_problems.py",
-        "state": "open",
-        "assignees": [],
-        "value": 120,
-        "url": "https://github.com/entropicalabs/openqaoa/issues/226"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 5,
-    "num_open_bounties": 5
-  },
-  "pyq": {
-    "name": "PyQ",
-    "emoji": "\u23f3",
-    "url": "https://github.com/pasqal-io/PyQ",
-    "bounties": [
-      {
-        "title": "Add unit tests which check pre-computed analytical expression",
-        "state": "open",
-        "assignees": [
-          "abrassel"
-        ],
-        "value": 100,
-        "url": "https://github.com/pasqal-io/PyQ/issues/60"
-      },
-      {
-        "title": "Write doc strings for most important gates/circuits",
-        "state": "open",
-        "assignees": [
-          "prilcool"
-        ],
-        "value": 100,
-        "url": "https://github.com/pasqal-io/PyQ/issues/54"
-      },
-      {
-        "title": "Unify the three hamiltonian evolution classes into one `HamiltonianEvolution`",
-        "state": "open",
-        "assignees": [
-          "zain2864"
-        ],
-        "value": 100,
-        "url": "https://github.com/pasqal-io/PyQ/issues/53"
-      },
-      {
-        "title": "Add constructors like HEA to modules",
-        "state": "open",
-        "assignees": [
-          "neogyk"
-        ],
-        "value": 100,
-        "url": "https://github.com/pasqal-io/PyQ/issues/37"
-      },
-      {
-        "title": "Overload the * operator of modules.RotationsGate to allow for gate composition",
-        "state": "open",
-        "assignees": [
-          "PedroCarreiras"
-        ],
-        "value": 100,
-        "url": "https://github.com/pasqal-io/PyQ/issues/36"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 5,
-    "num_open_bounties": 5
-  },
-  "quantum-randomness-generator": {
-    "name": "Dora Factory Quantum Experiments",
-    "emoji": "\ud83e\udd14\ud83e\uddd0",
-    "url": "https://github.com/dorahacksglobal/quantum-randomness-generator",
-    "bounties": [
-      {
-        "title": "Improve CHSH score of Rigetti Aspen-M-3",
-        "state": "open",
-        "assignees": [
-          "AbdullahKazi500"
-        ],
-        "value": 150,
-        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/8"
-      },
-      {
-        "title": "Trevisan\u2019s extractor",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/4"
-      },
-      {
-        "title": "Min-entropy for superconducting qubits platform",
-        "state": "open",
-        "assignees": [
-          "Nizdew"
-        ],
-        "value": 150,
-        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/5"
-      },
-      {
-        "title": "Randomness expansion using superconducting quantum computers",
-        "state": "open",
-        "assignees": [
-          "Nizdew"
-        ],
-        "value": 50,
-        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/6"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 4
-  },
-  "pulser": {
-    "name": "Pulser",
-    "emoji": "\ud83c\udf86",
-    "url": "https://github.com/pasqal-io/Pulser",
-    "bounties": [
-      {
-        "title": "Adding a function to draw `SequenceSamples`",
-        "state": "open",
-        "assignees": [
-          "neogyk"
-        ],
-        "value": 75,
-        "url": "https://github.com/pasqal-io/Pulser/issues/522"
-      },
-      {
-        "title": "Drawing of `Register` goes out of window boundaries",
-        "state": "open",
-        "assignees": [
-          "dakk"
-        ],
-        "value": 50,
-        "url": "https://github.com/pasqal-io/Pulser/issues/501"
-      },
-      {
-        "title": "Add an error when a `Channel` is called with an `eom_config` but without a `modulation bandwidth`",
-        "state": "closed",
-        "assignees": [
-          "dakk"
-        ],
-        "value": 25,
-        "url": "https://github.com/pasqal-io/Pulser/issues/497"
-      },
-      {
-        "title": "Adding effective channel noises to digital basis",
-        "state": "open",
-        "assignees": [
-          "Aaron-Robertson"
-        ],
-        "value": 225,
-        "url": "https://github.com/pasqal-io/Pulser/issues/496"
-      },
-      {
-        "title": "SPAM errors introduce large simulation overhead ",
-        "state": "open",
-        "assignees": [
-          "dakk"
-        ],
-        "value": 125,
-        "url": "https://github.com/pasqal-io/Pulser/issues/352"
-      }
-    ],
-    "amount_available": 475,
-    "total_amount": 500,
-    "num_bounties": 5,
-    "num_open_bounties": 4
-  },
-  "eczoo_data": {
-    "name": "Error Correction Zoo",
-    "emoji": "\ud83e\udd81",
-    "url": "https://github.com/errorcorrectionzoo/eczoo_data/",
-    "bounties": [
-      {
-        "title": "Generate all ancestors of a given code",
-        "state": "open",
-        "assignees": [
-          "WingCode"
-        ],
-        "value": 200,
-        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296"
-      },
-      {
-        "title": "Find unlinked code names and attach links to them",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47"
-      },
-      {
-        "title": "Contribute code worth TWO POINTS",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/228"
-      },
-      {
-        "title": "Contribute code worth TWO POINTS",
-        "state": "open",
-        "assignees": [
-          "AbdullahKazi500"
-        ],
-        "value": 50,
-        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/223"
-      }
-    ],
-    "amount_available": 500,
-    "total_amount": 500,
-    "num_bounties": 4,
-    "num_open_bounties": 4
+    "num_open_bounties": 3,
+    "total_amount": 450,
+    "url": "https://github.com/Qiskit/qiskit-terra"
   },
   "qrack": {
-    "name": "Qrack",
-    "emoji": "\ud83e\udea8\ud83d\udd28",
-    "url": "https://github.com/unitaryfund/qrack",
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Extend QCircuit to QInterface",
-        "state": "open",
         "assignees": [
           "stevescia"
         ],
-        "value": 200,
-        "url": "https://github.com/unitaryfund/qrack/issues/988"
+        "state": "open",
+        "title": "Extend QCircuit to QInterface",
+        "url": "https://github.com/unitaryfund/qrack/issues/988",
+        "value": 200
       },
       {
-        "title": "Convert QCircuit to cuTensorNet input",
-        "state": "open",
         "assignees": [],
-        "value": 200,
-        "url": "https://github.com/unitaryfund/qrack/issues/989"
+        "state": "open",
+        "title": "Convert QCircuit to cuTensorNet input",
+        "url": "https://github.com/unitaryfund/qrack/issues/989",
+        "value": 200
       },
       {
-        "title": "Unit tests: mirror circuits",
-        "state": "open",
         "assignees": [
           "golanor"
         ],
-        "value": 100,
-        "url": "https://github.com/unitaryfund/pyqrack/issues/13"
+        "state": "open",
+        "title": "Unit tests: mirror circuits",
+        "url": "https://github.com/unitaryfund/pyqrack/issues/13",
+        "value": 100
       }
     ],
-    "amount_available": 500,
-    "total_amount": 500,
+    "emoji": "\ud83e\udea8\ud83d\udd28",
+    "name": "Qrack",
     "num_bounties": 3,
-    "num_open_bounties": 3
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/unitaryfund/qrack"
   },
-  "hierarqcal": {
-    "name": "HierarQcal",
-    "emoji": "\ud83e\udea1",
-    "url": "https://github.com/matt-lourens/hierarqcal",
+  "quantum-randomness-generator": {
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Implement a N - qubit QFT with one line of code.",
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/matt-lourens/hierarqcal/issues/26"
+        "title": "Improve CHSH score of Rigetti Aspen-M-3",
+        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/8",
+        "value": 150
       },
       {
-        "title": "Add functionality to visualise hypergraphs (N-ary edges for digraphs)",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/matt-lourens/hierarqcal/issues/27"
+        "state": "open",
+        "title": "Trevisan\u2019s extractor",
+        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/4",
+        "value": 150
       },
       {
-        "title": "Build simple circuits with strings",
+        "assignees": [
+          "Nizdew"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/matt-lourens/hierarqcal/issues/28"
+        "title": "Min-entropy for superconducting qubits platform",
+        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/5",
+        "value": 150
       },
       {
-        "title": "Quantum Chemistry example notebook for the exponentiation of Pauli operators",
+        "assignees": [
+          "Nizdew"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 100,
-        "url": "https://github.com/matt-lourens/hierarqcal/issues/29"
+        "title": "Randomness expansion using superconducting quantum computers",
+        "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/6",
+        "value": 50
       }
     ],
-    "amount_available": 500,
-    "total_amount": 500,
+    "emoji": "\ud83e\udd14\ud83e\uddd0",
+    "name": "Dora Factory Quantum Experiments",
     "num_bounties": 4,
-    "num_open_bounties": 4
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/dorahacksglobal/quantum-randomness-generator"
+  },
+  "qunetsim": {
+    "amount_available": 400,
+    "bounties": [
+      {
+        "assignees": [
+          "Nizdew"
+        ],
+        "state": "open",
+        "title": "Implement a multi-node QKD network",
+        "url": "https://github.com/tqsd/QuNetSim/issues/132",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add a variation of \"get_classical\" that can receive a message from any host",
+        "url": "https://github.com/tqsd/QuNetSim/issues/145",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "atomgardner"
+        ],
+        "state": "open",
+        "title": "Implement a simulation for MDI-QKD",
+        "url": "https://github.com/tqsd/QuNetSim/issues/131",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Implement an example of a second generation quantum repeater",
+        "url": "https://github.com/tqsd/QuNetSim/issues/91",
+        "value": 100
+      }
+    ],
+    "emoji": null,
+    "name": "QuNetSim",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 400,
+    "url": "https://github.com/tqsd/QuNetSim"
   },
   "qutip": {
-    "name": "QuTiP",
-    "emoji": "\ud83d\udc0d",
-    "url": "https://github.com/qutip/qutip",
-    "bounties": [
-      {
-        "title": "Fermionic creation and annihilation operators",
-        "state": "open",
-        "assignees": [],
-        "value": 200,
-        "url": "https://github.com/qutip/qutip/issues/2165"
-      },
-      {
-        "title": "Add Solver options and list them in API doc",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/qutip/qutip/issues/2163"
-      },
-      {
-        "title": "Add qutip-qip tutorials to documentation on Read the docs ",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/qutip/qutip-qip/issues/204"
-      }
-    ],
     "amount_available": 300,
-    "total_amount": 300,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Fermionic creation and annihilation operators",
+        "url": "https://github.com/qutip/qutip/issues/2165",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add Solver options and list them in API doc",
+        "url": "https://github.com/qutip/qutip/issues/2163",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add qutip-qip tutorials to documentation on Read the docs ",
+        "url": "https://github.com/qutip/qutip-qip/issues/204",
+        "value": 50
+      }
+    ],
+    "emoji": "\ud83d\udc0d",
+    "name": "QuTiP",
     "num_bounties": 3,
-    "num_open_bounties": 3
+    "num_open_bounties": 3,
+    "total_amount": 300,
+    "url": "https://github.com/qutip/qutip"
   },
-  "covalent": {
-    "name": "Covalent",
-    "emoji": "\ud83d\udd00\u2601\ufe0f",
-    "url": "https://github.com/AgnostiqHQ/covalent",
+  "scqubits": {
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Highlight executor args/kwargs in the docs",
-        "state": "open",
         "assignees": [
-          "ErikQQY",
-          "aryanguptaaa"
+          "petergthatsme"
         ],
-        "value": 25,
-        "url": "https://github.com/AgnostiqHQ/covalent/issues/1637"
+        "state": "open",
+        "title": "Short tutorial video on using scqubits",
+        "url": "https://github.com/scqubits/scqubits/issues/184",
+        "value": 200
       },
       {
-        "title": "Determine if covalent subprocess starts successfully",
-        "state": "open",
         "assignees": [
-          "WingCode"
+          "petergthatsme"
         ],
-        "value": 50,
-        "url": "https://github.com/AgnostiqHQ/covalent/issues/1648"
+        "state": "open",
+        "title": "Adding code documentation",
+        "url": "https://github.com/scqubits/scqubits/issues/186",
+        "value": 75
       },
       {
-        "title": "Support task cancellation",
+        "assignees": [
+          "petergthatsme"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 75,
-        "url": "https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76"
+        "title": "Adding support for 1/f flux noise channel to the flux qubit class",
+        "url": "https://github.com/scqubits/scqubits/issues/185",
+        "value": 100
       },
       {
-        "title": "Support task cancellation",
+        "assignees": [
+          "petergthatsme",
+          "D3vanagar1"
+        ],
         "state": "open",
-        "assignees": [],
-        "value": 75,
-        "url": "https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71"
-      },
-      {
-        "title": "`@ct.lattice(@ct.electron)` seems to change function scope",
-        "state": "open",
-        "assignees": [],
-        "value": 125,
-        "url": "https://github.com/AgnostiqHQ/covalent/issues/1643"
-      },
-      {
-        "title": "Leptons render python wrapper code in UI instead of source code",
-        "state": "open",
-        "assignees": [],
-        "value": 150,
-        "url": "https://github.com/AgnostiqHQ/covalent/issues/697"
+        "title": "Benchmarking the performance of scqubits between releases",
+        "url": "https://github.com/scqubits/scqubits/issues/187",
+        "value": 125
       }
     ],
-    "amount_available": 500,
+    "emoji": "\ud83d\udce1",
+    "name": "scqubits",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
     "total_amount": 500,
-    "num_bounties": 6,
-    "num_open_bounties": 6
+    "url": "https://github.com/scqubits/scqubits"
   },
-  "kqcircuits": {
-    "name": "KQCircuits",
-    "emoji": "\ud83e\udd91",
-    "url": "https://github.com/iqm-finland/KQCircuits",
+  "symmer": {
+    "amount_available": 500,
     "bounties": [
       {
-        "title": "Design SuperInductor junction for Fluxonium devices",
-        "state": "open",
         "assignees": [],
-        "value": 150,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/45"
+        "state": "open",
+        "title": "unitaryHACK #1: Faster to_sparse_matrix method",
+        "url": "https://github.com/UCL-CCS/symmer/issues/137",
+        "value": 200
       },
       {
-        "title": "Reload existing PCells without closing GUI",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/14"
+        "state": "open",
+        "title": "unitaryHACK #2: Optimization of MPO construction",
+        "url": "https://github.com/UCL-CCS/symmer/issues/138",
+        "value": 200
       },
       {
-        "title": "First level parallelisation of scripts running Ansys FEM simulator",
-        "state": "open",
         "assignees": [],
-        "value": 100,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/42"
-      },
-      {
-        "title": "Display ports in simulation export Klayout dialog",
         "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/52"
-      },
-      {
-        "title": "Add parameter names to markers in documentation",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/53"
-      },
-      {
-        "title": "Provide Vim command for `create_element_from_path.py`",
-        "state": "open",
-        "assignees": [],
-        "value": 50,
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/48"
+        "title": "unitaryHACK #3: Code Documentation",
+        "url": "https://github.com/UCL-CCS/symmer/issues/139",
+        "value": 100
       }
     ],
-    "amount_available": 500,
+    "emoji": "\ud83e\udd58\ud83d\udd25",
+    "name": "Symmer",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
     "total_amount": 500,
+    "url": "https://github.com/UCL-CCS/symmer"
+  },
+  "toqito": {
+    "amount_available": 300,
+    "bounties": [
+      {
+        "assignees": [
+          "georgios-ts"
+        ],
+        "state": "closed",
+        "title": "Question/Bug: Not able to apply channel correctly",
+        "url": "https://github.com/vprusso/toqito/issues/144",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "ErikQQY"
+        ],
+        "state": "open",
+        "title": "Refactor: Partial trace and partial transpose",
+        "url": "https://github.com/vprusso/toqito/issues/145",
+        "value": 75
+      },
+      {
+        "assignees": [
+          "purva-thakre"
+        ],
+        "state": "open",
+        "title": "Feature: Fidelity of separability",
+        "url": "https://github.com/vprusso/toqito/issues/141",
+        "value": 75
+      },
+      {
+        "assignees": [
+          "smtsjhr"
+        ],
+        "state": "open",
+        "title": "Feature: Is UPB (unextendible product basis)",
+        "url": "https://github.com/vprusso/toqito/issues/33",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "CI/CD: Setup automated lint + build system",
+        "url": "https://github.com/vprusso/toqito/issues/146",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "Anish-lab98"
+        ],
+        "state": "open",
+        "title": "Feature: Completely bounded trace norm",
+        "url": "https://github.com/vprusso/toqito/issues/148",
+        "value": 50
+      }
+    ],
+    "emoji": "\ud83d\udc0d\ud83d\udd2c",
+    "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 6
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/vprusso/toqito"
+  },
+  "torchquantum": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "Jayshah25",
+          "Anantha-Rao12",
+          "bopardikarsoham",
+          "s-aldaihan"
+        ],
+        "state": "open",
+        "title": "add support for more quantum algorithms",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "neogyk",
+          "jinleic",
+          "zlianghahaha"
+        ],
+        "state": "open",
+        "title": "Pulse level simulation and variational circuits",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/132",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "support more gradient estimation methods",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "pandey-tushar",
+          "bopardikarsoham"
+        ],
+        "state": "open",
+        "title": "add supports for more basic operations and layers",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "josephtedds",
+          "MihirsinhChauhan"
+        ],
+        "state": "open",
+        "title": "enhance the documentations and tests",
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83c\udf45",
+    "name": "TorchQuantum",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/mit-han-lab/torchquantum"
+  },
+  "yao.jl": {
+    "amount_available": 200,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "More efficient implementation of `two_qubit_depolarizing_channel()`",
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/456",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "show case of your own project in Yao's documentation",
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/382",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "add Aqua test to this repo",
+        "url": "https://github.com/QuantumBFS/Yao.jl/issues/381",
+        "value": 50
+      }
+    ],
+    "emoji": null,
+    "name": "Yao",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 200,
+    "url": "https://github.com/QuantumBFS/Yao.jl"
+  },
+  "zxlive": {
+    "amount_available": 325,
+    "bounties": [
+      {
+        "assignees": [
+          "pandey-tushar"
+        ],
+        "state": "closed",
+        "title": "Importing and Exporting the diagram",
+        "url": "https://github.com/Quantomatic/zxlive/issues/3",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "Econ01"
+        ],
+        "state": "open",
+        "title": "Improving the GUI",
+        "url": "https://github.com/Quantomatic/zxlive/issues/6",
+        "value": 225
+      },
+      {
+        "assignees": [
+          "mark-koch"
+        ],
+        "state": "closed",
+        "title": "Consistent naming conventions",
+        "url": "https://github.com/Quantomatic/zxlive/issues/12",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Code organisation",
+        "url": "https://github.com/Quantomatic/zxlive/issues/10",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83d\udd77\ufe0f\ud83c\udfa5",
+    "name": "ZX Live",
+    "num_bounties": 4,
+    "num_open_bounties": 2,
+    "total_amount": 500,
+    "url": "https://github.com/Quantomatic/zxlive"
   }
 }
