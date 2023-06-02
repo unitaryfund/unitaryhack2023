@@ -594,11 +594,13 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 500,
+    "amount_available": 350,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "anushkrishnav"
+        ],
+        "state": "closed",
         "title": "Provide an informative string representation for ParametrizedHamiltonian",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4088",
         "value": 150
@@ -642,7 +644,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -1283,18 +1285,18 @@
     "url": "https://github.com/tqsd/QuNetSim"
   },
   "qutip": {
-    "amount_available": 300,
+    "amount_available": 50,
     "bounties": [
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Fermionic creation and annihilation operators",
         "url": "https://github.com/qutip/qutip/issues/2165",
         "value": 200
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Add Solver options and list them in API doc",
         "url": "https://github.com/qutip/qutip/issues/2163",
         "value": 50
@@ -1310,7 +1312,7 @@
     "emoji": "\ud83d\udc0d",
     "name": "QuTiP",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 300,
     "url": "https://github.com/qutip/qutip"
   },
