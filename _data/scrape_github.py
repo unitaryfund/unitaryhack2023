@@ -64,6 +64,35 @@ for project in get_project_info():
         "num_open_bounties": num_open_bounties,
     }
 
+hack_stats = {
+    "num_bounties": 0,
+    "total_bounty_value": 0,
+    "num_open_bounties": 0,
+    "open_bounty_value": 0,
+    "num_closed_bounties": 0,
+    "closed_bounty_value": 0,
+}
+
+hackers = set()
+for project, data in projects.items():
+    for bounty in data["bounties"]:
+        hack_stats["num_bounties"] += 1
+        hack_stats["total_bounty_value"] += bounty["value"]
+        hack_stats["num_open_bounties"] += 1 if bounty["state"] == "open" else 0
+        hack_stats["open_bounty_value"] += (
+            bounty["value"] if bounty["state"] == "open" else 0
+        )
+        hack_stats["num_closed_bounties"] += 1 if bounty["state"] == "closed" else 0
+        hack_stats["closed_bounty_value"] += (
+            bounty["value"] if bounty["state"] == "closed" else 0
+        )
+        if bounty["state"] == "closed":
+            hackers.update(bounty["assignees"])
+
+hack_stats["num_hackers"] = len(hackers)
 
 with open("gh.json", "w") as f:
     json.dump(projects, f, indent=2, sort_keys=True)
+
+with open("stats.json", "w") as f:
+    json.dump(hack_stats, f, indent=2)
