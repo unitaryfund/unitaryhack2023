@@ -839,7 +839,7 @@
     "url": "https://github.com/pasqal-io/PyQ"
   },
   "qbraid": {
-    "amount_available": 500,
+    "amount_available": 375,
     "bounties": [
       {
         "assignees": [
@@ -854,7 +854,7 @@
         "assignees": [
           "TheGupta2012"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "OpenQASM 2.0 --> OpenQASM 3.0 conversion function",
         "url": "https://github.com/qBraid/qBraid/issues/223",
         "value": 125
@@ -892,7 +892,7 @@
     "emoji": "\ud83e\udde0\ud83d\udc23",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
@@ -1053,7 +1053,7 @@
       },
       {
         "assignees": [
-          "urihan"
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Support for Parametric Circuits",
@@ -1295,7 +1295,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "EmilianoG-byte"
+        ],
         "state": "closed",
         "title": "Add Solver options and list them in API doc",
         "url": "https://github.com/qutip/qutip/issues/2163",
