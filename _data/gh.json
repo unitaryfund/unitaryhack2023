@@ -1434,7 +1434,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "ryanprior"
+        ],
         "state": "closed",
         "title": "CI/CD: Setup automated lint + build system",
         "url": "https://github.com/vprusso/toqito/issues/146",
@@ -1563,7 +1565,6 @@
       },
       {
         "assignees": [
-          "Econ01",
           "king-p3nguin"
         ],
         "state": "closed",
