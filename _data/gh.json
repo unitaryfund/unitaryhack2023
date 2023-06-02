@@ -686,7 +686,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "pulser": {
-    "amount_available": 475,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [
@@ -728,7 +728,7 @@
         "assignees": [
           "dakk"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "SPAM errors introduce large simulation overhead ",
         "url": "https://github.com/pasqal-io/Pulser/issues/352",
         "value": 125
@@ -737,7 +737,7 @@
     "emoji": "\ud83c\udf86",
     "name": "Pulser",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/Pulser"
   },
