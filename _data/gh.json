@@ -1240,7 +1240,7 @@
     "url": "https://github.com/dorahacksglobal/quantum-randomness-generator"
   },
   "qunetsim": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -1264,7 +1264,7 @@
         "assignees": [
           "atomgardner"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implement a simulation for MDI-QKD",
         "url": "https://github.com/tqsd/QuNetSim/issues/131",
         "value": 100
@@ -1280,7 +1280,7 @@
     "emoji": null,
     "name": "QuNetSim",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 400,
     "url": "https://github.com/tqsd/QuNetSim"
   },
