@@ -195,7 +195,8 @@
     "bounties": [
       {
         "assignees": [
-          "WingCode"
+          "WingCode",
+          "Sri-Harsha-T"
         ],
         "state": "open",
         "title": "Generate all ancestors of a given code",
@@ -843,7 +844,8 @@
     "bounties": [
       {
         "assignees": [
-          "rum1887"
+          "rum1887",
+          "DarthRevan07"
         ],
         "state": "open",
         "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
