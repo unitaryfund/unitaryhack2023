@@ -1207,7 +1207,10 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "niranjannagumalli",
+          "DarthRevan07"
+        ],
         "state": "open",
         "title": "Trevisan\u2019s extractor",
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/4",
@@ -1288,7 +1291,9 @@
     "amount_available": 50,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "khnikhil"
+        ],
         "state": "closed",
         "title": "Fermionic creation and annihilation operators",
         "url": "https://github.com/qutip/qutip/issues/2165",
