@@ -1406,7 +1406,7 @@
     "url": "https://github.com/UCL-CCS/symmer"
   },
   "toqito": {
-    "amount_available": 300,
+    "amount_available": 225,
     "bounties": [
       {
         "assignees": [
@@ -1421,7 +1421,7 @@
         "assignees": [
           "ErikQQY"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Refactor: Partial trace and partial transpose",
         "url": "https://github.com/vprusso/toqito/issues/145",
         "value": 75
@@ -1464,7 +1464,7 @@
     "emoji": "\ud83d\udc0d\ud83d\udd2c",
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
