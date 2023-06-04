@@ -30,8 +30,7 @@
 
           {% set num_completed = project_meta.num_bounties - project_meta.num_open_bounties %}
           <label for="bounty-progress">
-            Bounties open: {{ project_meta.num_open_bounties }}
-          </label>
+            Bounties open: {{ project_meta.num_open_bounties }}/{{project_meta.num_bounties}} </label> 
           <progress id="bounty-progress" max={{ project_meta.num_bounties }} value={{ num_completed }}></progress>
         </div>
       {% endif %}

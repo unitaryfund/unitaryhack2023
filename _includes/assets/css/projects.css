@@ -11,14 +11,14 @@
   display: flex;
   flex-direction: column;
   justify-content: top;
-  padding: 30px 30px;
+  padding: 16px 28px;
   background: linear-gradient(var(--color-secondary), var(--color-border));
-  border: 30px solid var(--color-border);
+  border: 16px solid var(--color-border);
   font-family: var(--font-family-default);
   font-size: var(--font-size-p);
   letter-spacing: 1.5px;
   color: var(--color-text-title);
-  border-radius: 50px;
+  border-radius: 24px;
 }
 
 .project-card:hover {
@@ -35,12 +35,12 @@
 }
 
 .project-card__tag {
-  background-color: var(--color-text-title);
+  background-color: lightgrey;
   color: var(--color-secondary);
   font-family: var(--pixel-font);
   font-size: var(--font-size-tag);
-  padding: 0.5rem;
-  border-radius: 5px;
+  padding: 4px 12px;
+  border-radius: 16px;
   margin: 5px;
 }
 
@@ -48,13 +48,11 @@
   background-color: var(--color-bg-secondary);
   color: var(--color-secondary);
   font-size: var(--font-size-tag);
-  padding: 0.5rem;
-  border-radius: 5px;
+  padding: 4px 12px;
+  border-radius: 16px;
   margin: 5px;
 }
-a.project-list__tag:hover {
-  background-color: white;
-}
+
 
 .tag-list {
   line-height: 2rem;
@@ -63,8 +61,8 @@ a.project-list__tag:hover {
 }
 
 .project-card__tag:hover {
-  color: var(--color-secondary);
-  filter: brightness(115%);
+  color: var(--color-border);
+  box-shadow: none;
 }
 
 .project-card__emoji {
@@ -80,7 +78,10 @@ a.project-list__tag:hover {
 }
 
 label {
-  font-weight: 400;
+  font-weight: 600;
+  color: var(--color-text);
+  font-family: var(--futuristic-font);
+  font-size: 14px;
 }
 
 progress {
@@ -88,14 +89,18 @@ progress {
   border-radius: 0.5em;
   color: var(--color-secondary);
   background-color: var(--color-bg);
+  transform: rotate(180deg);
 }
 
-progress::-moz-progress-bar {
-  background: var(--color-secondary);
+progress::-webkit-progress-bar {
+  background: var(--color-border);
+  border: 2.5px solid black;
+  border-radius: 8px;
 }
+
 
 progress::-webkit-progress-value {
-  background: var(--color-secondary);
+  background: black;
 }
 
 .page-container {
