@@ -1257,9 +1257,7 @@
         "value": 100
       },
       {
-        "assignees": [
-          "lavanya-m-k"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add a variation of \"get_classical\" that can receive a message from any host",
         "url": "https://github.com/tqsd/QuNetSim/issues/145",
