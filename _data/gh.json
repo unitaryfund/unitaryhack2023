@@ -281,7 +281,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hierarqcal": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -291,15 +291,19 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "metalcyanide"
+        ],
         "state": "open",
         "title": "Add functionality to visualise hypergraphs (N-ary edges for digraphs)",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/27",
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "khnikhil"
+        ],
+        "state": "closed",
         "title": "Build simple circuits with strings",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/28",
         "value": 200
@@ -315,7 +319,7 @@
     "emoji": "\ud83e\udea1",
     "name": "HierarQcal",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
@@ -1046,7 +1050,8 @@
       },
       {
         "assignees": [
-          "ogunsegun"
+          "ogunsegun",
+          "DarthRevan07"
         ],
         "state": "open",
         "title": "Enable (some) transpilation with Braket",
@@ -1328,7 +1333,7 @@
     "bounties": [
       {
         "assignees": [
-          "petergthatsme"
+          "KevinJoven11"
         ],
         "state": "open",
         "title": "Short tutorial video on using scqubits",
@@ -1404,7 +1409,7 @@
     "url": "https://github.com/UCL-CCS/symmer"
   },
   "toqito": {
-    "amount_available": 225,
+    "amount_available": 175,
     "bounties": [
       {
         "assignees": [
@@ -1453,7 +1458,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Feature: Completely bounded trace norm",
         "url": "https://github.com/vprusso/toqito/issues/148",
         "value": 50
@@ -1462,7 +1467,7 @@
     "emoji": "\ud83d\udc0d\ud83d\udd2c",
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
