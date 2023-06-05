@@ -948,7 +948,7 @@
     "url": "https://github.com/abdullahkhalids/qecft"
   },
   "qiskit-aer": {
-    "amount_available": 420,
+    "amount_available": 340,
     "bounties": [
       {
         "assignees": [],
@@ -966,7 +966,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Renew example codes in README",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1806",
         "value": 80
@@ -989,7 +989,7 @@
     "emoji": "\ud83c\udf2c\ufe0f",
     "name": "Qiskit Aer",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
