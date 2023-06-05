@@ -601,7 +601,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 350,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -613,8 +613,10 @@
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "tnemoz"
+        ],
+        "state": "closed",
         "title": "Add support for calculating the trace distance",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4098",
         "value": 100
@@ -651,7 +653,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -905,13 +907,13 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qecft": {
-    "amount_available": 500,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
           "JiQing000"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implementation of surface codes",
         "url": "https://github.com/abdullahkhalids/qecft/issues/1",
         "value": 75
@@ -935,8 +937,10 @@
         "value": 125
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "AnsahMohammad"
+        ],
+        "state": "closed",
         "title": "Forum for solutions",
         "url": "https://github.com/abdullahkhalids/qecft/issues/2",
         "value": 225
@@ -945,7 +949,7 @@
     "emoji": "\u29f0",
     "name": "QECFT Book",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/abdullahkhalids/qecft"
   },
@@ -996,7 +1000,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1590,
+    "amount_available": 1540,
     "bounties": [
       {
         "assignees": [
@@ -1049,7 +1053,7 @@
         "assignees": [
           "Morcu"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Updates for Qiskit to Braket circuit conversion",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37",
         "value": 50
@@ -1128,7 +1132,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 9,
+    "num_open_bounties": 8,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1335,7 +1339,7 @@
     "url": "https://github.com/qutip/qutip"
   },
   "scqubits": {
-    "amount_available": 425,
+    "amount_available": 325,
     "bounties": [
       {
         "assignees": [
@@ -1356,8 +1360,10 @@
         "value": 75
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "golanor"
+        ],
+        "state": "closed",
         "title": "Adding support for 1/f flux noise channel to the flux qubit class",
         "url": "https://github.com/scqubits/scqubits/issues/185",
         "value": 100
@@ -1376,7 +1382,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },
