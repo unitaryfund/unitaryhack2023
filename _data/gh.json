@@ -3,7 +3,9 @@
     "amount_available": 350,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "kvathupo"
+        ],
         "state": "open",
         "title": "Pauli and Clifford groups",
         "url": "https://github.com/aws/amazon-braket-sdk-python/issues/553",
@@ -693,7 +695,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "pulser": {
-    "amount_available": 350,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -708,7 +710,7 @@
         "assignees": [
           "dakk"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Drawing of `Register` goes out of window boundaries",
         "url": "https://github.com/pasqal-io/Pulser/issues/501",
         "value": 50
@@ -744,7 +746,7 @@
     "emoji": "\ud83c\udf86",
     "name": "Pulser",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/Pulser"
   },
@@ -994,7 +996,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1640,
+    "amount_available": 1590,
     "bounties": [
       {
         "assignees": [
@@ -1017,7 +1019,9 @@
         "value": 30
       },
       {
-        "assignees": [],
+        "assignees": [
+          "DarthRevan07"
+        ],
         "state": "open",
         "title": "Backends: incorporate gate errors information from Braket devices to unlock noise aware transpiling",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/25",
@@ -1033,8 +1037,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "dakk"
+        ],
+        "state": "closed",
         "title": "add get_statevector support for BraketLocalBackend",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47",
         "value": 50
@@ -1122,7 +1128,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 10,
+    "num_open_bounties": 9,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1350,9 +1356,7 @@
         "value": 75
       },
       {
-        "assignees": [
-          "petergthatsme"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Adding support for 1/f flux noise channel to the flux qubit class",
         "url": "https://github.com/scqubits/scqubits/issues/185",
