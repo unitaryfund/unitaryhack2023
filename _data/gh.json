@@ -193,14 +193,13 @@
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
   "eczoo_data": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
-          "WingCode",
           "Sri-Harsha-T"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Generate all ancestors of a given code",
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296",
         "value": 200
@@ -232,7 +231,7 @@
     "emoji": "\ud83e\udd81",
     "name": "Error Correction Zoo",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/errorcorrectionzoo/eczoo_data/"
   },
