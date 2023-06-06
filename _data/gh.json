@@ -410,7 +410,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 325,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -425,7 +425,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add examples for missing submission endpoints",
         "url": "https://github.com/unitaryfund/metriq-client/issues/72",
         "value": 75
@@ -459,7 +459,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
