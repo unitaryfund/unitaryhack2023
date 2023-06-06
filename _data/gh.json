@@ -3,7 +3,9 @@
     "amount_available": 350,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "kvathupo"
+        ],
         "state": "open",
         "title": "Pauli and Clifford groups",
         "url": "https://github.com/aws/amazon-braket-sdk-python/issues/553",
@@ -191,14 +193,13 @@
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
   "eczoo_data": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
-          "WingCode",
           "Sri-Harsha-T"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Generate all ancestors of a given code",
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296",
         "value": 200
@@ -230,7 +231,7 @@
     "emoji": "\ud83e\udd81",
     "name": "Error Correction Zoo",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/errorcorrectionzoo/eczoo_data/"
   },
@@ -281,7 +282,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hierarqcal": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -291,15 +292,19 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "metalcyanide"
+        ],
         "state": "open",
         "title": "Add functionality to visualise hypergraphs (N-ary edges for digraphs)",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/27",
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "khnikhil"
+        ],
+        "state": "closed",
         "title": "Build simple circuits with strings",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/28",
         "value": 200
@@ -315,7 +320,7 @@
     "emoji": "\ud83e\udea1",
     "name": "HierarQcal",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
@@ -405,7 +410,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 325,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -420,7 +425,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add examples for missing submission endpoints",
         "url": "https://github.com/unitaryfund/metriq-client/issues/72",
         "value": 75
@@ -454,7 +459,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -595,7 +600,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 350,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -607,8 +612,10 @@
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "tnemoz"
+        ],
+        "state": "closed",
         "title": "Add support for calculating the trace distance",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4098",
         "value": 100
@@ -645,7 +652,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -689,7 +696,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "pulser": {
-    "amount_available": 350,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -704,7 +711,7 @@
         "assignees": [
           "dakk"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Drawing of `Register` goes out of window boundaries",
         "url": "https://github.com/pasqal-io/Pulser/issues/501",
         "value": 50
@@ -740,7 +747,7 @@
     "emoji": "\ud83c\udf86",
     "name": "Pulser",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/Pulser"
   },
@@ -899,13 +906,13 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qecft": {
-    "amount_available": 500,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
           "JiQing000"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implementation of surface codes",
         "url": "https://github.com/abdullahkhalids/qecft/issues/1",
         "value": 75
@@ -929,8 +936,10 @@
         "value": 125
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "AnsahMohammad"
+        ],
+        "state": "closed",
         "title": "Forum for solutions",
         "url": "https://github.com/abdullahkhalids/qecft/issues/2",
         "value": 225
@@ -939,12 +948,12 @@
     "emoji": "\u29f0",
     "name": "QECFT Book",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/abdullahkhalids/qecft"
   },
   "qiskit-aer": {
-    "amount_available": 500,
+    "amount_available": 340,
     "bounties": [
       {
         "assignees": [],
@@ -962,14 +971,14 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Renew example codes in README",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1806",
         "value": 80
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Qiskit Aer still uses execute",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1632",
         "value": 80
@@ -985,12 +994,12 @@
     "emoji": "\ud83c\udf2c\ufe0f",
     "name": "Qiskit Aer",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1640,
+    "amount_available": 1540,
     "bounties": [
       {
         "assignees": [
@@ -1013,7 +1022,9 @@
         "value": 30
       },
       {
-        "assignees": [],
+        "assignees": [
+          "DarthRevan07"
+        ],
         "state": "open",
         "title": "Backends: incorporate gate errors information from Braket devices to unlock noise aware transpiling",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/25",
@@ -1029,8 +1040,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "dakk"
+        ],
+        "state": "closed",
         "title": "add get_statevector support for BraketLocalBackend",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47",
         "value": 50
@@ -1039,14 +1052,15 @@
         "assignees": [
           "Morcu"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Updates for Qiskit to Braket circuit conversion",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37",
         "value": 50
       },
       {
         "assignees": [
-          "ogunsegun"
+          "ogunsegun",
+          "DarthRevan07"
         ],
         "state": "open",
         "title": "Enable (some) transpilation with Braket",
@@ -1117,7 +1131,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 10,
+    "num_open_bounties": 8,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1324,11 +1338,11 @@
     "url": "https://github.com/qutip/qutip"
   },
   "scqubits": {
-    "amount_available": 425,
+    "amount_available": 325,
     "bounties": [
       {
         "assignees": [
-          "petergthatsme"
+          "KevinJoven11"
         ],
         "state": "open",
         "title": "Short tutorial video on using scqubits",
@@ -1346,9 +1360,9 @@
       },
       {
         "assignees": [
-          "petergthatsme"
+          "golanor"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Adding support for 1/f flux noise channel to the flux qubit class",
         "url": "https://github.com/scqubits/scqubits/issues/185",
         "value": 100
@@ -1367,7 +1381,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },
@@ -1404,7 +1418,7 @@
     "url": "https://github.com/UCL-CCS/symmer"
   },
   "toqito": {
-    "amount_available": 225,
+    "amount_available": 175,
     "bounties": [
       {
         "assignees": [
@@ -1453,7 +1467,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Feature: Completely bounded trace norm",
         "url": "https://github.com/vprusso/toqito/issues/148",
         "value": 50
@@ -1462,7 +1476,7 @@
     "emoji": "\ud83d\udc0d\ud83d\udd2c",
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
