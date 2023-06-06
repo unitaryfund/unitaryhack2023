@@ -282,7 +282,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hierarqcal": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [],
@@ -295,7 +295,7 @@
         "assignees": [
           "metalcyanide"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add functionality to visualise hypergraphs (N-ary edges for digraphs)",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/27",
         "value": 100
@@ -320,7 +320,7 @@
     "emoji": "\ud83e\udea1",
     "name": "HierarQcal",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
