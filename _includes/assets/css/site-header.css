@@ -46,10 +46,16 @@ li.site-header__item {
   color: var(--color-text);
   font-size: var(--font-size-nav);
   padding: 0 16px;
+  border: 2px solid transparent;
 }
 
 .site-header__link:hover {
   border-bottom: none;
+  color: var(--color-border);
+  background-color: var(--color-text);
+  border: 2px solid;
+  border-color: var(--color-border);
+
 }
 
 @media (min-width: 1024px) {
