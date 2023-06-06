@@ -847,7 +847,7 @@
     "url": "https://github.com/pasqal-io/PyQ"
   },
   "qbraid": {
-    "amount_available": 375,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
@@ -873,7 +873,7 @@
           "TheGupta2012",
           "JessicaJohnBritto"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Transpiler gate coverage benchmarking",
         "url": "https://github.com/qBraid/qBraid/issues/234",
         "value": 100
@@ -901,7 +901,7 @@
     "emoji": "\ud83e\udde0\ud83d\udc23",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
