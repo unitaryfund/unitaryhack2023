@@ -1050,7 +1050,7 @@
       },
       {
         "assignees": [
-          "Morcu"
+          "urihan"
         ],
         "state": "closed",
         "title": "Updates for Qiskit to Braket circuit conversion",
