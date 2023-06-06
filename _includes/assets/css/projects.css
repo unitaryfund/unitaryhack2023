@@ -100,8 +100,10 @@ progress::-webkit-progress-bar {
 
 
 progress::-webkit-progress-value {
-  background: black;
+  background: rgb(117, 117, 117);
+  border-radius: 5px 0px 0px 5px;
 }
+
 
 .page-container {
   max-width: 1200px;
