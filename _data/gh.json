@@ -1390,7 +1390,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "Nizdew"
+        ],
         "state": "open",
         "title": "unitaryHACK #1: Faster to_sparse_matrix method",
         "url": "https://github.com/UCL-CCS/symmer/issues/137",
