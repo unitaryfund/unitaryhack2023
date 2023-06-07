@@ -174,7 +174,10 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "akshitjohry",
+          "athanzxyt"
+        ],
         "state": "open",
         "title": "`@ct.lattice(@ct.electron)` seems to change function scope",
         "url": "https://github.com/AgnostiqHQ/covalent/issues/1643",
@@ -603,7 +606,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 250,
+    "amount_available": 225,
     "bounties": [
       {
         "assignees": [
@@ -645,8 +648,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "manulpatel"
+        ],
+        "state": "closed",
         "title": "Update plugins in Docker builds",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4123",
         "value": 25
@@ -655,7 +660,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
