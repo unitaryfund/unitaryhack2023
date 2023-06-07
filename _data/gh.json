@@ -12,7 +12,10 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "golanor",
+          "Aaron-Robertson"
+        ],
         "state": "open",
         "title": "Ocean for Analog Hamiltonian Simulation",
         "url": "https://github.com/aws/amazon-braket-ocean-plugin-python/issues/72",
@@ -1003,7 +1006,6 @@
     "bounties": [
       {
         "assignees": [
-          "Morcu",
           "mariapaula14"
         ],
         "state": "open",
@@ -1106,7 +1108,6 @@
       },
       {
         "assignees": [
-          "abrassel",
           "AbdullahKazi500",
           "Gmontes01",
           "s-aldaihan"
