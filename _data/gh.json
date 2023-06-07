@@ -880,10 +880,7 @@
         "value": 125
       },
       {
-        "assignees": [
-          "TheGupta2012",
-          "JessicaJohnBritto"
-        ],
+        "assignees": [],
         "state": "closed",
         "title": "Transpiler gate coverage benchmarking",
         "url": "https://github.com/qBraid/qBraid/issues/234",
@@ -1311,7 +1308,7 @@
     "url": "https://github.com/tqsd/QuNetSim"
   },
   "qutip": {
-    "amount_available": 50,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1336,14 +1333,14 @@
         "state": "open",
         "title": "Add qutip-qip tutorials to documentation on Read the docs ",
         "url": "https://github.com/qutip/qutip-qip/issues/204",
-        "value": 50
+        "value": 100
       }
     ],
     "emoji": "\ud83d\udc0d",
     "name": "QuTiP",
     "num_bounties": 3,
     "num_open_bounties": 1,
-    "total_amount": 300,
+    "total_amount": 350,
     "url": "https://github.com/qutip/qutip"
   },
   "scqubits": {
