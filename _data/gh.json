@@ -684,7 +684,9 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "JMaterne"
+        ],
         "state": "open",
         "title": "Definition of (perfect) complex input states",
         "url": "https://github.com/Quandela/Perceval/issues/208",
