@@ -710,6 +710,7 @@
     "bounties": [
       {
         "assignees": [
+          "dakk",
           "neogyk"
         ],
         "state": "open",
