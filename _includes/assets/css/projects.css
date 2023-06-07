@@ -87,7 +87,6 @@ progress {
   border: 0.15em solid black;
   border-radius: 1em;
   color: var(--color-secondary);
-  transform: rotate(180deg);
   width: 100%;
 }
 
