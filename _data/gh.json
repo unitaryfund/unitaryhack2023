@@ -22,7 +22,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "dakk"
+        ],
         "state": "closed",
         "title": "Support for the `run_batch()` method on `LocalSimulator`",
         "url": "https://github.com/aws/amazon-braket-sdk-python/issues/320",
