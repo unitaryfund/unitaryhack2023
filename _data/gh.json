@@ -519,13 +519,13 @@
     "url": "https://github.com/unitaryfund/mitiq"
   },
   "openqaoa": {
-    "amount_available": 500,
+    "amount_available": 280,
     "bounties": [
       {
         "assignees": [
           "lumapools"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
         "url": "https://github.com/entropicalabs/openqaoa/issues/234",
         "value": 60
@@ -550,7 +550,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Implement `as_matrix` method for the `Hamiltonian` class",
         "url": "https://github.com/entropicalabs/openqaoa/issues/232",
         "value": 160
@@ -566,7 +566,7 @@
     "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
     "name": "OpenQAOA",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/entropicalabs/openqaoa"
   },
