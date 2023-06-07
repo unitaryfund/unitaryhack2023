@@ -17,7 +17,7 @@ bounties:
   - issue_num: 2163
     value: 50
   - issue_num: 204
-    value: 50
+    value: 100
     repo: qutip/qutip-qip
 ---
 
