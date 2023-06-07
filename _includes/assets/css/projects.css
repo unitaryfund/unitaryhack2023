@@ -53,7 +53,6 @@
   margin: 5px;
 }
 
-
 .tag-list {
   line-height: 2rem;
   display: flex;
@@ -85,25 +84,26 @@ label {
 }
 
 progress {
-  border: none;
-  border-radius: 0.5em;
+  border: 0.15em solid black;
+  border-radius: 1em;
   color: var(--color-secondary);
-  background-color: var(--color-bg);
   transform: rotate(180deg);
+  width: 100%;
+}
+
+progress::-moz-progress-bar {
+  background: var(--color-secondary);
 }
 
 progress::-webkit-progress-bar {
-  background: var(--color-border);
-  border: 2.5px solid black;
-  border-radius: 8px;
+  background: white;
+  border-radius: 1em;
 }
-
 
 progress::-webkit-progress-value {
-  background: rgb(117, 117, 117);
-  border-radius: 5px 0px 0px 5px;
+  background: var(--color-secondary);
+  border-radius: 1em 0px 0px 1em;
 }
-
 
 .page-container {
   max-width: 1200px;
