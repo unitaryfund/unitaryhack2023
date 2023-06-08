@@ -73,7 +73,9 @@ hack_stats = {
     "closed_bounty_value": 0,
 }
 
-hackers = set()
+from collections import defaultdict
+
+hackers = defaultdict(list)
 for project, data in projects.items():
     for bounty in data["bounties"]:
         hack_stats["num_bounties"] += 1
@@ -87,9 +89,34 @@ for project, data in projects.items():
             bounty["value"] if bounty["state"] == "closed" else 0
         )
         if bounty["state"] == "closed":
-            hackers.update(bounty["assignees"])
+            for hacker in bounty["assignees"]:
+                hackers[hacker].append(
+                    {
+                        "url": bounty["url"],
+                        "title": bounty["title"],
+                        "project": project,
+                        "value": bounty["value"],
+                    }
+                )
 
 hack_stats["num_hackers"] = len(hackers)
+
+leaderboard = {hacker: len(bounties) for hacker, bounties in hackers.items()}
+hacker_info = [
+    {
+        "username": hacker,
+        "bounties": bounties,
+        "num_projects": len(set(b["project"] for b in bounties)),
+        "total_value": sum(b["value"] for b in bounties),
+    }
+    for hacker, bounties in hackers.items()
+]
+
+with open("hackers.json", "w") as f:
+    json.dump(hacker_info, f, indent=2)
+
+with open("leaderboard.json", "w") as f:
+    json.dump(dict(sorted(leaderboard.items(), key=lambda hb: -1 * hb[1])), f, indent=2)
 
 with open("gh.json", "w") as f:
     json.dump(projects, f, indent=2, sort_keys=True)
