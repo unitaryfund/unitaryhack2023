@@ -1151,7 +1151,9 @@
     "amount_available": 450,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "maxwell04-wq"
+        ],
         "state": "open",
         "title": "Update plot_gate_map (and related visualization functions) to leverage rustworkx.visualization.graphviz_draw for unknown coupling maps",
         "url": "https://github.com/Qiskit/qiskit-terra/issues/9031",
@@ -1432,7 +1434,7 @@
     "url": "https://github.com/UCL-CCS/symmer"
   },
   "toqito": {
-    "amount_available": 175,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1456,7 +1458,7 @@
         "assignees": [
           "purva-thakre"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Feature: Fidelity of separability",
         "url": "https://github.com/vprusso/toqito/issues/141",
         "value": 75
@@ -1492,7 +1494,7 @@
     "emoji": "\ud83d\udc0d\ud83d\udd2c",
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
