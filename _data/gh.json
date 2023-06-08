@@ -1478,7 +1478,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Anish-lab98"
+        ],
         "state": "closed",
         "title": "Feature: Completely bounded trace norm",
         "url": "https://github.com/vprusso/toqito/issues/148",
