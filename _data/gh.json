@@ -882,7 +882,9 @@
         "value": 125
       },
       {
-        "assignees": [],
+        "assignees": [
+          "mmlouamri"
+        ],
         "state": "closed",
         "title": "Transpiler gate coverage benchmarking",
         "url": "https://github.com/qBraid/qBraid/issues/234",
