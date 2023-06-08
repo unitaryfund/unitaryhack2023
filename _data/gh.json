@@ -472,7 +472,7 @@
     "url": "https://github.com/unitaryfund/metriq-app"
   },
   "mitiq": {
-    "amount_available": 270,
+    "amount_available": 170,
     "bounties": [
       {
         "assignees": [
@@ -510,7 +510,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Improve the cost estimation to run a Calibrator",
         "url": "https://github.com/unitaryfund/mitiq/issues/1715",
         "value": 100
@@ -519,7 +519,7 @@
     "emoji": "\ud83c\udf34",
     "name": "Mitiq",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 450,
     "url": "https://github.com/unitaryfund/mitiq"
   },
@@ -608,7 +608,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 225,
+    "amount_available": 125,
     "bounties": [
       {
         "assignees": [
@@ -629,8 +629,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "EmilianoG-byte"
+        ],
+        "state": "closed",
         "title": "Support qutrit state preparations",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4122",
         "value": 100
@@ -662,7 +664,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
