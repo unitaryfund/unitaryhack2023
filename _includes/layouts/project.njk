@@ -18,7 +18,7 @@ section: project
         {% for bounty in bts %}
         {% set comma = joiner(", ") %}
           <li>
-            <a class="tag bounty-{{ state }}" href="{{ bounty.url | url }}">${{ bounty.value }} | {{bounty.title}}</a>
+            <a class="tag bounty-{{ state }}" href="{{ bounty.url | url }}">${{ bounty.value }} | {% mdRender %}{{ bounty.title }}{% endmdRender %}</a>
             {% if state == "closed" and bounty.assignees.length != 0 %}
               <br>
               closed by:

@@ -7,7 +7,7 @@ const {
   fortawesomeBrandsPlugin,
 } = require("@vidhill/fortawesome-brands-11ty-shortcode");
 
-module.exports = function (eleventyConfig) {
+module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(fortawesomeBrandsPlugin);
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
@@ -23,13 +23,13 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  function filterTags(tags) {
+  filterTags = (tags) => {
     return (tags || []).filter((tag) => ["all", "tagList"].indexOf(tag) === -1);
-  }
+  };
   eleventyConfig.addFilter("filterTags", filterTags);
 
   // Create an array of all tags
-  eleventyConfig.addCollection("tagList", function (collection) {
+  eleventyConfig.addCollection("tagList", (collection) => {
     let tagSet = new Set();
     collection.getFilteredByGlob("./projects/*.md").forEach((item) => {
       item.data.tags.forEach((tag) => tagSet.add(tag));
@@ -49,12 +49,12 @@ module.exports = function (eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
+  eleventyConfig.addFilter("cssmin", (code) => {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function (code) {
+  eleventyConfig.addFilter("jsmin", (code) => {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -64,7 +64,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
     if (outputPath && outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -99,6 +99,10 @@ module.exports = function (eleventyConfig) {
     "md",
     markdownIt(options).use(markdownItAnchor, opts)
   );
+
+  eleventyConfig.addPairedShortcode("mdRender", (title) => {
+    return markdownIt().renderInline(title);
+  });
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
