@@ -309,6 +309,19 @@
     "total_value": 80
   },
   {
+    "username": "YuNariai",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/mitiq/issues/1715",
+        "title": "Improve the cost estimation to run a Calibrator",
+        "project": "mitiq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "WingCode",
     "bounties": [
       {

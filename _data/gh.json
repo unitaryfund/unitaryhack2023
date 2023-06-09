@@ -509,7 +509,9 @@
         "value": 120
       },
       {
-        "assignees": [],
+        "assignees": [
+          "YuNariai"
+        ],
         "state": "closed",
         "title": "Improve the cost estimation to run a Calibrator",
         "url": "https://github.com/unitaryfund/mitiq/issues/1715",
@@ -809,9 +811,7 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [
-          "abrassel"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add unit tests which check pre-computed analytical expression",
         "url": "https://github.com/pasqal-io/PyQ/issues/60",
