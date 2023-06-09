@@ -1419,7 +1419,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "devilkiller-ag"
+        ],
         "state": "open",
         "title": "unitaryHACK #3: Code Documentation",
         "url": "https://github.com/UCL-CCS/symmer/issues/139",
