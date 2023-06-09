@@ -30,16 +30,8 @@ jobs:
           cd _data
           python scrape_github.py
 
-      - name: commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "🏆 update hackathon results 🏆" -a
-
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+      - name: Push new data
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          add: "*.json"
+          message: "🏆 update hackathon results 🏆"
