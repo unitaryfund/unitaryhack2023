@@ -335,7 +335,7 @@
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
   "kqcircuits": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [],
@@ -373,8 +373,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "AVDiv"
+        ],
+        "state": "closed",
         "title": "Provide Vim command for `create_element_from_path.py`",
         "url": "https://github.com/iqm-finland/KQCircuits/issues/48",
         "value": 50
@@ -383,7 +385,7 @@
     "emoji": "\ud83e\udd91",
     "name": "KQCircuits",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/iqm-finland/KQCircuits"
   },

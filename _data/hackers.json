@@ -90,6 +90,19 @@
     "total_value": 100
   },
   {
+    "username": "AVDiv",
+    "bounties": [
+      {
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/48",
+        "title": "Provide Vim command for `create_element_from_path.py`",
+        "project": "kqcircuits",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
+  },
+  {
     "username": "anushkrishnav",
     "bounties": [
       {
