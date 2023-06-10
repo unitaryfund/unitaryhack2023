@@ -610,7 +610,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 125,
+    "amount_available": 50,
     "bounties": [
       {
         "assignees": [
@@ -641,7 +641,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Add one_qubit_decomposition function",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4121",
         "value": 75
@@ -666,7 +666,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
