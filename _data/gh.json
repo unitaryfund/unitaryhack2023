@@ -254,7 +254,9 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Gopal-Dahale"
+        ],
         "state": "open",
         "title": "[demo] Quantum neural network",
         "url": "https://github.com/TeamGraphix/graphix/issues/46",
