@@ -244,7 +244,7 @@
     "url": "https://github.com/errorcorrectionzoo/eczoo_data/"
   },
   "graphix": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -257,7 +257,7 @@
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[demo] Quantum neural network",
         "url": "https://github.com/TeamGraphix/graphix/issues/46",
         "value": 100
@@ -287,7 +287,7 @@
     "emoji": "\ud83d\udd78\ufe0f",
     "name": "Graphix",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/TeamGraphix/graphix"
   },

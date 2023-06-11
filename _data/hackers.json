@@ -64,6 +64,19 @@
     "total_value": 200
   },
   {
+    "username": "Gopal-Dahale",
+    "bounties": [
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/46",
+        "title": "[demo] Quantum neural network",
+        "project": "graphix",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "TheGupta2012",
     "bounties": [
       {
