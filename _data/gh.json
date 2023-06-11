@@ -422,7 +422,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 250,
+    "amount_available": 175,
     "bounties": [
       {
         "assignees": [
@@ -446,7 +446,7 @@
         "assignees": [
           "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add examples for results API endpoints",
         "url": "https://github.com/unitaryfund/metriq-client/issues/73",
         "value": 75
@@ -471,7 +471,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },

@@ -123,10 +123,16 @@
         "title": "Provide an informative string representation for ParametrizedHamiltonian",
         "project": "pennylane",
         "value": 150
+      },
+      {
+        "url": "https://github.com/unitaryfund/metriq-client/issues/73",
+        "title": "Add examples for results API endpoints",
+        "project": "metriq-app",
+        "value": 75
       }
     ],
-    "num_projects": 1,
-    "total_value": 150
+    "num_projects": 2,
+    "total_value": 225
   },
   {
     "username": "tnemoz",
