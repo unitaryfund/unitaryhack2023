@@ -187,6 +187,19 @@
     "total_value": 75
   },
   {
+    "username": "schance995",
+    "bounties": [
+      {
+        "url": "https://github.com/abdullahkhalids/qecft/issues/4",
+        "title": "Script to convert book to pdf",
+        "project": "qecft",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "AnsahMohammad",
     "bounties": [
       {
