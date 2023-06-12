@@ -35,3 +35,4 @@ jobs:
         with:
           add: "*.json"
           message: "🏆 update hackathon results 🏆"
+          default_actor: github_actions
