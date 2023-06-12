@@ -380,6 +380,19 @@
     "total_value": 100
   },
   {
+    "username": "KevinJoven11",
+    "bounties": [
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/184",
+        "title": "Short tutorial video on using scqubits",
+        "project": "scqubits",
+        "value": 200
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
+  },
+  {
     "username": "WingCode",
     "bounties": [
       {
@@ -445,14 +458,20 @@
         "value": 50
       },
       {
+        "url": "https://github.com/bqskit/bqskit/issues/150",
+        "title": "Non-deterministic circuit iteration for regions",
+        "project": "bqskit",
+        "value": 100
+      },
+      {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/47",
         "title": "add get_statevector support for BraketLocalBackend",
         "project": "qiskit-braket-provider",
         "value": 50
       }
     ],
-    "num_projects": 3,
-    "total_value": 300
+    "num_projects": 4,
+    "total_value": 400
   },
   {
     "username": "Sri-Harsha-T",

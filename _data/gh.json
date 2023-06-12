@@ -108,7 +108,7 @@
     "url": "https://github.com/QuEraComputing/Bloqade.jl"
   },
   "bqskit": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -125,8 +125,10 @@
         "value": 200
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "dakk"
+        ],
+        "state": "closed",
         "title": "Non-deterministic circuit iteration for regions",
         "url": "https://github.com/bqskit/bqskit/issues/150",
         "value": 100
@@ -135,7 +137,7 @@
     "emoji": null,
     "name": "BQSKit",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/bqskit/bqskit"
   },
@@ -1356,13 +1358,13 @@
     "url": "https://github.com/qutip/qutip"
   },
   "scqubits": {
-    "amount_available": 325,
+    "amount_available": 125,
     "bounties": [
       {
         "assignees": [
           "KevinJoven11"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Short tutorial video on using scqubits",
         "url": "https://github.com/scqubits/scqubits/issues/184",
         "value": 200
@@ -1399,7 +1401,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 4,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },
