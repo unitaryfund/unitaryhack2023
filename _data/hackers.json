@@ -64,6 +64,19 @@
     "total_value": 100
   },
   {
+    "username": "PedroCarreiras",
+    "bounties": [
+      {
+        "url": "https://github.com/pasqal-io/PyQ/issues/36",
+        "title": "Overload the * operator of modules.RotationsGate to allow for gate composition",
+        "project": "pyq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "lumapools",
     "bounties": [
       {
@@ -450,6 +463,25 @@
     "total_value": 180
   },
   {
+    "username": "devilkiller-ag",
+    "bounties": [
+      {
+        "url": "https://github.com/UCL-CCS/symmer/issues/139",
+        "title": "unitaryHACK #3: Code Documentation",
+        "project": "symmer",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87",
+        "title": "BraketLocalBackend should display the correct backend name",
+        "project": "qiskit-braket-provider",
+        "value": 25
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 125
+  },
+  {
     "username": "atomgardner",
     "bounties": [
       {
@@ -543,18 +575,5 @@
     ],
     "num_projects": 1,
     "total_value": 50
-  },
-  {
-    "username": "devilkiller-ag",
-    "bounties": [
-      {
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/87",
-        "title": "BraketLocalBackend should display the correct backend name",
-        "project": "qiskit-braket-provider",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
   }
 ]

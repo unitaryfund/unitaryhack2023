@@ -31,9 +31,7 @@
         "value": 50
       },
       {
-        "assignees": [
-          "AbdullahKazi500"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Amazon Braket backend support",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/137",
@@ -231,9 +229,7 @@
         "value": 50
       },
       {
-        "assignees": [
-          "AbdullahKazi500"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Contribute code worth TWO POINTS",
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/223",
@@ -818,7 +814,7 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "pyq": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [],
@@ -858,7 +854,7 @@
         "assignees": [
           "PedroCarreiras"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Overload the * operator of modules.RotationsGate to allow for gate composition",
         "url": "https://github.com/pasqal-io/PyQ/issues/36",
         "value": 100
@@ -867,7 +863,7 @@
     "emoji": "\u23f3",
     "name": "PyQ",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/PyQ"
   },
@@ -1129,7 +1125,6 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "Gmontes01",
           "s-aldaihan"
         ],
@@ -1238,9 +1233,7 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [
-          "AbdullahKazi500"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Improve CHSH score of Rigetti Aspen-M-3",
         "url": "https://github.com/dorahacksglobal/quantum-randomness-generator/issues/8",
@@ -1410,7 +1403,7 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "symmer": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [
@@ -1432,7 +1425,7 @@
         "assignees": [
           "devilkiller-ag"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "unitaryHACK #3: Code Documentation",
         "url": "https://github.com/UCL-CCS/symmer/issues/139",
         "value": 100
@@ -1441,7 +1434,7 @@
     "emoji": "\ud83e\udd58\ud83d\udd25",
     "name": "Symmer",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/UCL-CCS/symmer"
   },
