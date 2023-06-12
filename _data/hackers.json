@@ -32,6 +32,19 @@
     "total_value": 400
   },
   {
+    "username": "zain2864",
+    "bounties": [
+      {
+        "url": "https://github.com/pasqal-io/PyQ/issues/53",
+        "title": "Unify the three hamiltonian evolution classes into one `HamiltonianEvolution`",
+        "project": "pyq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "lumapools",
     "bounties": [
       {
