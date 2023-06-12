@@ -26,10 +26,29 @@
         "title": "Fermionic creation and annihilation operators",
         "project": "qutip",
         "value": 200
+      },
+      {
+        "url": "https://github.com/bqskit/bqskit/issues/153",
+        "title": "Better Qudit Gate Support",
+        "project": "bqskit",
+        "value": 200
       }
     ],
-    "num_projects": 2,
-    "total_value": 400
+    "num_projects": 3,
+    "total_value": 600
+  },
+  {
+    "username": "prilcool",
+    "bounties": [
+      {
+        "url": "https://github.com/pasqal-io/PyQ/issues/54",
+        "title": "Write doc strings for most important gates/circuits",
+        "project": "pyq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "zain2864",
@@ -123,19 +142,6 @@
         "title": "Provide Vim command for `create_element_from_path.py`",
         "project": "kqcircuits",
         "value": 50
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 50
-  },
-  {
-    "username": "anushkrishnav",
-    "bounties": [
-      {
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/4088",
-        "title": "Provide an informative string representation for ParametrizedHamiltonian",
-        "project": "pennylane",
-        "value": 150
       },
       {
         "url": "https://github.com/unitaryfund/metriq-client/issues/73",
@@ -145,7 +151,20 @@
       }
     ],
     "num_projects": 2,
-    "total_value": 225
+    "total_value": 125
+  },
+  {
+    "username": "anushkrishnav",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4088",
+        "title": "Provide an informative string representation for ParametrizedHamiltonian",
+        "project": "pennylane",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
   },
   {
     "username": "tnemoz",

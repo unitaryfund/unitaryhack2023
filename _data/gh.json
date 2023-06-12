@@ -52,7 +52,7 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500"
+          "Amana-L"
         ],
         "state": "open",
         "title": "[DOC] More examples for `BloqadeLattices` docstrings",
@@ -108,11 +108,13 @@
     "url": "https://github.com/QuEraComputing/Bloqade.jl"
   },
   "bqskit": {
-    "amount_available": 400,
+    "amount_available": 200,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "khnikhil"
+        ],
+        "state": "closed",
         "title": "Better Qudit Gate Support",
         "url": "https://github.com/bqskit/bqskit/issues/153",
         "value": 200
@@ -137,7 +139,7 @@
     "emoji": null,
     "name": "BQSKit",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/bqskit/bqskit"
   },
@@ -446,7 +448,7 @@
       },
       {
         "assignees": [
-          "anushkrishnav"
+          "AVDiv"
         ],
         "state": "closed",
         "title": "Add examples for results API endpoints",
@@ -816,7 +818,7 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "pyq": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -829,7 +831,7 @@
         "assignees": [
           "prilcool"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Write doc strings for most important gates/circuits",
         "url": "https://github.com/pasqal-io/PyQ/issues/54",
         "value": 100
@@ -865,7 +867,7 @@
     "emoji": "\u23f3",
     "name": "PyQ",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/PyQ"
   },
