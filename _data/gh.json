@@ -653,7 +653,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "ejthomas"
+        ],
         "state": "open",
         "title": "[BUG] Operations in `has_unitary_generator` do not really have unitary generators",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4055",
