@@ -180,6 +180,19 @@
     "total_value": 150
   },
   {
+    "username": "Newtech66",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4121",
+        "title": "Add one_qubit_decomposition function",
+        "project": "pennylane",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
     "username": "manulpatel",
     "bounties": [
       {

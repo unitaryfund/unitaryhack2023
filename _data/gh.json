@@ -646,7 +646,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Newtech66"
+        ],
         "state": "closed",
         "title": "Add one_qubit_decomposition function",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4121",
