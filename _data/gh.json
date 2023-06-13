@@ -270,7 +270,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "pafloxy"
+        ],
         "state": "open",
         "title": "Parameterized measurement patterns",
         "url": "https://github.com/TeamGraphix/graphix/issues/45",
@@ -679,7 +681,7 @@
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
   "perceval": {
-    "amount_available": 300,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [],
@@ -696,8 +698,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "king-p3nguin"
+        ],
+        "state": "closed",
         "title": "Latex Renderer",
         "url": "https://github.com/Quandela/Perceval/issues/206",
         "value": 150
@@ -715,7 +719,7 @@
     "emoji": "\ud83d\udde1\ufe0f",
     "name": "Perceval",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/Quandela/Perceval"
   },

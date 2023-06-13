@@ -292,14 +292,20 @@
         "value": 225
       },
       {
+        "url": "https://github.com/Quandela/Perceval/issues/206",
+        "title": "Latex Renderer",
+        "project": "perceval",
+        "value": 150
+      },
+      {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/86",
         "title": "Support for Parametric Circuits",
         "project": "qiskit-braket-provider",
         "value": 50
       }
     ],
-    "num_projects": 2,
-    "total_value": 375
+    "num_projects": 3,
+    "total_value": 525
   },
   {
     "username": "mark-koch",
