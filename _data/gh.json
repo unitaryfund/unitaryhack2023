@@ -1078,6 +1078,7 @@
       },
       {
         "assignees": [
+          "dakk",
           "urihan"
         ],
         "state": "closed",
@@ -1134,8 +1135,7 @@
       },
       {
         "assignees": [
-          "Gmontes01",
-          "s-aldaihan"
+          "Gmontes01"
         ],
         "state": "open",
         "title": "Gate decomposition",
@@ -1175,8 +1175,6 @@
       },
       {
         "assignees": [
-          "MihirsinhChauhan",
-          "s-aldaihan",
           "wenxh0718"
         ],
         "state": "open",

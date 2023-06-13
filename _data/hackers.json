@@ -627,10 +627,16 @@
         "title": "add get_statevector support for BraketLocalBackend",
         "project": "qiskit-braket-provider",
         "value": 50
+      },
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/37",
+        "title": "Updates for Qiskit to Braket circuit conversion",
+        "project": "qiskit-braket-provider",
+        "value": 50
       }
     ],
     "num_projects": 5,
-    "total_value": 480
+    "total_value": 530
   },
   {
     "username": "san-gh",
