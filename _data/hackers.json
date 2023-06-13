@@ -488,34 +488,14 @@
     "total_value": 125
   },
   {
-    "username": "san-gh",
-    "bounties": [
-      {
-        "url": "https://github.com/tqsd/QuNetSim/issues/145",
-        "title": "Add a variation of \"get_classical\" that can receive a message from any host",
-        "project": "qunetsim",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
-  },
-  {
-    "username": "atomgardner",
-    "bounties": [
-      {
-        "url": "https://github.com/tqsd/QuNetSim/issues/131",
-        "title": "Implement a simulation for MDI-QKD",
-        "project": "qunetsim",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
-  },
-  {
     "username": "dakk",
     "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1632",
+        "title": "Qiskit Aer still uses execute",
+        "project": "qiskit-aer",
+        "value": 80
+      },
       {
         "url": "https://github.com/pasqal-io/Pulser/issues/501",
         "title": "Drawing of `Register` goes out of window boundaries",
@@ -553,8 +533,34 @@
         "value": 50
       }
     ],
-    "num_projects": 4,
-    "total_value": 400
+    "num_projects": 5,
+    "total_value": 480
+  },
+  {
+    "username": "san-gh",
+    "bounties": [
+      {
+        "url": "https://github.com/tqsd/QuNetSim/issues/145",
+        "title": "Add a variation of \"get_classical\" that can receive a message from any host",
+        "project": "qunetsim",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "atomgardner",
+    "bounties": [
+      {
+        "url": "https://github.com/tqsd/QuNetSim/issues/131",
+        "title": "Implement a simulation for MDI-QKD",
+        "project": "qunetsim",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "Sri-Harsha-T",

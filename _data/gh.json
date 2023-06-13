@@ -1003,7 +1003,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "dakk"
+        ],
         "state": "closed",
         "title": "Qiskit Aer still uses execute",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1632",
