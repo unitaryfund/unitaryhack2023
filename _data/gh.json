@@ -534,7 +534,7 @@
     "url": "https://github.com/unitaryfund/mitiq"
   },
   "openqaoa": {
-    "amount_available": 280,
+    "amount_available": 180,
     "bounties": [
       {
         "assignees": [
@@ -547,15 +547,17 @@
         "value": 60
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "TerraVenil"
+        ],
+        "state": "closed",
         "title": "Add result statistics on measurement outcomes in QAOAResult object",
         "url": "https://github.com/entropicalabs/openqaoa/issues/235",
         "value": 100
       },
       {
         "assignees": [
-          "WingCode"
+          "TerraVenil"
         ],
         "state": "open",
         "title": "Prevent double authentication while using `openqaoa-azure`",
@@ -582,7 +584,7 @@
     "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
     "name": "OpenQAOA",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/entropicalabs/openqaoa"
   },
@@ -877,7 +879,7 @@
     "url": "https://github.com/pasqal-io/PyQ"
   },
   "qbraid": {
-    "amount_available": 75,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [],
@@ -906,10 +908,9 @@
       },
       {
         "assignees": [
-          "CalebMcIrvinGitHub",
-          "Miguelillnino"
+          "CalebMcIrvinGitHub"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "OpenQASM 3.0 circuit drawer",
         "url": "https://github.com/qBraid/qBraid/issues/227",
         "value": 75
@@ -927,7 +928,7 @@
     "emoji": "\ud83e\udde0\ud83d\udc23",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },

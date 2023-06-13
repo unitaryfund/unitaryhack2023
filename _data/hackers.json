@@ -103,6 +103,19 @@
     "total_value": 60
   },
   {
+    "username": "TerraVenil",
+    "bounties": [
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/235",
+        "title": "Add result statistics on measurement outcomes in QAOAResult object",
+        "project": "openqaoa",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "AlexisRalli",
     "bounties": [
       {
@@ -178,6 +191,19 @@
     ],
     "num_projects": 1,
     "total_value": 100
+  },
+  {
+    "username": "CalebMcIrvinGitHub",
+    "bounties": [
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/227",
+        "title": "OpenQASM 3.0 circuit drawer",
+        "project": "qbraid",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
   },
   {
     "username": "AVDiv",
