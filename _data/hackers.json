@@ -155,10 +155,16 @@
         "title": "OpenQASM 2.0 --> OpenQASM 3.0 conversion function",
         "project": "qbraid",
         "value": 125
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/231",
+        "title": "Implement `IBMBackendWrapper.run_batch` method",
+        "project": "qbraid",
+        "value": 50
       }
     ],
     "num_projects": 1,
-    "total_value": 125
+    "total_value": 175
   },
   {
     "username": "mmlouamri",
@@ -290,6 +296,19 @@
     "total_value": 75
   },
   {
+    "username": "victor-onofre",
+    "bounties": [
+      {
+        "url": "https://github.com/abdullahkhalids/qecft/issues/3",
+        "title": " Implementation of color codes",
+        "project": "qecft",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
     "username": "schance995",
     "bounties": [
       {
@@ -314,6 +333,43 @@
     ],
     "num_projects": 1,
     "total_value": 225
+  },
+  {
+    "username": "WingCode",
+    "bounties": [
+      {
+        "url": "https://github.com/AgnostiqHQ/covalent/issues/1648",
+        "title": "Determine if covalent subprocess starts successfully",
+        "project": "covalent",
+        "value": 50
+      },
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/186",
+        "title": "Adding code documentation",
+        "project": "scqubits",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
+        "title": "Add test suite for examples directory",
+        "project": "metriq-app",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/unitaryfund/metriq-client/issues/72",
+        "title": "Add examples for missing submission endpoints",
+        "project": "metriq-app",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85",
+        "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
+        "project": "qiskit-braket-provider",
+        "value": 30
+      }
+    ],
+    "num_projects": 4,
+    "total_value": 330
   },
   {
     "username": "king-p3nguin",
@@ -412,7 +468,7 @@
     "total_value": 100
   },
   {
-    "username": "Anish-lab98",
+    "username": "AmanieOxana",
     "bounties": [
       {
         "url": "https://github.com/vprusso/toqito/issues/148",
@@ -481,31 +537,6 @@
     ],
     "num_projects": 1,
     "total_value": 200
-  },
-  {
-    "username": "WingCode",
-    "bounties": [
-      {
-        "url": "https://github.com/scqubits/scqubits/issues/186",
-        "title": "Adding code documentation",
-        "project": "scqubits",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/unitaryfund/metriq-client/issues/72",
-        "title": "Add examples for missing submission endpoints",
-        "project": "metriq-app",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85",
-        "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
-        "project": "qiskit-braket-provider",
-        "value": 30
-      }
-    ],
-    "num_projects": 3,
-    "total_value": 180
   },
   {
     "username": "devilkiller-ag",

@@ -142,7 +142,7 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "covalent": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [
@@ -158,7 +158,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Determine if covalent subprocess starts successfully",
         "url": "https://github.com/AgnostiqHQ/covalent/issues/1648",
         "value": 50
@@ -198,7 +198,7 @@
     "emoji": "\ud83d\udd00\u2601\ufe0f",
     "name": "Covalent",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
@@ -426,13 +426,13 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 175,
+    "amount_available": 75,
     "bounties": [
       {
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add test suite for examples directory",
         "url": "https://github.com/unitaryfund/metriq-client/issues/71",
         "value": 100
@@ -475,7 +475,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -877,14 +877,11 @@
     "url": "https://github.com/pasqal-io/PyQ"
   },
   "qbraid": {
-    "amount_available": 275,
+    "amount_available": 75,
     "bounties": [
       {
-        "assignees": [
-          "rum1887",
-          "DarthRevan07"
-        ],
-        "state": "open",
+        "assignees": [],
+        "state": "closed",
         "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
         "url": "https://github.com/qBraid/qBraid/issues/233",
         "value": 150
@@ -921,7 +918,7 @@
         "assignees": [
           "TheGupta2012"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implement `IBMBackendWrapper.run_batch` method",
         "url": "https://github.com/qBraid/qBraid/issues/231",
         "value": 50
@@ -930,12 +927,12 @@
     "emoji": "\ud83e\udde0\ud83d\udc23",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
   "qecft": {
-    "amount_available": 75,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -950,7 +947,7 @@
         "assignees": [
           "victor-onofre"
         ],
-        "state": "open",
+        "state": "closed",
         "title": " Implementation of color codes",
         "url": "https://github.com/abdullahkhalids/qecft/issues/3",
         "value": 75
@@ -977,7 +974,7 @@
     "emoji": "\u29f0",
     "name": "QECFT Book",
     "num_bounties": 4,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/abdullahkhalids/qecft"
   },
@@ -1501,7 +1498,7 @@
       },
       {
         "assignees": [
-          "Anish-lab98"
+          "AmanieOxana"
         ],
         "state": "closed",
         "title": "Feature: Completely bounded trace norm",
