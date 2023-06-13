@@ -322,7 +322,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Gopal-Dahale"
+        ],
         "state": "open",
         "title": "Quantum Chemistry example notebook for the exponentiation of Pauli operators",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/29",
@@ -536,7 +538,8 @@
     "bounties": [
       {
         "assignees": [
-          "lumapools"
+          "lumapools",
+          "GiacomoFrn"
         ],
         "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
@@ -544,9 +547,7 @@
         "value": 60
       },
       {
-        "assignees": [
-          "WingCode"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add result statistics on measurement outcomes in QAOAResult object",
         "url": "https://github.com/entropicalabs/openqaoa/issues/235",
@@ -562,7 +563,9 @@
         "value": 60
       },
       {
-        "assignees": [],
+        "assignees": [
+          "AlexisRalli"
+        ],
         "state": "closed",
         "title": "Implement `as_matrix` method for the `Hamiltonian` class",
         "url": "https://github.com/entropicalabs/openqaoa/issues/232",
@@ -616,7 +619,7 @@
     "url": "https://github.com/sg495/pauliopt"
   },
   "pennylane": {
-    "amount_available": 50,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -658,7 +661,7 @@
         "assignees": [
           "ejthomas"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[BUG] Operations in `has_unitary_generator` do not really have unitary generators",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/4055",
         "value": 50
@@ -676,7 +679,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 6,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },

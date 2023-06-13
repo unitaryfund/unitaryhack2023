@@ -90,6 +90,32 @@
     "total_value": 60
   },
   {
+    "username": "GiacomoFrn",
+    "bounties": [
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/234",
+        "title": "Expose brute force solver through OpenQAOA workflows",
+        "project": "openqaoa",
+        "value": 60
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 60
+  },
+  {
+    "username": "AlexisRalli",
+    "bounties": [
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/232",
+        "title": "Implement `as_matrix` method for the `Hamiltonian` class",
+        "project": "openqaoa",
+        "value": 160
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 160
+  },
+  {
     "username": "golanor",
     "bounties": [
       {
@@ -223,6 +249,19 @@
     ],
     "num_projects": 1,
     "total_value": 75
+  },
+  {
+    "username": "ejthomas",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/4055",
+        "title": "[BUG] Operations in `has_unitary_generator` do not really have unitary generators",
+        "project": "pennylane",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
   },
   {
     "username": "manulpatel",
