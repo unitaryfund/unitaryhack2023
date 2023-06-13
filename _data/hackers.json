@@ -482,6 +482,19 @@
     "total_value": 125
   },
   {
+    "username": "san-gh",
+    "bounties": [
+      {
+        "url": "https://github.com/tqsd/QuNetSim/issues/145",
+        "title": "Add a variation of \"get_classical\" that can receive a message from any host",
+        "project": "qunetsim",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "atomgardner",
     "bounties": [
       {

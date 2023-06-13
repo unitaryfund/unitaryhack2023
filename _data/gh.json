@@ -1278,7 +1278,7 @@
     "url": "https://github.com/dorahacksglobal/quantum-randomness-generator"
   },
   "qunetsim": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
@@ -1290,8 +1290,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "san-gh"
+        ],
+        "state": "closed",
         "title": "Add a variation of \"get_classical\" that can receive a message from any host",
         "url": "https://github.com/tqsd/QuNetSim/issues/145",
         "value": 100
@@ -1316,7 +1318,7 @@
     "emoji": null,
     "name": "QuNetSim",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 400,
     "url": "https://github.com/tqsd/QuNetSim"
   },
