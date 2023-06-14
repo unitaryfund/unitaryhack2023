@@ -1028,7 +1028,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1540,
+    "amount_available": 1510,
     "bounties": [
       {
         "assignees": [
@@ -1041,10 +1041,9 @@
       },
       {
         "assignees": [
-          "dexter2206",
-          "devilkiller-ag"
+          "robotAstray"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Rename AWSBraketJob to AmazonBraketTask",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/45",
         "value": 30
@@ -1158,7 +1157,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 8,
+    "num_open_bounties": 7,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1369,6 +1368,7 @@
     "bounties": [
       {
         "assignees": [
+          "Algh89110377",
           "KevinJoven11"
         ],
         "state": "closed",
@@ -1553,7 +1553,9 @@
       {
         "assignees": [
           "pandey-tushar",
-          "bopardikarsoham"
+          "bopardikarsoham",
+          "YuNariai",
+          "dhanvi-bharadwaj"
         ],
         "state": "open",
         "title": "add supports for more basic operations and layers",
