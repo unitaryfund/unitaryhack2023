@@ -534,7 +534,7 @@
     "url": "https://github.com/unitaryfund/mitiq"
   },
   "openqaoa": {
-    "amount_available": 180,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -559,7 +559,7 @@
         "assignees": [
           "TerraVenil"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Prevent double authentication while using `openqaoa-azure`",
         "url": "https://github.com/entropicalabs/openqaoa/issues/233",
         "value": 60
@@ -577,7 +577,7 @@
         "assignees": [
           "Newtech66"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Improve test_problems.py",
         "url": "https://github.com/entropicalabs/openqaoa/issues/226",
         "value": 120
@@ -586,7 +586,7 @@
     "emoji": "\u269b\ufe0f\ud83e\udd0c\u269b\ufe0f",
     "name": "OpenQAOA",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/entropicalabs/openqaoa"
   },
