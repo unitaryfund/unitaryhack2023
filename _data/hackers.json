@@ -218,6 +218,25 @@
     "total_value": 100
   },
   {
+    "username": "mmlouamri",
+    "bounties": [
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/233",
+        "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
+        "project": "qbraid",
+        "value": 150
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/234",
+        "title": "Transpiler gate coverage benchmarking",
+        "project": "qbraid",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 250
+  },
+  {
     "username": "TheGupta2012",
     "bounties": [
       {
@@ -235,19 +254,6 @@
     ],
     "num_projects": 1,
     "total_value": 175
-  },
-  {
-    "username": "mmlouamri",
-    "bounties": [
-      {
-        "url": "https://github.com/qBraid/qBraid/issues/234",
-        "title": "Transpiler gate coverage benchmarking",
-        "project": "qbraid",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
   },
   {
     "username": "CalebMcIrvinGitHub",

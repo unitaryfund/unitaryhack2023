@@ -415,7 +415,10 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "WingCode",
+          "ACE07-Sev"
+        ],
         "state": "open",
         "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
         "url": "https://github.com/CQCL/lambeq/issues/84",
@@ -888,7 +891,9 @@
     "amount_available": 0,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "mmlouamri"
+        ],
         "state": "closed",
         "title": "Braket circuit compilation method for `AwsDeviceWrapper.run`",
         "url": "https://github.com/qBraid/qBraid/issues/233",
@@ -1021,7 +1026,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "TerraVenil"
+        ],
         "state": "open",
         "title": "Some typos in qiskit_aer.AerSimulator docs",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
