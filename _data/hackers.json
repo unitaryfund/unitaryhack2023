@@ -38,6 +38,19 @@
     "total_value": 600
   },
   {
+    "username": "Amana-L",
+    "bounties": [
+      {
+        "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/517",
+        "title": "[DOC] More examples for `BloqadeLattices` docstrings",
+        "project": "bloqade.jl",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "prilcool",
     "bounties": [
       {
@@ -127,6 +140,19 @@
     ],
     "num_projects": 1,
     "total_value": 160
+  },
+  {
+    "username": "stevescia",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/qrack/issues/988",
+        "title": "Extend QCircuit to QInterface",
+        "project": "qrack",
+        "value": 200
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
   },
   {
     "username": "golanor",
