@@ -574,7 +574,9 @@
         "value": 160
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Newtech66"
+        ],
         "state": "open",
         "title": "Improve test_problems.py",
         "url": "https://github.com/entropicalabs/openqaoa/issues/226",
