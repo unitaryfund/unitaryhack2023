@@ -795,11 +795,11 @@
     "url": "https://github.com/pasqal-io/Pulser"
   },
   "pyclifford": {
-    "amount_available": 500,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
         "url": "https://github.com/hongyehu/PyClifford/issues/15",
         "value": 150
@@ -829,7 +829,7 @@
     "emoji": null,
     "name": "PyClifford",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/hongyehu/PyClifford"
   },
@@ -1531,20 +1531,15 @@
     "url": "https://github.com/vprusso/toqito"
   },
   "torchquantum": {
-    "amount_available": 400,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
-          "hrahman12",
-          "Jayshah25",
-          "Anantha-Rao12",
           "Gopal-Dahale",
-          "RamAIbot",
           "bopardikarsoham",
-          "YuNariai",
-          "s-aldaihan"
+          "YuNariai"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "add support for more quantum algorithms",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
         "value": 100
@@ -1560,9 +1555,10 @@
       },
       {
         "assignees": [
-          "dtlics"
+          "dtlics",
+          "Micheallscarn"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "support more gradient estimation methods",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
         "value": 100
@@ -1571,10 +1567,9 @@
         "assignees": [
           "pandey-tushar",
           "bopardikarsoham",
-          "YuNariai",
           "dhanvi-bharadwaj"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "add supports for more basic operations and layers",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
         "value": 100
@@ -1585,7 +1580,7 @@
           "josephtedds",
           "MihirsinhChauhan"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "enhance the documentations and tests",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
         "value": 100
@@ -1594,7 +1589,7 @@
     "emoji": "\ud83c\udf45",
     "name": "TorchQuantum",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/mit-han-lab/torchquantum"
   },

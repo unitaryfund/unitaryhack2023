@@ -212,10 +212,54 @@
         "title": "[demo] Quantum neural network",
         "project": "graphix",
         "value": 100
+      },
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
+        "title": "add support for more quantum algorithms",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 200
+  },
+  {
+    "username": "bopardikarsoham",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
+        "title": "add support for more quantum algorithms",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
+        "title": "add supports for more basic operations and layers",
+        "project": "torchquantum",
+        "value": 100
       }
     ],
     "num_projects": 1,
-    "total_value": 100
+    "total_value": 200
+  },
+  {
+    "username": "YuNariai",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
+        "title": "add support for more quantum algorithms",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/unitaryfund/mitiq/issues/1715",
+        "title": "Improve the cost estimation to run a Calibrator",
+        "project": "mitiq",
+        "value": 100
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 200
   },
   {
     "username": "jinleic",
@@ -223,6 +267,97 @@
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/132",
         "title": "Pulse level simulation and variational circuits",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "dtlics",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
+        "title": "support more gradient estimation methods",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "Micheallscarn",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
+        "title": "support more gradient estimation methods",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "pandey-tushar",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
+        "title": "add supports for more basic operations and layers",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "dhanvi-bharadwaj",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
+        "title": "add supports for more basic operations and layers",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "denvitko",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
+        "title": "enhance the documentations and tests",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "josephtedds",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
+        "title": "enhance the documentations and tests",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "MihirsinhChauhan",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
+        "title": "enhance the documentations and tests",
         "project": "torchquantum",
         "value": 100
       }
@@ -613,19 +748,6 @@
     ],
     "num_projects": 1,
     "total_value": 80
-  },
-  {
-    "username": "YuNariai",
-    "bounties": [
-      {
-        "url": "https://github.com/unitaryfund/mitiq/issues/1715",
-        "title": "Improve the cost estimation to run a Calibrator",
-        "project": "mitiq",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
   },
   {
     "username": "Algh89110377",
