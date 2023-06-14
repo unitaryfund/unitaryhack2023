@@ -990,7 +990,9 @@
         "value": 180
       },
       {
-        "assignees": [],
+        "assignees": [
+          "tungbq"
+        ],
         "state": "open",
         "title": "Remove Python 3.7 from Github actions",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1807",
@@ -1449,7 +1451,7 @@
     "url": "https://github.com/UCL-CCS/symmer"
   },
   "toqito": {
-    "amount_available": 100,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -1480,9 +1482,10 @@
       },
       {
         "assignees": [
-          "smtsjhr"
+          "smtsjhr",
+          "Newtech66"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Feature: Is UPB (unextendible product basis)",
         "url": "https://github.com/vprusso/toqito/issues/33",
         "value": 100
@@ -1509,7 +1512,7 @@
     "emoji": "\ud83d\udc0d\ud83d\udd2c",
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
