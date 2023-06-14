@@ -397,14 +397,18 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "neiljdo"
+        ],
         "state": "open",
         "title": "UnitaryHACK: Serialise ansatz and include in model",
         "url": "https://github.com/CQCL/lambeq/issues/86",
         "value": 250
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Gopal-Dahale"
+        ],
         "state": "open",
         "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
         "url": "https://github.com/CQCL/lambeq/issues/85",
@@ -1179,6 +1183,7 @@
       },
       {
         "assignees": [
+          "ichen17",
           "wenxh0718"
         ],
         "state": "open",
