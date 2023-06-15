@@ -994,7 +994,9 @@
     "amount_available": 340,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "AngeloDanducci"
+        ],
         "state": "open",
         "title": "Remove `PulseSimulator`",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1805",
@@ -1366,7 +1368,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "rum1887"
+        ],
         "state": "open",
         "title": "Add qutip-qip tutorials to documentation on Read the docs ",
         "url": "https://github.com/qutip/qutip-qip/issues/204",
