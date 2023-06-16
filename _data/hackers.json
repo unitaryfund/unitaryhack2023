@@ -65,10 +65,16 @@
         "title": "Forum for solutions",
         "project": "qecft",
         "value": 225
+      },
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1633",
+        "title": "Aer documentation says IBMQ not IBM Quantum",
+        "project": "qiskit-aer",
+        "value": 80
       }
     ],
-    "num_projects": 1,
-    "total_value": 225
+    "num_projects": 2,
+    "total_value": 305
   },
   {
     "username": "davidlearn",

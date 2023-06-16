@@ -991,7 +991,7 @@
     "url": "https://github.com/abdullahkhalids/qecft"
   },
   "qiskit-aer": {
-    "amount_available": 340,
+    "amount_available": 240,
     "bounties": [
       {
         "assignees": [
@@ -1000,7 +1000,7 @@
         "state": "open",
         "title": "Remove `PulseSimulator`",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1805",
-        "value": 180
+        "value": 80
       },
       {
         "assignees": [
@@ -1037,13 +1037,22 @@
         "title": "Some typos in qiskit_aer.AerSimulator docs",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
         "value": 80
+      },
+      {
+        "assignees": [
+          "AnsahMohammad"
+        ],
+        "state": "closed",
+        "title": "Aer documentation says IBMQ not IBM Quantum",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1633",
+        "value": 80
       }
     ],
     "emoji": "\ud83c\udf2c\ufe0f",
     "name": "Qiskit Aer",
-    "num_bounties": 5,
+    "num_bounties": 6,
     "num_open_bounties": 3,
-    "total_amount": 500,
+    "total_amount": 480,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
