@@ -14,7 +14,7 @@ tags:
   - cuda
 bounties:
   - issue_num: 1805
-    value: 180
+    value: 80
   - issue_num: 1807
     value: 80
   - issue_num: 1806
@@ -22,6 +22,8 @@ bounties:
   - issue_num: 1632
     value: 80
   - issue_num: 1611
+    value: 80
+  - issue_num: 1633
     value: 80
 ---
 
