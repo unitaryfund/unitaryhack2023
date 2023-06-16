@@ -1012,7 +1012,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "davidlearn"
+        ],
         "state": "closed",
         "title": "Renew example codes in README",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1806",
@@ -1179,7 +1181,7 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qiskit-terra": {
-    "amount_available": 450,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -1196,7 +1198,7 @@
           "ichen17",
           "wenxh0718"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add a Variational Quantum Time Evolution Tutorial",
         "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
         "value": 150
@@ -1214,7 +1216,7 @@
     "emoji": null,
     "name": "Qiskit",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 450,
     "url": "https://github.com/Qiskit/qiskit-terra"
   },
@@ -1346,7 +1348,7 @@
     "url": "https://github.com/tqsd/QuNetSim"
   },
   "qutip": {
-    "amount_available": 100,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -1370,7 +1372,7 @@
         "assignees": [
           "rum1887"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add qutip-qip tutorials to documentation on Read the docs ",
         "url": "https://github.com/qutip/qutip-qip/issues/204",
         "value": 100
@@ -1379,7 +1381,7 @@
     "emoji": "\ud83d\udc0d",
     "name": "QuTiP",
     "num_bounties": 3,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 350,
     "url": "https://github.com/qutip/qutip"
   },

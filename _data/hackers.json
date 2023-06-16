@@ -71,6 +71,19 @@
     "total_value": 225
   },
   {
+    "username": "davidlearn",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1806",
+        "title": "Renew example codes in README",
+        "project": "qiskit-aer",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
+  },
+  {
     "username": "dakk",
     "bounties": [
       {
@@ -232,6 +245,19 @@
     ],
     "num_projects": 2,
     "total_value": 150
+  },
+  {
+    "username": "rum1887",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/qutip-qip/issues/204",
+        "title": "Add qutip-qip tutorials to documentation on Read the docs ",
+        "project": "qutip",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "WingCode",
@@ -622,6 +648,45 @@
     ],
     "num_projects": 1,
     "total_value": 50
+  },
+  {
+    "username": "huckstar",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
+    "username": "ichen17",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
+    "username": "wenxh0718",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
   },
   {
     "username": "lumapools",
