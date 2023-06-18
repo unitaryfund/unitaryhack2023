@@ -798,7 +798,9 @@
     "amount_available": 350,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "teng10"
+        ],
         "state": "closed",
         "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
         "url": "https://github.com/hongyehu/PyClifford/issues/15",

@@ -501,6 +501,19 @@
     "total_value": 100
   },
   {
+    "username": "teng10",
+    "bounties": [
+      {
+        "url": "https://github.com/hongyehu/PyClifford/issues/15",
+        "title": "[UnitaryHack] Implementing state expectation in parallel for a given batch of stabilizer states",
+        "project": "pyclifford",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
     "username": "anushkrishnav",
     "bounties": [
       {
