@@ -1192,7 +1192,7 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qiskit-terra": {
-    "amount_available": 300,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [
@@ -1218,7 +1218,7 @@
         "assignees": [
           "maxwell04-wq"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update Gradient Framework tutorial to use primitives",
         "url": "https://github.com/qiskit/qiskit-tutorials/issues/1390",
         "value": 150
@@ -1227,7 +1227,7 @@
     "emoji": null,
     "name": "Qiskit",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 450,
     "url": "https://github.com/Qiskit/qiskit-terra"
   },
