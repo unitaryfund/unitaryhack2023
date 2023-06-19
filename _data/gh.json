@@ -394,13 +394,13 @@
     "url": "https://github.com/iqm-finland/KQCircuits"
   },
   "lambeq": {
-    "amount_available": 500,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "neiljdo"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "UnitaryHACK: Serialise ansatz and include in model",
         "url": "https://github.com/CQCL/lambeq/issues/86",
         "value": 250
@@ -409,7 +409,7 @@
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
         "url": "https://github.com/CQCL/lambeq/issues/85",
         "value": 150
@@ -419,7 +419,7 @@
           "WingCode",
           "ACE07-Sev"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
         "url": "https://github.com/CQCL/lambeq/issues/84",
         "value": 100
@@ -428,7 +428,7 @@
     "emoji": null,
     "name": "lambeq",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/CQCL/lambeq"
   },
@@ -1033,7 +1033,8 @@
       },
       {
         "assignees": [
-          "TerraVenil"
+          "TerraVenil",
+          "Innanov"
         ],
         "state": "open",
         "title": "Some typos in qiskit_aer.AerSimulator docs",

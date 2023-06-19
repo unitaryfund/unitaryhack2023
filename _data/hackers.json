@@ -9,14 +9,20 @@
         "value": 100
       },
       {
+        "url": "https://github.com/CQCL/lambeq/issues/85",
+        "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
+        "project": "lambeq",
+        "value": 150
+      },
+      {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/136",
         "title": "add support for more quantum algorithms",
         "project": "torchquantum",
         "value": 100
       }
     ],
-    "num_projects": 2,
-    "total_value": 200
+    "num_projects": 3,
+    "total_value": 350
   },
   {
     "username": "JiQing000",
@@ -287,6 +293,12 @@
         "value": 30
       },
       {
+        "url": "https://github.com/CQCL/lambeq/issues/84",
+        "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
+        "project": "lambeq",
+        "value": 100
+      },
+      {
         "url": "https://github.com/scqubits/scqubits/issues/186",
         "title": "Adding code documentation",
         "project": "scqubits",
@@ -299,8 +311,8 @@
         "value": 50
       }
     ],
-    "num_projects": 4,
-    "total_value": 330
+    "num_projects": 5,
+    "total_value": 430
   },
   {
     "username": "AVDiv",
@@ -512,6 +524,32 @@
     ],
     "num_projects": 1,
     "total_value": 150
+  },
+  {
+    "username": "neiljdo",
+    "bounties": [
+      {
+        "url": "https://github.com/CQCL/lambeq/issues/86",
+        "title": "UnitaryHACK: Serialise ansatz and include in model",
+        "project": "lambeq",
+        "value": 250
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 250
+  },
+  {
+    "username": "ACE07-Sev",
+    "bounties": [
+      {
+        "url": "https://github.com/CQCL/lambeq/issues/84",
+        "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
+        "project": "lambeq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "anushkrishnav",
