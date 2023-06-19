@@ -9,6 +9,12 @@
         "value": 100
       },
       {
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/29",
+        "title": "Quantum Chemistry example notebook for the exponentiation of Pauli operators",
+        "project": "hierarqcal",
+        "value": 100
+      },
+      {
         "url": "https://github.com/CQCL/lambeq/issues/85",
         "title": "UnitaryHACK: Implement and test gradient free optimizer for circuit models",
         "project": "lambeq",
@@ -21,8 +27,8 @@
         "value": 100
       }
     ],
-    "num_projects": 3,
-    "total_value": 350
+    "num_projects": 4,
+    "total_value": 450
   },
   {
     "username": "JiQing000",
@@ -123,6 +129,12 @@
         "value": 50
       },
       {
+        "url": "https://github.com/pasqal-io/Pulser/issues/522",
+        "title": "Adding a function to draw `SequenceSamples`",
+        "project": "pulser",
+        "value": 75
+      },
+      {
         "url": "https://github.com/pasqal-io/Pulser/issues/501",
         "title": "Drawing of `Register` goes out of window boundaries",
         "project": "pulser",
@@ -148,7 +160,7 @@
       }
     ],
     "num_projects": 5,
-    "total_value": 530
+    "total_value": 605
   },
   {
     "username": "mmlouamri",

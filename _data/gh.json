@@ -294,7 +294,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hierarqcal": {
-    "amount_available": 200,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [],
@@ -325,7 +325,7 @@
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Quantum Chemistry example notebook for the exponentiation of Pauli operators",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/29",
         "value": 100
@@ -334,7 +334,7 @@
     "emoji": "\ud83e\udea1",
     "name": "HierarQcal",
     "num_bounties": 4,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
@@ -738,13 +738,13 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "pulser": {
-    "amount_available": 300,
+    "amount_available": 225,
     "bounties": [
       {
         "assignees": [
           "dakk"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Adding a function to draw `SequenceSamples`",
         "url": "https://github.com/pasqal-io/Pulser/issues/522",
         "value": 75
@@ -789,7 +789,7 @@
     "emoji": "\ud83c\udf86",
     "name": "Pulser",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/Pulser"
   },
