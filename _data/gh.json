@@ -1058,7 +1058,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 1510,
+    "amount_available": 510,
     "bounties": [
       {
         "assignees": [
@@ -1121,7 +1121,7 @@
           "ogunsegun",
           "DarthRevan07"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Enable (some) transpilation with Braket",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
         "value": 500
@@ -1167,7 +1167,7 @@
         "assignees": [
           "Gmontes01"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Gate decomposition",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90",
         "value": 500
@@ -1187,7 +1187,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 7,
+    "num_open_bounties": 5,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },

@@ -299,6 +299,12 @@
         "value": 75
       },
       {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
+        "title": "Enable (some) transpilation with Braket",
+        "project": "qiskit-braket-provider",
+        "value": 500
+      },
+      {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/85",
         "title": "Reference `OpenQASMDeviceActionProperties` for Braket devices",
         "project": "qiskit-braket-provider",
@@ -324,7 +330,7 @@
       }
     ],
     "num_projects": 5,
-    "total_value": 430
+    "total_value": 930
   },
   {
     "username": "AVDiv",
@@ -467,6 +473,32 @@
     "total_value": 50
   },
   {
+    "username": "ogunsegun",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
+        "title": "Enable (some) transpilation with Braket",
+        "project": "qiskit-braket-provider",
+        "value": 500
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 500
+  },
+  {
+    "username": "DarthRevan07",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
+        "title": "Enable (some) transpilation with Braket",
+        "project": "qiskit-braket-provider",
+        "value": 500
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 500
+  },
+  {
     "username": "devilkiller-ag",
     "bounties": [
       {
@@ -484,6 +516,19 @@
     ],
     "num_projects": 2,
     "total_value": 125
+  },
+  {
+    "username": "Gmontes01",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/90",
+        "title": "Gate decomposition",
+        "project": "qiskit-braket-provider",
+        "value": 500
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 500
   },
   {
     "username": "prilcool",
