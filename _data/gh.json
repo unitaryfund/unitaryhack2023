@@ -742,8 +742,7 @@
     "bounties": [
       {
         "assignees": [
-          "dakk",
-          "neogyk"
+          "dakk"
         ],
         "state": "open",
         "title": "Adding a function to draw `SequenceSamples`",
