@@ -142,7 +142,7 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "covalent": {
-    "amount_available": 450,
+    "amount_available": 375,
     "bounties": [
       {
         "assignees": [
@@ -165,7 +165,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Support task cancellation",
         "url": "https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76",
         "value": 75
@@ -198,7 +198,7 @@
     "emoji": "\ud83d\udd00\u2601\ufe0f",
     "name": "Covalent",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
@@ -1458,7 +1458,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "s-aldaihan"
+        ],
         "state": "open",
         "title": "unitaryHACK #2: Optimization of MPO construction",
         "url": "https://github.com/UCL-CCS/symmer/issues/138",
