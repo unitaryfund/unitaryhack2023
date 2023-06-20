@@ -15,14 +15,19 @@ tags:
 bounties:
   - issue_num: 1805
     value: 180
+    state: closed
   - issue_num: 1807
     value: 80
+    state: closed
   - issue_num: 1806
     value: 80
+    state: closed
   - issue_num: 1632
     value: 80
+    state: closed
   - issue_num: 1611
     value: 80
+    state: closed
 ---
 
 Aer provides interfaces to run Qiskit quantum circuits with or without noise using multiple different simulation methods. Aer supports leveraging MPI and running on GPUs to improve the performance of simulation.

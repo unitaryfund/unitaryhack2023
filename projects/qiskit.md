@@ -15,12 +15,15 @@ tags:
 bounties:
   - issue_num: 9031
     value: 150
+    state: closed
   - issue_num: 1391
     value: 150
     repo: qiskit/qiskit-tutorials
+    state: closed
   - issue_num: 1390
     value: 150
     repo: qiskit/qiskit-tutorials
+    state: closed
 ---
 
 The core of Qiskit is called `qiskit-terra` and includes tools to build, transpile, and visualize circuits. It also comes with an algorithm and circuit library. It is mainly written in Python and there are some components in Rust.

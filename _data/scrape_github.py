@@ -40,13 +40,14 @@ for project in get_project_info():
 
         issue_num = bounty["issue_num"]
         issue = repo.get_issue(number=issue_num)
-        if issue.state == "open":
+        state = bounty.get("state") or issue.state
+        if state == "open":
             amount_available += bounty["value"]
             num_open_bounties += 1
         issue_list.append(
             {
                 "title": issue.title,
-                "state": issue.state,
+                "state": state,
                 "assignees": [hacker.login for hacker in issue.assignees],
                 "value": bounty["value"],
                 "url": f"https://github.com/{repo_key}/issues/{issue_num}",
