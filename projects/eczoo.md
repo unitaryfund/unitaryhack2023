@@ -15,6 +15,7 @@ bounties:
     value: 200
   - issue_num: 47
     value: 200
+    state: closed
   - issue_num: 228
     value: 50
   - issue_num: 223
