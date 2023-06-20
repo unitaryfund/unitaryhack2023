@@ -203,7 +203,7 @@
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
   "eczoo_data": {
-    "amount_available": 300,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -216,7 +216,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Find unlinked code names and attach links to them",
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47",
         "value": 200
@@ -239,7 +239,7 @@
     "emoji": "\ud83e\udd81",
     "name": "Error Correction Zoo",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/errorcorrectionzoo/eczoo_data/"
   },
