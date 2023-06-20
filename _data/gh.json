@@ -46,7 +46,7 @@
     "url": "https://github.com/aws/amazon-braket-sdk-python"
   },
   "bloqade.jl": {
-    "amount_available": 350,
+    "amount_available": 325,
     "bounties": [
       {
         "assignees": [
@@ -59,7 +59,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature Request] CompatHelper",
         "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/375",
         "value": 25
@@ -101,7 +101,7 @@
     "emoji": null,
     "name": "Bloqade",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 375,
     "url": "https://github.com/QuEraComputing/Bloqade.jl"
   },
@@ -992,22 +992,22 @@
     "url": "https://github.com/abdullahkhalids/qecft"
   },
   "qiskit-aer": {
-    "amount_available": 240,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "AngeloDanducci"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Remove `PulseSimulator`",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1805",
-        "value": 80
+        "value": 180
       },
       {
         "assignees": [
           "tungbq"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Remove Python 3.7 from Github actions",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1807",
         "value": 80
@@ -1035,26 +1035,17 @@
           "TerraVenil",
           "Innanov"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Some typos in qiskit_aer.AerSimulator docs",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
-        "value": 80
-      },
-      {
-        "assignees": [
-          "AnsahMohammad"
-        ],
-        "state": "closed",
-        "title": "Aer documentation says IBMQ not IBM Quantum",
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1633",
         "value": 80
       }
     ],
     "emoji": "\ud83c\udf2c\ufe0f",
     "name": "Qiskit Aer",
-    "num_bounties": 6,
-    "num_open_bounties": 3,
-    "total_amount": 480,
+    "num_bounties": 5,
+    "num_open_bounties": 0,
+    "total_amount": 500,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
@@ -1192,13 +1183,13 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qiskit-terra": {
-    "amount_available": 150,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "maxwell04-wq"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update plot_gate_map (and related visualization functions) to leverage rustworkx.visualization.graphviz_draw for unknown coupling maps",
         "url": "https://github.com/Qiskit/qiskit-terra/issues/9031",
         "value": 150
@@ -1227,7 +1218,7 @@
     "emoji": null,
     "name": "Qiskit",
     "num_bounties": 3,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 450,
     "url": "https://github.com/Qiskit/qiskit-terra"
   },
@@ -1446,7 +1437,7 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "symmer": {
-    "amount_available": 400,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
@@ -1461,7 +1452,7 @@
         "assignees": [
           "s-aldaihan"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "unitaryHACK #2: Optimization of MPO construction",
         "url": "https://github.com/UCL-CCS/symmer/issues/138",
         "value": 200
@@ -1479,7 +1470,7 @@
     "emoji": "\ud83e\udd58\ud83d\udd25",
     "name": "Symmer",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/UCL-CCS/symmer"
   },

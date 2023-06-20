@@ -77,16 +77,36 @@
         "title": "Forum for solutions",
         "project": "qecft",
         "value": 225
-      },
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 225
+  },
+  {
+    "username": "AngeloDanducci",
+    "bounties": [
       {
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1633",
-        "title": "Aer documentation says IBMQ not IBM Quantum",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1805",
+        "title": "Remove `PulseSimulator`",
+        "project": "qiskit-aer",
+        "value": 180
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 180
+  },
+  {
+    "username": "tungbq",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1807",
+        "title": "Remove Python 3.7 from Github actions",
         "project": "qiskit-aer",
         "value": 80
       }
     ],
-    "num_projects": 2,
-    "total_value": 305
+    "num_projects": 1,
+    "total_value": 80
   },
   {
     "username": "davidlearn",
@@ -161,6 +181,44 @@
     ],
     "num_projects": 5,
     "total_value": 605
+  },
+  {
+    "username": "TerraVenil",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
+        "title": "Some typos in qiskit_aer.AerSimulator docs",
+        "project": "qiskit-aer",
+        "value": 80
+      },
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/235",
+        "title": "Add result statistics on measurement outcomes in QAOAResult object",
+        "project": "openqaoa",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/233",
+        "title": "Prevent double authentication while using `openqaoa-azure`",
+        "project": "openqaoa",
+        "value": 60
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 240
+  },
+  {
+    "username": "Innanov",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
+        "title": "Some typos in qiskit_aer.AerSimulator docs",
+        "project": "qiskit-aer",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
   },
   {
     "username": "mmlouamri",
@@ -570,6 +628,19 @@
     "total_value": 100
   },
   {
+    "username": "s-aldaihan",
+    "bounties": [
+      {
+        "url": "https://github.com/UCL-CCS/symmer/issues/138",
+        "title": "unitaryHACK #2: Optimization of MPO construction",
+        "project": "symmer",
+        "value": 200
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
+  },
+  {
     "username": "teng10",
     "bounties": [
       {
@@ -764,6 +835,25 @@
     "total_value": 50
   },
   {
+    "username": "maxwell04-wq",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-terra/issues/9031",
+        "title": "Update plot_gate_map (and related visualization functions) to leverage rustworkx.visualization.graphviz_draw for unknown coupling maps",
+        "project": "qiskit-terra",
+        "value": 150
+      },
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1390",
+        "title": "Update Gradient Framework tutorial to use primitives",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 300
+  },
+  {
     "username": "huckstar",
     "bounties": [
       {
@@ -803,19 +893,6 @@
     "total_value": 150
   },
   {
-    "username": "maxwell04-wq",
-    "bounties": [
-      {
-        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1390",
-        "title": "Update Gradient Framework tutorial to use primitives",
-        "project": "qiskit-terra",
-        "value": 150
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 150
-  },
-  {
     "username": "lumapools",
     "bounties": [
       {
@@ -840,25 +917,6 @@
     ],
     "num_projects": 1,
     "total_value": 60
-  },
-  {
-    "username": "TerraVenil",
-    "bounties": [
-      {
-        "url": "https://github.com/entropicalabs/openqaoa/issues/235",
-        "title": "Add result statistics on measurement outcomes in QAOAResult object",
-        "project": "openqaoa",
-        "value": 100
-      },
-      {
-        "url": "https://github.com/entropicalabs/openqaoa/issues/233",
-        "title": "Prevent double authentication while using `openqaoa-azure`",
-        "project": "openqaoa",
-        "value": 60
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 160
   },
   {
     "username": "AlexisRalli",
