@@ -99,7 +99,7 @@ for project, data in projects.items():
                         "url": bounty["url"],
                         "title": bounty["title"],
                         "project": project,
-                        "value": bounty["value"] / len(bounty["assignees"]),
+                        "value": int(bounty["value"] / len(bounty["assignees"])),
                     }
                 )
 
