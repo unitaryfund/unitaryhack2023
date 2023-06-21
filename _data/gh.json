@@ -13,8 +13,8 @@
       },
       {
         "assignees": [
-          "golanor",
-          "Aaron-Robertson"
+          "Aaron-Robertson",
+          "golanor"
         ],
         "state": "open",
         "title": "Ocean for Analog Hamiltonian Simulation",
@@ -91,8 +91,8 @@
       },
       {
         "assignees": [
-          "Roger-luo",
-          "GiggleLiu"
+          "GiggleLiu",
+          "Roger-luo"
         ],
         "state": "open",
         "title": "allow changing default color scheme via perferences for Lattices and other plots",
@@ -148,8 +148,8 @@
     "bounties": [
       {
         "assignees": [
-          "ErikQQY",
-          "aryanguptaaa"
+          "aryanguptaaa",
+          "ErikQQY"
         ],
         "state": "open",
         "title": "Highlight executor args/kwargs in the docs",
@@ -424,8 +424,8 @@
       },
       {
         "assignees": [
-          "ACE07-Sev",
-          "WingCode"
+          "WingCode",
+          "ACE07-Sev"
         ],
         "state": "closed",
         "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
@@ -553,8 +553,8 @@
     "bounties": [
       {
         "assignees": [
-          "GiacomoFrn",
-          "lumapools"
+          "lumapools",
+          "GiacomoFrn"
         ],
         "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
@@ -1106,8 +1106,8 @@
       },
       {
         "assignees": [
-          "urihan",
-          "dakk"
+          "dakk",
+          "urihan"
         ],
         "state": "closed",
         "title": "Updates for Qiskit to Braket circuit conversion",
@@ -1116,9 +1116,9 @@
       },
       {
         "assignees": [
-          "ogunsegun",
+          "WingCode",
           "DarthRevan07",
-          "WingCode"
+          "ogunsegun"
         ],
         "state": "closed",
         "title": "Enable (some) transpilation with Braket",
@@ -1173,9 +1173,9 @@
       },
       {
         "assignees": [
-          "ruijterj",
+          "rum1887",
           "s-aldaihan",
-          "rum1887"
+          "ruijterj"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1204,9 +1204,9 @@
       },
       {
         "assignees": [
-          "ichen17",
           "huckstar",
-          "wenxh0718"
+          "wenxh0718",
+          "ichen17"
         ],
         "state": "closed",
         "title": "Add a Variational Quantum Time Evolution Tutorial",
@@ -1278,8 +1278,8 @@
       },
       {
         "assignees": [
-          "DarthRevan07",
-          "niranjannagumalli"
+          "niranjannagumalli",
+          "DarthRevan07"
         ],
         "state": "open",
         "title": "Trevisan\u2019s extractor",
@@ -1428,8 +1428,8 @@
       },
       {
         "assignees": [
-          "petergthatsme",
-          "D3vanagar1"
+          "D3vanagar1",
+          "petergthatsme"
         ],
         "state": "open",
         "title": "Benchmarking the performance of scqubits between releases",
@@ -1571,8 +1571,8 @@
       },
       {
         "assignees": [
-          "Micheallscarn",
-          "dtlics"
+          "dtlics",
+          "Micheallscarn"
         ],
         "state": "closed",
         "title": "support more gradient estimation methods",
@@ -1581,9 +1581,9 @@
       },
       {
         "assignees": [
+          "dhanvi-bharadwaj",
           "pandey-tushar",
-          "bopardikarsoham",
-          "dhanvi-bharadwaj"
+          "bopardikarsoham"
         ],
         "state": "closed",
         "title": "add supports for more basic operations and layers",
@@ -1592,9 +1592,9 @@
       },
       {
         "assignees": [
+          "josephtedds",
           "MihirsinhChauhan",
-          "denvitko",
-          "josephtedds"
+          "denvitko"
         ],
         "state": "closed",
         "title": "enhance the documentations and tests",
