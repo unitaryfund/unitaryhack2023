@@ -19,6 +19,7 @@ bounties:
   - issue_num: 76
     value: 75
     repo: AgnostiqHQ/covalent-awsbatch-plugin
+    assignee: WingCode
   - issue_num: 71
     value: 75
     repo: AgnostiqHQ/covalent-braket-plugin

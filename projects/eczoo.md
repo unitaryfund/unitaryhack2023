@@ -16,6 +16,7 @@ bounties:
   - issue_num: 47
     value: 200
     state: closed
+    assignee: kvathupo
   - issue_num: 228
     value: 50
   - issue_num: 223
