@@ -13,8 +13,8 @@
       },
       {
         "assignees": [
-          "Aaron-Robertson",
-          "golanor"
+          "golanor",
+          "Aaron-Robertson"
         ],
         "state": "open",
         "title": "Ocean for Analog Hamiltonian Simulation",
@@ -89,8 +89,8 @@
       },
       {
         "assignees": [
-          "GiggleLiu",
-          "Roger-luo"
+          "Roger-luo",
+          "GiggleLiu"
         ],
         "state": "open",
         "title": "allow changing default color scheme via perferences for Lattices and other plots",
@@ -173,7 +173,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "state": "closed",
         "title": "Support task cancellation",
         "url": "https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71",
@@ -181,8 +183,8 @@
       },
       {
         "assignees": [
-          "akshitjohry",
-          "athanzxyt"
+          "athanzxyt",
+          "akshitjohry"
         ],
         "state": "open",
         "title": "`@ct.lattice(@ct.electron)` seems to change function scope",
@@ -549,8 +551,8 @@
     "bounties": [
       {
         "assignees": [
-          "GiacomoFrn",
-          "lumapools"
+          "lumapools",
+          "GiacomoFrn"
         ],
         "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
@@ -1102,8 +1104,8 @@
       },
       {
         "assignees": [
-          "dakk",
-          "urihan"
+          "urihan",
+          "dakk"
         ],
         "state": "closed",
         "title": "Updates for Qiskit to Braket circuit conversion",
@@ -1170,8 +1172,8 @@
       {
         "assignees": [
           "rum1887",
-          "ruijterj",
-          "s-aldaihan"
+          "s-aldaihan",
+          "ruijterj"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1201,8 +1203,8 @@
       {
         "assignees": [
           "wenxh0718",
-          "huckstar",
-          "ichen17"
+          "ichen17",
+          "huckstar"
         ],
         "state": "closed",
         "title": "Add a Variational Quantum Time Evolution Tutorial",
@@ -1510,8 +1512,8 @@
       },
       {
         "assignees": [
-          "smtsjhr",
-          "Newtech66"
+          "Newtech66",
+          "smtsjhr"
         ],
         "state": "closed",
         "title": "Feature: Is UPB (unextendible product basis)",
@@ -1579,8 +1581,8 @@
       },
       {
         "assignees": [
-          "pandey-tushar",
           "dhanvi-bharadwaj",
+          "pandey-tushar",
           "bopardikarsoham"
         ],
         "state": "closed",

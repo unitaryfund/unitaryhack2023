@@ -391,10 +391,16 @@
         "title": "Support task cancellation",
         "project": "covalent",
         "value": 75
+      },
+      {
+        "url": "https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71",
+        "title": "Support task cancellation",
+        "project": "covalent",
+        "value": 75
       }
     ],
     "num_projects": 5,
-    "total_value": 1005
+    "total_value": 1080
   },
   {
     "username": "AVDiv",
@@ -873,19 +879,6 @@
     "total_value": 150
   },
   {
-    "username": "huckstar",
-    "bounties": [
-      {
-        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
-        "title": "Add a Variational Quantum Time Evolution Tutorial",
-        "project": "qiskit-terra",
-        "value": 150
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 150
-  },
-  {
     "username": "ichen17",
     "bounties": [
       {
@@ -899,7 +892,20 @@
     "total_value": 150
   },
   {
-    "username": "GiacomoFrn",
+    "username": "huckstar",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
+    "username": "lumapools",
     "bounties": [
       {
         "url": "https://github.com/entropicalabs/openqaoa/issues/234",
@@ -912,7 +918,7 @@
     "total_value": 60
   },
   {
-    "username": "lumapools",
+    "username": "GiacomoFrn",
     "bounties": [
       {
         "url": "https://github.com/entropicalabs/openqaoa/issues/234",
@@ -1106,7 +1112,7 @@
     "total_value": 100
   },
   {
-    "username": "pandey-tushar",
+    "username": "dhanvi-bharadwaj",
     "bounties": [
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
@@ -1119,7 +1125,7 @@
     "total_value": 100
   },
   {
-    "username": "dhanvi-bharadwaj",
+    "username": "pandey-tushar",
     "bounties": [
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/134",
