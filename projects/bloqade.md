@@ -15,6 +15,8 @@ bounties:
     value: 25
   - issue_num: 375
     value: 25
+    assignee: manulpatel
+    state: closed
   - issue_num: 372
     value: 100
   - issue_num: 371
