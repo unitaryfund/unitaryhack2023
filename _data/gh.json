@@ -58,7 +58,9 @@
         "value": 25
       },
       {
-        "assignees": [],
+        "assignees": [
+          "manulpatel"
+        ],
         "state": "closed",
         "title": "[Feature Request] CompatHelper",
         "url": "https://github.com/QuEraComputing/Bloqade.jl/issues/375",
@@ -146,8 +148,8 @@
     "bounties": [
       {
         "assignees": [
-          "aryanguptaaa",
-          "ErikQQY"
+          "ErikQQY",
+          "aryanguptaaa"
         ],
         "state": "open",
         "title": "Highlight executor args/kwargs in the docs",
@@ -551,8 +553,8 @@
     "bounties": [
       {
         "assignees": [
-          "lumapools",
-          "GiacomoFrn"
+          "GiacomoFrn",
+          "lumapools"
         ],
         "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
@@ -1114,9 +1116,9 @@
       },
       {
         "assignees": [
+          "ogunsegun",
           "DarthRevan07",
-          "WingCode",
-          "ogunsegun"
+          "WingCode"
         ],
         "state": "closed",
         "title": "Enable (some) transpilation with Braket",
@@ -1171,9 +1173,9 @@
       },
       {
         "assignees": [
-          "rum1887",
+          "ruijterj",
           "s-aldaihan",
-          "ruijterj"
+          "rum1887"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1202,9 +1204,9 @@
       },
       {
         "assignees": [
-          "wenxh0718",
           "ichen17",
-          "huckstar"
+          "huckstar",
+          "wenxh0718"
         ],
         "state": "closed",
         "title": "Add a Variational Quantum Time Evolution Tutorial",
@@ -1276,8 +1278,8 @@
       },
       {
         "assignees": [
-          "niranjannagumalli",
-          "DarthRevan07"
+          "DarthRevan07",
+          "niranjannagumalli"
         ],
         "state": "open",
         "title": "Trevisan\u2019s extractor",
@@ -1398,8 +1400,8 @@
     "bounties": [
       {
         "assignees": [
-          "Algh89110377",
-          "KevinJoven11"
+          "KevinJoven11",
+          "Algh89110377"
         ],
         "state": "closed",
         "title": "Short tutorial video on using scqubits",
@@ -1446,9 +1448,7 @@
     "amount_available": 200,
     "bounties": [
       {
-        "assignees": [
-          "Nizdew"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "unitaryHACK #1: Faster to_sparse_matrix method",
         "url": "https://github.com/UCL-CCS/symmer/issues/137",
@@ -1456,7 +1456,7 @@
       },
       {
         "assignees": [
-          "s-aldaihan"
+          "adilnaut"
         ],
         "state": "closed",
         "title": "unitaryHACK #2: Optimization of MPO construction",
@@ -1551,9 +1551,9 @@
     "bounties": [
       {
         "assignees": [
-          "YuNariai",
           "bopardikarsoham",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "YuNariai"
         ],
         "state": "closed",
         "title": "add support for more quantum algorithms",
@@ -1581,9 +1581,9 @@
       },
       {
         "assignees": [
-          "dhanvi-bharadwaj",
           "pandey-tushar",
-          "bopardikarsoham"
+          "bopardikarsoham",
+          "dhanvi-bharadwaj"
         ],
         "state": "closed",
         "title": "add supports for more basic operations and layers",
@@ -1592,9 +1592,9 @@
       },
       {
         "assignees": [
-          "josephtedds",
           "MihirsinhChauhan",
-          "denvitko"
+          "denvitko",
+          "josephtedds"
         ],
         "state": "closed",
         "title": "enhance the documentations and tests",
