@@ -22,6 +22,7 @@ bounties:
     assignee: WingCode
   - issue_num: 71
     value: 75
+    assignee: WingCode
     repo: AgnostiqHQ/covalent-braket-plugin
   - issue_num: 1643
     value: 125
