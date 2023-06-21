@@ -13,8 +13,8 @@
       },
       {
         "assignees": [
-          "golanor",
-          "Aaron-Robertson"
+          "Aaron-Robertson",
+          "golanor"
         ],
         "state": "open",
         "title": "Ocean for Analog Hamiltonian Simulation",
@@ -142,12 +142,12 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "covalent": {
-    "amount_available": 375,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
-          "ErikQQY",
-          "aryanguptaaa"
+          "aryanguptaaa",
+          "ErikQQY"
         ],
         "state": "open",
         "title": "Highlight executor args/kwargs in the docs",
@@ -164,7 +164,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "state": "closed",
         "title": "Support task cancellation",
         "url": "https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76",
@@ -172,7 +174,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Support task cancellation",
         "url": "https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71",
         "value": 75
@@ -198,7 +200,7 @@
     "emoji": "\ud83d\udd00\u2601\ufe0f",
     "name": "Covalent",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/AgnostiqHQ/covalent"
   },
@@ -215,7 +217,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "kvathupo"
+        ],
         "state": "closed",
         "title": "Find unlinked code names and attach links to them",
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47",
@@ -416,8 +420,8 @@
       },
       {
         "assignees": [
-          "WingCode",
-          "ACE07-Sev"
+          "ACE07-Sev",
+          "WingCode"
         ],
         "state": "closed",
         "title": "UnitaryHACK: Replace unknown words in diagrams with `UNK` token",
@@ -545,8 +549,8 @@
     "bounties": [
       {
         "assignees": [
-          "lumapools",
-          "GiacomoFrn"
+          "GiacomoFrn",
+          "lumapools"
         ],
         "state": "closed",
         "title": "Expose brute force solver through OpenQAOA workflows",
@@ -1032,8 +1036,8 @@
       },
       {
         "assignees": [
-          "TerraVenil",
-          "Innanov"
+          "Innanov",
+          "TerraVenil"
         ],
         "state": "closed",
         "title": "Some typos in qiskit_aer.AerSimulator docs",
@@ -1108,9 +1112,9 @@
       },
       {
         "assignees": [
+          "DarthRevan07",
           "WingCode",
-          "ogunsegun",
-          "DarthRevan07"
+          "ogunsegun"
         ],
         "state": "closed",
         "title": "Enable (some) transpilation with Braket",
@@ -1137,8 +1141,8 @@
       },
       {
         "assignees": [
-          "ogunsegun",
-          "SimoneGasperini"
+          "SimoneGasperini",
+          "ogunsegun"
         ],
         "state": "open",
         "title": "Create Qiskit `QuantumCircuit` from Braket `Circuit` objects",
@@ -1165,8 +1169,8 @@
       },
       {
         "assignees": [
-          "ruijterj",
           "rum1887",
+          "ruijterj",
           "s-aldaihan"
         ],
         "state": "open",
@@ -1196,9 +1200,9 @@
       },
       {
         "assignees": [
+          "wenxh0718",
           "huckstar",
-          "ichen17",
-          "wenxh0718"
+          "ichen17"
         ],
         "state": "closed",
         "title": "Add a Variational Quantum Time Evolution Tutorial",
@@ -1545,9 +1549,9 @@
     "bounties": [
       {
         "assignees": [
-          "Gopal-Dahale",
+          "YuNariai",
           "bopardikarsoham",
-          "YuNariai"
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "add support for more quantum algorithms",
@@ -1565,8 +1569,8 @@
       },
       {
         "assignees": [
-          "dtlics",
-          "Micheallscarn"
+          "Micheallscarn",
+          "dtlics"
         ],
         "state": "closed",
         "title": "support more gradient estimation methods",
@@ -1576,8 +1580,8 @@
       {
         "assignees": [
           "pandey-tushar",
-          "bopardikarsoham",
-          "dhanvi-bharadwaj"
+          "dhanvi-bharadwaj",
+          "bopardikarsoham"
         ],
         "state": "closed",
         "title": "add supports for more basic operations and layers",
@@ -1586,9 +1590,9 @@
       },
       {
         "assignees": [
-          "denvitko",
           "josephtedds",
-          "MihirsinhChauhan"
+          "MihirsinhChauhan",
+          "denvitko"
         ],
         "state": "closed",
         "title": "enhance the documentations and tests",

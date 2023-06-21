@@ -183,6 +183,19 @@
     "total_value": 605
   },
   {
+    "username": "Innanov",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
+        "title": "Some typos in qiskit_aer.AerSimulator docs",
+        "project": "qiskit-aer",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
+  },
+  {
     "username": "TerraVenil",
     "bounties": [
       {
@@ -206,19 +219,6 @@
     ],
     "num_projects": 2,
     "total_value": 240
-  },
-  {
-    "username": "Innanov",
-    "bounties": [
-      {
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/1611",
-        "title": "Some typos in qiskit_aer.AerSimulator docs",
-        "project": "qiskit-aer",
-        "value": 80
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 80
   },
   {
     "username": "mmlouamri",
@@ -385,10 +385,16 @@
         "title": "Determine if covalent subprocess starts successfully",
         "project": "covalent",
         "value": 50
+      },
+      {
+        "url": "https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76",
+        "title": "Support task cancellation",
+        "project": "covalent",
+        "value": 75
       }
     ],
     "num_projects": 5,
-    "total_value": 930
+    "total_value": 1005
   },
   {
     "username": "AVDiv",
@@ -531,7 +537,7 @@
     "total_value": 50
   },
   {
-    "username": "ogunsegun",
+    "username": "DarthRevan07",
     "bounties": [
       {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
@@ -544,7 +550,7 @@
     "total_value": 500
   },
   {
-    "username": "DarthRevan07",
+    "username": "ogunsegun",
     "bounties": [
       {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
@@ -854,6 +860,19 @@
     "total_value": 300
   },
   {
+    "username": "wenxh0718",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
+        "title": "Add a Variational Quantum Time Evolution Tutorial",
+        "project": "qiskit-terra",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
     "username": "huckstar",
     "bounties": [
       {
@@ -880,20 +899,7 @@
     "total_value": 150
   },
   {
-    "username": "wenxh0718",
-    "bounties": [
-      {
-        "url": "https://github.com/qiskit/qiskit-tutorials/issues/1391",
-        "title": "Add a Variational Quantum Time Evolution Tutorial",
-        "project": "qiskit-terra",
-        "value": 150
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 150
-  },
-  {
-    "username": "lumapools",
+    "username": "GiacomoFrn",
     "bounties": [
       {
         "url": "https://github.com/entropicalabs/openqaoa/issues/234",
@@ -906,7 +912,7 @@
     "total_value": 60
   },
   {
-    "username": "GiacomoFrn",
+    "username": "lumapools",
     "bounties": [
       {
         "url": "https://github.com/entropicalabs/openqaoa/issues/234",
@@ -937,6 +943,19 @@
       {
         "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/296",
         "title": "Generate all ancestors of a given code",
+        "project": "eczoo_data",
+        "value": 200
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
+  },
+  {
+    "username": "kvathupo",
+    "bounties": [
+      {
+        "url": "https://github.com/errorcorrectionzoo/eczoo_data/issues/47",
+        "title": "Find unlinked code names and attach links to them",
         "project": "eczoo_data",
         "value": 200
       }
@@ -1061,7 +1080,7 @@
     "total_value": 100
   },
   {
-    "username": "dtlics",
+    "username": "Micheallscarn",
     "bounties": [
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
@@ -1074,7 +1093,7 @@
     "total_value": 100
   },
   {
-    "username": "Micheallscarn",
+    "username": "dtlics",
     "bounties": [
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/133",
@@ -1113,19 +1132,6 @@
     "total_value": 100
   },
   {
-    "username": "denvitko",
-    "bounties": [
-      {
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
-        "title": "enhance the documentations and tests",
-        "project": "torchquantum",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
-  },
-  {
     "username": "josephtedds",
     "bounties": [
       {
@@ -1140,6 +1146,19 @@
   },
   {
     "username": "MihirsinhChauhan",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
+        "title": "enhance the documentations and tests",
+        "project": "torchquantum",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "denvitko",
     "bounties": [
       {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
