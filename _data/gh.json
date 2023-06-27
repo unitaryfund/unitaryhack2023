@@ -1640,7 +1640,7 @@
     "url": "https://github.com/QuantumBFS/Yao.jl"
   },
   "zxlive": {
-    "amount_available": 100,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -1670,8 +1670,10 @@
         "value": 75
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "mark-koch"
+        ],
+        "state": "closed",
         "title": "Code organisation",
         "url": "https://github.com/Quantomatic/zxlive/issues/10",
         "value": 100
