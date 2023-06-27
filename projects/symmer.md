@@ -14,6 +14,7 @@ tags:
 bounties:
   - issue_num: 137
     value: 200
+    state: open
   - issue_num: 138
     value: 200
   - issue_num: 139

@@ -22,6 +22,8 @@ bounties:
     value: 75
   - issue_num: 10
     value: 100
+    state: closed
+    assignee: mark-koch
 ---
 
 The ZX calculus gives us a handy way to represent and work with quantum computations. ZX Live is an interactive tool for working with ZX. Draw graphs or load circuits and apply ZX rules. Intended for experimenting, building proofs, helping to write papers, showing off, or simply learning about ZX and quantum computing. It is powered by the PyZX open source library under the hood.

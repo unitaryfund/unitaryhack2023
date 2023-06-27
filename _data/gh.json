@@ -1116,9 +1116,7 @@
       },
       {
         "assignees": [
-          "WingCode",
-          "DarthRevan07",
-          "ogunsegun"
+          "WingCode"
         ],
         "state": "closed",
         "title": "Enable (some) transpilation with Braket",
@@ -1682,7 +1680,7 @@
     "emoji": "\ud83d\udd77\ufe0f\ud83c\udfa5",
     "name": "ZX Live",
     "num_bounties": 4,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/Quantomatic/zxlive"
   }
