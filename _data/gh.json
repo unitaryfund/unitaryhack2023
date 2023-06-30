@@ -1057,7 +1057,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 510,
+    "amount_available": 410,
     "bounties": [
       {
         "assignees": [
@@ -1090,7 +1090,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Tests: mock tests for cloud devices",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19",
         "value": 100
@@ -1184,7 +1184,7 @@
     "emoji": "\ud83d\ude18\u2601\ufe0f",
     "name": "Qiskit Braket Provider",
     "num_bounties": 13,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 1745,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1579,7 +1579,7 @@
       },
       {
         "assignees": [
-          "dhanvi-bharadwaj",
+          "d-bharadwaj",
           "pandey-tushar",
           "bopardikarsoham"
         ],
@@ -1590,7 +1590,6 @@
       },
       {
         "assignees": [
-          "josephtedds",
           "MihirsinhChauhan",
           "denvitko"
         ],

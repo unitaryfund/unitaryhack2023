@@ -140,6 +140,12 @@
         "value": 50
       },
       {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/19",
+        "title": "Tests: mock tests for cloud devices",
+        "project": "qiskit-braket-provider",
+        "value": 100
+      },
+      {
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/91",
         "title": "Enable (some) transpilation with Braket",
         "project": "qiskit-braket-provider",
@@ -159,7 +165,7 @@
       }
     ],
     "num_projects": 5,
-    "total_value": 1030
+    "total_value": 1130
   },
   {
     "username": "maxwell04-wq",
@@ -599,24 +605,11 @@
         "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
         "title": "enhance the documentations and tests",
         "project": "torchquantum",
-        "value": 33
+        "value": 50
       }
     ],
     "num_projects": 1,
-    "total_value": 33
-  },
-  {
-    "username": "josephtedds",
-    "bounties": [
-      {
-        "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
-        "title": "enhance the documentations and tests",
-        "project": "torchquantum",
-        "value": 33
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 33
+    "total_value": 50
   },
   {
     "username": "MihirsinhChauhan",
@@ -625,11 +618,11 @@
         "url": "https://github.com/mit-han-lab/torchquantum/issues/135",
         "title": "enhance the documentations and tests",
         "project": "torchquantum",
-        "value": 33
+        "value": 50
       }
     ],
     "num_projects": 1,
-    "total_value": 33
+    "total_value": 50
   },
   {
     "username": "Aaron-Robertson",
