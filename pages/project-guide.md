@@ -23,7 +23,7 @@ We have some outlines below for what you can expect before and during the event,
 >   - Give a short intro about your project
 > - ~~**May 19th**: Maintainers submit bounties for finalization~~
 > - ~~**June 13th**: unitaryHACK closes~~
-> - **June 20th**: Awardees finalized
+> - ~~**June 20th**: Awardees finalized~~
 
 ## ⌚ Before the Hack ⌚
 

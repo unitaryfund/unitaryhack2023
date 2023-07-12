@@ -15,7 +15,7 @@ No matter your experience in quantum tech or open source communities, **you** ca
 > - ASAP: [Sign up](https://airtable.com/shrKvcL9mtkuWJmg6) for unitaryHACK!
 > - ~~May 24th: unitaryHACK Q&Q event on [Discord](http://discord.unitary.fund/).~~
 > - ~~June 13th: Final day to submit your pull requests!~~
-> - June 20th: Awardees finalized.
+> - ~~June 20th: Awardees finalized.~~
 
 ## ⌚ Before the Hack ⌚
 
@@ -64,4 +64,4 @@ If your pull request is accepted, in order for our bots to find it you'll need t
 
 ## 🎉 After the Hack 🎉
 
-If you claimed any bounties we will be in touch via email to coordinate payment, so please make sure you [sign up]({{ '/signup/' | url }}) so we can connect your GitHub username to your contact info!
+If you claimed any bounties we will be in touch via email to coordinate payment, so please make sure you sign up so we can connect your GitHub username to your contact info!
